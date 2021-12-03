@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="33096018-944e-491e-9a1a-d37469c7dce1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/workflows/generate_readme.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/generate_readme.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +93,7 @@
       <option name="presentableId" value="Default" />
       <updated>1638427383872</updated>
       <workItem from="1638427393705" duration="6934000" />
-      <workItem from="1638442810449" duration="2991000" />
+      <workItem from="1638442810449" duration="3608000" />
     </task>
     <task id="LOCAL-00001" summary="delete">
       <created>1638442264179</created>
@@ -103,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638442264180</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="delete">
+      <created>1638445809353</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1638445809353</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,10 +132,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="441" y="0" width="671" height="824" key="#main/0.0.1536.824@0.0.1536.824" timestamp="1638427480535" />
-    <state x="158" y="0" key="CommitChangelistDialog2" timestamp="1638442262946">
+    <state x="127" y="0" key="CommitChangelistDialog2" timestamp="1638494022832">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="158" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1638442262946" />
+    <state x="127" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1638494022832" />
     <state width="914" height="546" key="DebuggerActiveHint" timestamp="1638445653216">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
