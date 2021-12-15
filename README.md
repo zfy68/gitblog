@@ -5,11 +5,11 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 | Name | Link | Desc | 
  | ---- | ---- | ---- |
 ## 最近更新
+- [论劳动工资](https://github.com/zfy68/gitblog/issues/12)--2021-12-15
 - [Log4j RCE 凑个热闹](https://github.com/zfy68/gitblog/issues/11)--2021-12-10
 - [走向地铁口的四连问？](https://github.com/zfy68/gitblog/issues/10)--2021-12-09
 - [clash注册](https://github.com/zfy68/gitblog/issues/9)--2021-12-06
 - [KMS激活工具](https://github.com/zfy68/gitblog/issues/8)--2021-12-06
-- [痛苦的时候，就是成长的时候](https://github.com/zfy68/gitblog/issues/7)--2021-12-04
 ## 2018
 - [刚毕业的的我](https://github.com/zfy68/gitblog/issues/4)--2021-12-03
 ## 2019
@@ -25,3 +25,5 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 ## tool
 - [clash注册](https://github.com/zfy68/gitblog/issues/9)--2021-12-06
 - [KMS激活工具](https://github.com/zfy68/gitblog/issues/8)--2021-12-06
+## 读书笔记
+- [论劳动工资](https://github.com/zfy68/gitblog/issues/12)--2021-12-15
