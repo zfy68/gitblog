@@ -5,11 +5,11 @@ My personal blog using issues and GitHub Actions
 | Name | Link | Desc | 
  | ---- | ---- | ---- |
 ## 最近更新
+- [新能源](https://github.com/zfy68/gitblog/issues/14)--2021-12-24
 - [论资本利润](https://github.com/zfy68/gitblog/issues/13)--2021-12-21
 - [论劳动工资](https://github.com/zfy68/gitblog/issues/12)--2021-12-15
 - [Log4j RCE 凑个热闹](https://github.com/zfy68/gitblog/issues/11)--2021-12-10
 - [走向地铁口的四连问？](https://github.com/zfy68/gitblog/issues/10)--2021-12-09
-- [clash注册](https://github.com/zfy68/gitblog/issues/9)--2021-12-06
 ## 2018
 - [刚毕业的的我](https://github.com/zfy68/gitblog/issues/4)--2021-12-03
 ## 2019
