@@ -5,11 +5,11 @@ My personal blog using issues and GitHub Actions
 | Name | Link | Desc | 
  | ---- | ---- | ---- |
 ## 最近更新
+- [2022.1.1 爬山](https://github.com/zfy68/gitblog/issues/18)--2022-01-01
 - [工资和利润，论劳动和资本的可用途不同而不同（上）](https://github.com/zfy68/gitblog/issues/17)--2021-12-28
 - [12.28 change](https://github.com/zfy68/gitblog/issues/16)--2021-12-28
 - [merry Christmas today](https://github.com/zfy68/gitblog/issues/15)--2021-12-25
 - [新能源](https://github.com/zfy68/gitblog/issues/14)--2021-12-24
-- [论资本利润](https://github.com/zfy68/gitblog/issues/13)--2021-12-21
 ## 2018
 - [刚毕业的的我](https://github.com/zfy68/gitblog/issues/4)--2021-12-03
 ## 2019
