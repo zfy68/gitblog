@@ -4,6 +4,7 @@ My personal blog using issues and GitHub Actions
 ## 友情链接
 | Name | Link | Desc | 
  | ---- | ---- | ---- |
+ | 扶墙老师 | https://afoo.me/books.html | 一个架构士的思考与沉淀 |
 ## 最近更新
 - [ToB 和ToC 产品](https://github.com/zfy68/gitblog/issues/19)--2022-01-10
 - [新年第一天-徒步爬山13公里](https://github.com/zfy68/gitblog/issues/18)--2022-01-01
