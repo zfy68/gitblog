@@ -21,6 +21,9 @@ ToC users are individuals and ToB users are groups.
 
 ---
 
+[https://www.wiseasy.com/tob-toc-how-to-do-brand-marketing/](https://www.wiseasy.com/tob-toc-how-to-do-brand-marketing/)
+
+翻译如下：
 toB的全称是To Business，即针对商家（一般指企业）的产品。
 
 toC的全称是To Customer，即产品给消费者（一般指用户）。
