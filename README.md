@@ -4,6 +4,7 @@ My personal blog using issues and GitHub Actions
 ## 友情链接
 | Name | Link | Desc | 
  | ---- | ---- | ---- |
+ | @yihong0618 | https://github.com/yihong0618 | gitblog founder |
 ## 最近更新
 - [科技创新让生活更美好？](https://github.com/zfy68/gitblog/issues/21)--2022-01-10
 - [2021年述职汇报](https://github.com/zfy68/gitblog/issues/20)--2022-01-10
