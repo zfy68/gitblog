@@ -4,13 +4,12 @@ My personal blog using issues and GitHub Actions
 ## 友情链接
 | Name | Link | Desc | 
  | ---- | ---- | ---- |
- | @yihong0618 | https://github.com/yihong0618 | gitblog founder |
 ## 最近更新
+- [为什么不用Docker？](https://github.com/zfy68/gitblog/issues/22)--2022-01-14
 - [科技创新让生活更美好？](https://github.com/zfy68/gitblog/issues/21)--2022-01-10
 - [2021年述职汇报](https://github.com/zfy68/gitblog/issues/20)--2022-01-10
 - [ToB 和ToC 产品](https://github.com/zfy68/gitblog/issues/19)--2022-01-10
 - [新年第一天-徒步爬山13公里](https://github.com/zfy68/gitblog/issues/18)--2022-01-01
-- [工资和利润，论劳动和资本的可用途不同而不同（上）](https://github.com/zfy68/gitblog/issues/17)--2021-12-28
 ## 2018
 - [刚毕业的的我](https://github.com/zfy68/gitblog/issues/4)--2021-12-03
 ## 2019
@@ -29,6 +28,8 @@ My personal blog using issues and GitHub Actions
 </details>
 
 ## 2022
+- [为什么不用Docker？](https://github.com/zfy68/gitblog/issues/22)--2022-01-14
+- [科技创新让生活更美好？](https://github.com/zfy68/gitblog/issues/21)--2022-01-10
 - [ToB 和ToC 产品](https://github.com/zfy68/gitblog/issues/19)--2022-01-10
 - [新年第一天-徒步爬山13公里](https://github.com/zfy68/gitblog/issues/18)--2022-01-01
 ## tool
