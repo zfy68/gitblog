@@ -4,6 +4,8 @@ My personal blog using issues and GitHub Actions
 ## 友情链接
 | Name | Link | Desc | 
  | ---- | ---- | ---- |
+ | Paxos | https://www.modb.pro/u/312996 | 高质量内容 |
+
 ## 最近更新
 - [为什么不用Docker？](https://github.com/zfy68/gitblog/issues/22)--2022-01-14
 - [科技创新让生活更美好？](https://github.com/zfy68/gitblog/issues/21)--2022-01-10
