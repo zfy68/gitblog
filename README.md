@@ -5,6 +5,7 @@ My personal blog using issues and GitHub Actions
 | Name | Link | Desc | 
  | ---- | ---- | ---- |
 | yihong0618 | https://github.com/yihong0618 | gitlog founder |
+| Paxos | https://www.modb.pro/u/312996 | 优质内容 |
 ## 最近更新
 - [友情链接](https://github.com/zfy68/gitblog/issues/24)--2022-01-17
 - [RabbitMQ Consumer source code ](https://github.com/zfy68/gitblog/issues/23)--2022-01-17
