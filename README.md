@@ -5,11 +5,11 @@ My personal blog using issues and GitHub Actions
 | Name | Link | Desc | 
  | ---- | ---- | ---- |
 ## 最近更新
+- [友情链接](https://github.com/zfy68/gitblog/issues/24)--2022-01-17
 - [RabbitMQ Consumer source code ](https://github.com/zfy68/gitblog/issues/23)--2022-01-17
 - [为什么不用Docker？](https://github.com/zfy68/gitblog/issues/22)--2022-01-14
 - [科技创新让生活更美好？](https://github.com/zfy68/gitblog/issues/21)--2022-01-10
 - [2021年述职汇报](https://github.com/zfy68/gitblog/issues/20)--2022-01-10
-- [ToB 和ToC 产品](https://github.com/zfy68/gitblog/issues/19)--2022-01-10
 ## 2018
 - [刚毕业的的我](https://github.com/zfy68/gitblog/issues/4)--2021-12-03
 ## 2019
