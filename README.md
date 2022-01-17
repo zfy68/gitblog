@@ -4,6 +4,7 @@ My personal blog using issues and GitHub Actions
 ## 友情链接
 | Name | Link | Desc | 
  | ---- | ---- | ---- |
+| yihong0618 | https://github.com/yihong0618 | gitlog founder |
 ## 最近更新
 - [友情链接](https://github.com/zfy68/gitblog/issues/24)--2022-01-17
 - [RabbitMQ Consumer source code ](https://github.com/zfy68/gitblog/issues/23)--2022-01-17
