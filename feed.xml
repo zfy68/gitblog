@@ -1,13 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/zfy68/gitblog</id><title>RSS feed of zfy68's gitblog</title><updated>2022-01-20T06:10:18.460918+00:00</updated><author><name>zfy68</name><email>dangjinh@163.com</email></author><link href="https://github.com/zfy68/gitblog"/><link href="https://raw.githubusercontent.com/zfy68/gitblog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/zfy68/gitblog/issues/24</id><title>友情链接</title><updated>2022-01-20T06:10:18.821617+00:00</updated><content type="html"><![CDATA[<p>这个 Issue 是友情链接的 Issue, 如果你想加到友情链接里，请在这条 Issue 上评论，我打心后会自动加到友情链接里。感谢大家。</p>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/zfy68/gitblog</id><title>RSS feed of zfy68's gitblog</title><updated>2022-01-22T07:06:05.787737+00:00</updated><author><name>zfy68</name><email>dangjinh@163.com</email></author><link href="https://github.com/zfy68/gitblog"/><link href="https://raw.githubusercontent.com/zfy68/gitblog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/zfy68/gitblog/issues/25</id><title>心中有了答案，却还要选择</title><updated>2022-01-22T07:06:06.047624+00:00</updated><content type="html"><![CDATA[<p><img src="https://user-images.githubusercontent.com/37278360/150628706-40cfb6d3-88de-4375-af48-544d39b7c888.jpg" alt="IMG_20220122_121631.jpg" /></p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/25" rel="alternate"/><published>2022-01-22T07:05:21+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/24</id><title>友情链接</title><updated>2022-01-22T07:06:06.135818+00:00</updated><content type="html"><![CDATA[<p>这个 Issue 是友情链接的 Issue, 如果你想加到友情链接里，请在这条 Issue 上评论，我打心后会自动加到友情链接里。感谢大家。</p>
 <p>格式如下（请参考我下面的 comment）:
 冒号为中文冒号 ：</p>
 <p>名字：xxxxxx
 链接：xxxxxx
 描述：xxxxxx</p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/24" rel="alternate"/><category term="Friends"/><published>2022-01-17T14:52:34+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/23</id><title>RabbitMQ Consumer source code </title><updated>2022-01-20T06:10:18.962989+00:00</updated><content type="html"><![CDATA[<h3>自底向上解析 RabbitMQ 消费端的源码</h3>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/24" rel="alternate"/><category term="Friends"/><published>2022-01-17T14:52:34+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/23</id><title>RabbitMQ Consumer source code </title><updated>2022-01-22T07:06:06.229373+00:00</updated><content type="html"><![CDATA[<h3>自底向上解析 RabbitMQ 消费端的源码</h3>
 <p>这位已写的足够细致，详细参考：<a href="https://www.modb.pro/db/138026">https://www.modb.pro/db/138026</a></p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/23" rel="alternate"/><category term="2022"/><published>2022-01-17T14:26:06+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/22</id><title>为什么不用Docker？</title><updated>2022-01-20T06:10:19.113685+00:00</updated><content type="html"><![CDATA[<p>Docker如此优秀，为什么不使用？</p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/23" rel="alternate"/><category term="2022"/><published>2022-01-17T14:26:06+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/22</id><title>为什么不用Docker？</title><updated>2022-01-22T07:06:06.301853+00:00</updated><content type="html"><![CDATA[<p>Docker如此优秀，为什么不使用？</p>
 <p>附带架构师推荐的书籍</p>
 <p>《敏捷软件开发 原则、模式与实践》
 《重构第一版》
@@ -16,8 +17,8 @@
 <blockquote>
 <p>这几本都不错，前两本影响最大。思维模式是构建软件系统最好的工具。</p>
 </blockquote>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/22" rel="alternate"/><category term="2022"/><published>2022-01-14T01:23:36+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/21</id><title>科技创新让生活更美好？</title><updated>2022-01-20T06:10:19.251297+00:00</updated><content type="html"><![CDATA[<p>特别呈现｜华为云张修征：宏观经济“三重压力”下，数字化转型是“解压”关键 <a href="https://mp.weixin.qq.com/s?__biz=MjY2NzgwMjU0MA==&amp;mid=2650181564&amp;idx=6&amp;sn=14acd0827f98f42d74c2cf47a30567af&amp;chksm=af3eb77f98493e690859178eecfc5603e39c93cc51c7a34226ee158cff75456a47c84f7e2e15#rd">https://mp.weixin.qq.com/s?__biz=MjY2NzgwMjU0MA==&amp;mid=2650181564&amp;idx=6&amp;sn=14acd0827f98f42d74c2cf47a30567af&amp;chksm=af3eb77f98493e690859178eecfc5603e39c93cc51c7a34226ee158cff75456a47c84f7e2e15#rd</a></p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/21" rel="alternate"/><category term="2022"/><published>2022-01-10T16:18:03+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/20</id><title>2021年述职汇报</title><updated>2022-01-20T06:10:19.390902+00:00</updated><content type="html"><![CDATA[<p>简单记录下收获</p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/22" rel="alternate"/><category term="2022"/><published>2022-01-14T01:23:36+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/21</id><title>科技创新让生活更美好？</title><updated>2022-01-22T07:06:06.390328+00:00</updated><content type="html"><![CDATA[<p>特别呈现｜华为云张修征：宏观经济“三重压力”下，数字化转型是“解压”关键 <a href="https://mp.weixin.qq.com/s?__biz=MjY2NzgwMjU0MA==&amp;mid=2650181564&amp;idx=6&amp;sn=14acd0827f98f42d74c2cf47a30567af&amp;chksm=af3eb77f98493e690859178eecfc5603e39c93cc51c7a34226ee158cff75456a47c84f7e2e15#rd">https://mp.weixin.qq.com/s?__biz=MjY2NzgwMjU0MA==&amp;mid=2650181564&amp;idx=6&amp;sn=14acd0827f98f42d74c2cf47a30567af&amp;chksm=af3eb77f98493e690859178eecfc5603e39c93cc51c7a34226ee158cff75456a47c84f7e2e15#rd</a></p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/21" rel="alternate"/><category term="2022"/><published>2022-01-10T16:18:03+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/20</id><title>2021年述职汇报</title><updated>2022-01-22T07:06:06.464738+00:00</updated><content type="html"><![CDATA[<p>简单记录下收获</p>
 <h3>沟通</h3>
 <p>有话说出来、有话好好说</p>
 <h3>规划</h3>
@@ -32,7 +33,7 @@
 <li>大数据</li>
 <li>人工智能</li>
 </ol>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/20" rel="alternate"/><category term="2021"/><published>2022-01-10T15:24:21+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/19</id><title>ToB 和ToC 产品</title><updated>2022-01-20T06:10:19.528640+00:00</updated><content type="html"><![CDATA[<p>今天在某群里看到的这个话题，讨论激烈，吸纳并记录加深印象</p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/20" rel="alternate"/><category term="2021"/><published>2022-01-10T15:24:21+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/19</id><title>ToB 和ToC 产品</title><updated>2022-01-22T07:06:06.547084+00:00</updated><content type="html"><![CDATA[<p>今天在某群里看到的这个话题，讨论激烈，吸纳并记录加深印象</p>
 <h3>ToB 和ToC 产品 ？</h3>
 <p>The full name of the toB is To Business that is to the merchant (generally refers to the enterprise) product.</p>
 <p>The full name of the toC is To Customer that is, the product to the consumer (generally refers to the user).</p>
@@ -46,9 +47,9 @@
 <blockquote>
 <p>ToB产品不简单，不简单主要体现在繁杂，同一套系统要满足各家不同的奇葩需求。最大的问题还是公司在业务上没有主心骨，完全被客户提出的需求驱动，自己都不晓得要在产品方向上坚持什么原则，销售侧、研发侧、交付侧彼此更是严重割裂，这混乱可想而知，架构被夹在中间就像五马分尸一样。`</p>
 </blockquote>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/19" rel="alternate"/><category term="2022"/><published>2022-01-10T14:51:00+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/18</id><title>新年第一天-徒步爬山13公里</title><updated>2022-01-20T06:10:19.661078+00:00</updated><content type="html"><![CDATA[<p>今日和挚友相约黑山谷，爬山。<img src="https://user-images.githubusercontent.com/37278360/147848457-54f80343-0304-4986-adc3-ae70cd4624b9.jpg" alt="IMG_20220101_154110.jpg" />
+]]></content><link href="https://github.com/zfy68/gitblog/issues/19" rel="alternate"/><category term="2022"/><published>2022-01-10T14:51:00+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/18</id><title>新年第一天-徒步爬山13公里</title><updated>2022-01-22T07:06:06.818100+00:00</updated><content type="html"><![CDATA[<p>今日和挚友相约黑山谷，爬山。<img src="https://user-images.githubusercontent.com/37278360/147848457-54f80343-0304-4986-adc3-ae70cd4624b9.jpg" alt="IMG_20220101_154110.jpg" />
 <img src="https://user-images.githubusercontent.com/37278360/147848458-fc4cbfa0-8314-4de8-b07d-e7855a374489.jpg" alt="IMG_20220101_154132.jpg" /></p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/18" rel="alternate"/><category term="2022"/><published>2022-01-01T10:19:12+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/17</id><title>工资和利润，论劳动和资本的可用途不同而不同（上）</title><updated>2022-01-20T06:10:19.799948+00:00</updated><content type="html"><![CDATA[<h3>由于用途本身的性质所产生的不平等</h3>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/18" rel="alternate"/><category term="2022"/><published>2022-01-01T10:19:12+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/17</id><title>工资和利润，论劳动和资本的可用途不同而不同（上）</title><updated>2022-01-22T07:06:06.887934+00:00</updated><content type="html"><![CDATA[<h3>由于用途本身的性质所产生的不平等</h3>
 <p>有下列五种主要情况，它们使某些货币收益微小的职业得到补偿，使其他货币收益最大的职业受到抵消：</p>
 <ul>
 <li>职业本身的令人愉快或不令人愉快</li>
@@ -68,7 +69,7 @@
 <p>即使是在大城市中发大财的人，不是一个正规的、牢固的、知名度高的商业部门，而是整个一生勤勤恳恳，精打细算和专心致志的人。</p>
 <p>国丧抬高黑布的价格。</p>
 <p>靠一种工作生活，同时又从另一种工作获得微小好处的人的实例，主要是在穷国出现。</p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/17" rel="alternate"/><category term="读书笔记"/><published>2021-12-28T15:33:31+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/16</id><title>change</title><updated>2022-01-20T06:10:19.950062+00:00</updated><content type="html"><![CDATA[<ul>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/17" rel="alternate"/><category term="读书笔记"/><published>2021-12-28T15:33:31+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/16</id><title>change</title><updated>2022-01-22T07:06:06.960968+00:00</updated><content type="html"><![CDATA[<ul>
 <li>
 <p>上班路上了解提前量和滞后量的概念
 滞后量是相对于紧前活动，紧后活动需要提前的时间量。
@@ -82,13 +83,13 @@
 </li>
 </ul>
 <h3>调整生活节奏</h3>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/16" rel="alternate"/><published>2021-12-28T14:26:35+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/15</id><title>merry Christmas today</title><updated>2022-01-20T06:10:20.096484+00:00</updated><content type="html"><![CDATA[<ul>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/16" rel="alternate"/><published>2021-12-28T14:26:35+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/15</id><title>merry Christmas today</title><updated>2022-01-22T07:06:07.036152+00:00</updated><content type="html"><![CDATA[<ul>
 <li>早晨充电</li>
 <li>下午加班</li>
 </ul>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/15" rel="alternate"/><published>2021-12-25T02:24:23+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/14</id><title>新能源</title><updated>2022-01-20T06:10:20.229342+00:00</updated><content type="html"><![CDATA[<p>一张图看懂新能源经济发展？</p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/15" rel="alternate"/><published>2021-12-25T02:24:23+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/14</id><title>新能源</title><updated>2022-01-22T07:06:07.115479+00:00</updated><content type="html"><![CDATA[<p>一张图看懂新能源经济发展？</p>
 <p><img src="https://user-images.githubusercontent.com/37278360/147260765-767590a5-106b-419b-a7e9-396e4a2b36d8.jpg" alt="20211223_230040.jpg" /></p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/14" rel="alternate"/><published>2021-12-24T00:15:35+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/13</id><title>论资本利润</title><updated>2022-01-20T06:10:20.365270+00:00</updated><content type="html"><![CDATA[<h1>论资本利润</h1>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/14" rel="alternate"/><published>2021-12-24T00:15:35+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/13</id><title>论资本利润</title><updated>2022-01-22T07:06:07.199423+00:00</updated><content type="html"><![CDATA[<h1>论资本利润</h1>
 <p>资本利润的上升或下降，一种允许劳动工资升降的同一原因及社会财富的增加或减少。</p>
 <p>虽然不能比较准确的确定现实和古代的资本平均利润，却可以从货币的利息去得到一些相关的概念，资本的普通利润一定会随之变动，利息下降利润也下降，利息上升利润也上升。</p>
 <p>一个兴旺发达的城市，拥有巨额资本去雇人的人，常常不到所需要的人数，因而，彼此竞争，力图雇到尽可能多的人。常常没有足够的资本去雇用所有的人，因此工人彼此竞争，以便谋得工作，这就降低了劳动的工资，提高了资本的利润。</p>
@@ -97,7 +98,7 @@
 <p>一个忽视或鄙视对外贸易的国家只允许外国船只进入它的一两个港口，不能经营在不同的法律和制度下，可能经营的那么多的贸易。</p>
 <p>当法律不强制合同的执行时，它就使所有借款人处于与政治修明国家的破产者或信用不佳的人差不多相同的地位。</p>
 <p>高利润比高工资有更大的抬高产品价格的倾向。</p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/13" rel="alternate"/><category term="读书笔记"/><published>2021-12-21T15:18:35+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/12</id><title>论劳动工资</title><updated>2022-01-20T06:10:20.498452+00:00</updated><content type="html"><![CDATA[<p>劳动的产物构成劳动的自然报酬或自然工资。</p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/13" rel="alternate"/><category term="读书笔记"/><published>2021-12-21T15:18:35+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/12</id><title>论劳动工资</title><updated>2022-01-22T07:06:07.277889+00:00</updated><content type="html"><![CDATA[<p>劳动的产物构成劳动的自然报酬或自然工资。</p>
 <p>丰厚的劳动报酬既是国民财富增加的必然结果，又是国民财富增加的自然征兆。</p>
 <p>婚姻在中国受到鼓励，不是由于可以从儿童身上获利，而是由于有摧毁儿童的自由。</p>
 <p>贫穷无一不会鼓励人们结婚，但并不能永远阻止人们结婚，它甚至似乎是有利于生育后代。一个苏格兰高地的处于半饥饿状态的妇女，常常生育20多个子女，一个娇生惯养的太太，尝尝一个不生，最多也就生两三个。在上流社会的妇女中长长得不孕症，在下流社会的妇女终极不常见。女性的豪华奢侈或许可以燃起享悦的情欲，却似乎总是削弱生育的能力，常常是完全摧毁这种能力。</p>
@@ -107,12 +108,12 @@
 <p>连几天从事大量的劳动（不论是脑力方面的还是体力方面的）以后大多数人都渴望放松一下，这种欲望如果不受强力或某种巨大的必要性限制，几乎是不可抗拒的。</p>
 <p>商人和制造业者常常据以虚幻的宣传，这个最大帝国是如何的繁荣和衰落。</p>
 <p>论工资的增长必然提高许多商品的价格，工资的增加会提高价格，但工资增加的原因会降低价格。</p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/12" rel="alternate"/><category term="读书笔记"/><published>2021-12-15T14:25:39+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/11</id><title>Log4j RCE 凑个热闹</title><updated>2022-01-20T06:10:20.638107+00:00</updated><content type="html"><![CDATA[<p>昨晚看到发的圈得知，自行Google看了源码做了下poc Demo通过。</p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/12" rel="alternate"/><category term="读书笔记"/><published>2021-12-15T14:25:39+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/11</id><title>Log4j RCE 凑个热闹</title><updated>2022-01-22T07:06:07.356589+00:00</updated><content type="html"><![CDATA[<p>昨晚看到发的圈得知，自行Google看了源码做了下poc Demo通过。</p>
 <p><a href="https://nosec.org/m/share/4917.html">链接3安全通报</a> </p>
 <p>详细读解参考扶墙老师这篇文章<a href="https://mp.weixin.qq.com/s/TVSTdXbQSums64L3SDKGUg">Shit Happens: log4j 0day灾难始末</a> </p>
 <p>来自GitHub的warn
 <img src="https://user-images.githubusercontent.com/37278360/145501306-eb72bfbd-af43-4d76-ae73-32bd0864c489.png" alt="image" /></p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/11" rel="alternate"/><category term="2021"/><published>2021-12-10T00:49:04+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/10</id><title>走向地铁口的四连问？</title><updated>2022-01-20T06:10:20.777891+00:00</updated><content type="html"><![CDATA[<blockquote>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/11" rel="alternate"/><category term="2021"/><published>2021-12-10T00:49:04+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/10</id><title>走向地铁口的四连问？</title><updated>2022-01-22T07:06:07.438420+00:00</updated><content type="html"><![CDATA[<blockquote>
 <p>你想干什么？</p>
 </blockquote>
 <blockquote>
@@ -138,16 +139,16 @@
 <p><code>我能在生活中是一个什么样的人?</code></p>
 <p><code>我将在生活中是一个什么样的人?</code></p>
 <p><img src="https://user-images.githubusercontent.com/37278360/145316414-62297967-facf-4822-b11c-fb7d83fb1453.png" alt="1280px-PDCA-Multi-Loop" /></p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/10" rel="alternate"/><category term="2021"/><published>2021-12-09T01:16:43+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/9</id><title>clash注册</title><updated>2022-01-20T06:10:20.921462+00:00</updated><content type="html"><![CDATA[<p><a href="https://linkhub.today/auth/register?code=H9fs">linkhub下载地址</a> </p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/9" rel="alternate"/><category term="tool"/><published>2021-12-06T16:08:13+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/8</id><title>KMS激活工具</title><updated>2022-01-20T06:10:21.052756+00:00</updated><content type="html"><![CDATA[<p>激活Windows系统、Office软件等
+]]></content><link href="https://github.com/zfy68/gitblog/issues/10" rel="alternate"/><category term="2021"/><published>2021-12-09T01:16:43+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/9</id><title>clash注册</title><updated>2022-01-22T07:06:07.515875+00:00</updated><content type="html"><![CDATA[<p><a href="https://linkhub.today/auth/register?code=H9fs">linkhub下载地址</a> </p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/9" rel="alternate"/><category term="tool"/><published>2021-12-06T16:08:13+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/8</id><title>KMS激活工具</title><updated>2022-01-22T07:06:07.588731+00:00</updated><content type="html"><![CDATA[<p>激活Windows系统、Office软件等
 <a href="http://www.yishimei.cn/">KMS下载 地址</a>
 <a href="http://www.yishimei.cn/network/319.html?=microkms_17.06.25">KNS详细下载</a></p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/8" rel="alternate"/><category term="tool"/><published>2021-12-06T10:22:55+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/7</id><title>痛苦的时候，就是成长的时候</title><updated>2022-01-20T06:10:21.198308+00:00</updated><content type="html"><![CDATA[<p>一个人既然来到这世界，就不能让自己在默默无闻中度过一生，就要让自己的人生充满绚烂和绚丽，就要轰轰烈烈干一场事业，如此，在老去的时候，回首往事，才能问心无愧，才能不负韶华。</p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/7" rel="alternate"/><category term="2021"/><published>2021-12-04T00:52:43+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/6</id><title>迷茫的我</title><updated>2022-01-20T06:10:21.332941+00:00</updated><content type="html"><![CDATA[<h2>像是无边的黑暗穿进我心里，再也逃不出去，与世界分离</h2>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/8" rel="alternate"/><category term="tool"/><published>2021-12-06T10:22:55+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/7</id><title>痛苦的时候，就是成长的时候</title><updated>2022-01-22T07:06:07.663632+00:00</updated><content type="html"><![CDATA[<p>一个人既然来到这世界，就不能让自己在默默无闻中度过一生，就要让自己的人生充满绚烂和绚丽，就要轰轰烈烈干一场事业，如此，在老去的时候，回首往事，才能问心无愧，才能不负韶华。</p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/7" rel="alternate"/><category term="2021"/><published>2021-12-04T00:52:43+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/6</id><title>迷茫的我</title><updated>2022-01-22T07:06:07.735390+00:00</updated><content type="html"><![CDATA[<h2>像是无边的黑暗穿进我心里，再也逃不出去，与世界分离</h2>
 <h2>徐徐的晚风，春夏又秋冬##</h2>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/6" rel="alternate"/><category term="2020"/><published>2021-12-03T14:22:18+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/5</id><title>步入社会的我</title><updated>2022-01-20T06:10:21.471307+00:00</updated><content type="html"><![CDATA[<h2>诗人只为了一种模糊的感受、一种调调儿、一种情绪去写。</h2>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/6" rel="alternate"/><category term="2020"/><published>2021-12-03T14:22:18+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/5</id><title>步入社会的我</title><updated>2022-01-22T07:06:07.803131+00:00</updated><content type="html"><![CDATA[<h2>诗人只为了一种模糊的感受、一种调调儿、一种情绪去写。</h2>
 <h2>在靠近海岸是穿上救生衣，但在海中央时把救生衣抛掉吧</h2>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/5" rel="alternate"/><category term="2019"/><published>2021-12-03T14:21:03+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/4</id><title>刚毕业的的我</title><updated>2022-01-20T06:10:21.604010+00:00</updated><content type="html"><![CDATA[<p><img src="https://user-images.githubusercontent.com/37278360/144616884-06d0ffb2-0b2a-4802-9383-a0088cb5da84.png" alt="image" /></p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/5" rel="alternate"/><category term="2019"/><published>2021-12-03T14:21:03+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/4</id><title>刚毕业的的我</title><updated>2022-01-22T07:06:07.882771+00:00</updated><content type="html"><![CDATA[<p><img src="https://user-images.githubusercontent.com/37278360/144616884-06d0ffb2-0b2a-4802-9383-a0088cb5da84.png" alt="image" /></p>
 <blockquote>
 <p>晚夜袭风几处真？星月不曾与天分。</p>
 <p>曾于秋霜相交默，未必相知心上人。</p>
@@ -178,7 +179,7 @@
 <p>灵感源于生活点滴</p>
 </blockquote>
 <p><img src="https://user-images.githubusercontent.com/37278360/144617106-7390c3b7-8adf-42a6-9c71-8fade64e9b73.png" alt="image" /></p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/4" rel="alternate"/><category term="2018"/><published>2021-12-03T14:17:09+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/3</id><title>死亡不是终点，遗忘才是！</title><updated>2022-01-20T06:10:21.747420+00:00</updated><content type="html"><![CDATA[<h1>《梦的解析》</h1>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/4" rel="alternate"/><category term="2018"/><published>2021-12-03T14:17:09+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/3</id><title>死亡不是终点，遗忘才是！</title><updated>2022-01-22T07:06:07.957290+00:00</updated><content type="html"><![CDATA[<h1>《梦的解析》</h1>
 <p>梦是愿望的达成。</p>
 <p><img src="https://user-images.githubusercontent.com/37278360/144618385-a7f90b34-2f90-4b65-91e7-1a0400f9d607.png" alt="image" /></p>
 <h1>《偶像的黄昏》</h1>
@@ -195,7 +196,7 @@
 <p>一个人是富还是穷，依他所能享受的生活必须品、便利品和娱乐品的程度而定。</p>
 <p>劳动是商品的真实价格，货币只是商品的名义价格。</p>
 <p><img src="https://user-images.githubusercontent.com/37278360/144618520-5e94a4df-a6d3-4900-a542-71b773096e31.png" alt="image" /></p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/3" rel="alternate"/><category term="2021"/><published>2021-12-03T13:40:46+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/2</id><title>初来乍到</title><updated>2022-01-20T06:10:21.889266+00:00</updated><content type="html"><![CDATA[<p>私人博客从阿里云服务器搬迁成功，见2018～2021</p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/3" rel="alternate"/><category term="2021"/><published>2021-12-03T13:40:46+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/2</id><title>初来乍到</title><updated>2022-01-22T07:06:08.062754+00:00</updated><content type="html"><![CDATA[<p>私人博客从阿里云服务器搬迁成功，见2018～2021</p>
 <p>仅以此记录我的过往与未来。</p>
 <p>使用issue写博客记录，感谢 @yihong0618</p>
 ]]></content><link href="https://github.com/zfy68/gitblog/issues/2" rel="alternate"/><category term="2021"/><published>2021-12-03T13:25:08+00:00</published></entry></feed>
