@@ -7,11 +7,11 @@ My personal blog using issues and GitHub Actions
 | yihong0618 | https://github.com/yihong0618 | gitlog founder |
 | Paxos | https://www.modb.pro/u/312996 | content producter |
 ## 最近更新
+- [荡秋千，喝酒不足以味人生](https://github.com/zfy68/gitblog/issues/29)--2022-02-03
 - [踩雪](https://github.com/zfy68/gitblog/issues/28)--2022-02-02
 - [路上皆是风景，家是终点](https://github.com/zfy68/gitblog/issues/27)--2022-01-28
 - [home，下雪啦](https://github.com/zfy68/gitblog/issues/26)--2022-01-27
 - [心中有了答案，却还要选择](https://github.com/zfy68/gitblog/issues/25)--2022-01-22
-- [友情链接](https://github.com/zfy68/gitblog/issues/24)--2022-01-17
 ## 2018
 - [刚毕业的的我](https://github.com/zfy68/gitblog/issues/4)--2021-12-03
 ## 2019
