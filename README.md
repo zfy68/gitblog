@@ -53,4 +53,4 @@ My personal blog using issues and GitHub Actions
 - [《我可不这么想》](https://github.com/zfy68/gitblog/issues/32)--2022-02-08
 - [工资和利润，论劳动和资本的可用途不同而不同（上）](https://github.com/zfy68/gitblog/issues/17)--2021-12-28
 - [论资本利润](https://github.com/zfy68/gitblog/issues/13)--2021-12-21
-- [论劳动工资](https://github.com/zfy68/gitblog/issues/12)--2021-12-15
+- [《国富论上》](https://github.com/zfy68/gitblog/issues/12)--2021-12-15
