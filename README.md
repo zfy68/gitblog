@@ -7,11 +7,11 @@ My personal blog using issues and GitHub Actions
 | yihong0618 | https://github.com/yihong0618 | gitlog founder |
 | Paxos | https://www.modb.pro/u/312996 | content producter |
 ## 最近更新
+- [《我可不这么想》](https://github.com/zfy68/gitblog/issues/32)--2022-02-08
 - [假期结束，2022启航！](https://github.com/zfy68/gitblog/issues/31)--2022-02-08
 - [归来还是少年](https://github.com/zfy68/gitblog/issues/30)--2022-02-05
 - [荡秋千，喝酒不足以味人生](https://github.com/zfy68/gitblog/issues/29)--2022-02-03
 - [踩雪](https://github.com/zfy68/gitblog/issues/28)--2022-02-02
-- [路上皆是风景，家是终点](https://github.com/zfy68/gitblog/issues/27)--2022-01-28
 ## 2018
 - [刚毕业的的我](https://github.com/zfy68/gitblog/issues/4)--2021-12-03
 ## 2019
@@ -50,6 +50,7 @@ My personal blog using issues and GitHub Actions
 - [clash注册](https://github.com/zfy68/gitblog/issues/9)--2021-12-06
 - [KMS激活工具](https://github.com/zfy68/gitblog/issues/8)--2021-12-06
 ## 读书笔记
+- [《我可不这么想》](https://github.com/zfy68/gitblog/issues/32)--2022-02-08
 - [工资和利润，论劳动和资本的可用途不同而不同（上）](https://github.com/zfy68/gitblog/issues/17)--2021-12-28
 - [论资本利润](https://github.com/zfy68/gitblog/issues/13)--2021-12-21
 - [论劳动工资](https://github.com/zfy68/gitblog/issues/12)--2021-12-15
