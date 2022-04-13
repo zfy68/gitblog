@@ -52,7 +52,7 @@ jobs:
       # Fix for the unsafe repo error: https://github.com/repo-sync/pull-request/issues/84
       - name: run safe dir
         run: |
-            git config --global --add safe.directory /github/workspace
+          git config --global --add safe.directory /github/workspace
       - name: Push README
         uses: github-actions-x/commit@v2.6
         with:
