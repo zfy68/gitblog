@@ -54,15 +54,7 @@ jobs:
         run: |
           git config --global --add safe.directory /github/workspace
       - name: Push README
-        uses: github-actions-x/commit@v2.6
-        with:
-          github-token: ${{ secrets.ZFY }}
-          commit-message: "Refresh README AND BACK UP"
-          files: README.md feed.xml BACKUP/
-          rebase: "true"
-          name: ${{ env.GITHUB_NAME }}
-          email: ${{ env.GITHUB_EMAIL }}
-          run: |
+        run: |
            git config --local user.email "${{ env.GITHUB_EMAIL }}"
            git config --local user.name "${{ env.GITHUB_NAME }}"
            git commit -a -m 'update new blog' || echo "nothing to commit"
