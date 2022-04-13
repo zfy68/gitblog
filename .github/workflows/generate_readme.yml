@@ -54,7 +54,8 @@ jobs:
           python main.py ${{ secrets.ZFY }} ${{ github.repository }} --issue_number '${{ github.event.issue.number }}'
       - name: Push README
         run: |
-           git config --local user.email "${{ env.GITHUB_EMAIL }}"
-           git config --local user.name "${{ env.GITHUB_NAME }}"
-           git commit -a -m 'update new blog' || echo "nothing to commit"
-           git push || echo "nothing to push"
+         git config user.name zfy68
+         git config user.email dangjinh@163.com
+         git add .
+         git commit -m "generated"
+         git push
