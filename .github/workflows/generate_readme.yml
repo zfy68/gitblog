@@ -42,7 +42,7 @@ jobs:
       - name: Replace README
         run: |
           source venv/bin/activate
-          python main.py ${{ secrets.ZFY }} ${{ github.repository }} --issue_numbe '${{ github.event.issue.number }}' --issue_label_name '${{ github.event.issue.labels[0].name }}' 
+          python main.py ${{ secrets.ZFY }} ${{ github.repository }} --issue_number '${{ github.event.issue.number }}'
         if: ${{ github.event.issue.number }} != ${{ env.BOOKMARK_ISSUE_ID }}
       # Fix for the unsafe repo error: https://github.com/repo-sync/pull-request/issues/84
       - name: Run safe dir
