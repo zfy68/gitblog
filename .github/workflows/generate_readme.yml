@@ -52,6 +52,7 @@ jobs:
 
       - name: Push README
         run: |
+          git config --global --add safe.directory ${{ GITHUB_WORKSPACE }}
           git config --local user.email "${{ env.GITHUB_EMAIL }}"
           git config --local user.name "${{ env.GITHUB_EMAIL }}"
           git commit -a -m 'update new blog' || echo "nothing to commit"
