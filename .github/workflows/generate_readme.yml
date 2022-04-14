@@ -47,7 +47,7 @@ jobs:
       # Fix for the unsafe repo error: https://github.com/repo-sync/pull-request/issues/84
       - name: Run safe dir
         run: |
-          git config --global --add safe.directory /github/zfy68
+          git config --global --add safe.directory /github/workspace
       - name: Push README
         run: |
           date > generated.txt
