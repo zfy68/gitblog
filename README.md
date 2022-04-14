@@ -7,12 +7,12 @@ My personal blog using issues and GitHub Actions
 | yihong0618 | https://github.com/yihong0618 | gitlog founder |
 | Paxos | https://www.modb.pro/u/312996 | content producter |
 ## 最近更新
-- [崩了](https://github.com/zfy68/gitblog/issues/38)--2022-04-14
-- [无疾而终](https://github.com/zfy68/gitblog/issues/37)--2022-04-14
+- [崩了](https://github.com/zfy68/gitblog/issues/37)--2022-04-14
 - [
 非常时期囤货手册](https://github.com/zfy68/gitblog/issues/35)--2022-04-10
 - [Tie is important for men](https://github.com/zfy68/gitblog/issues/34)--2022-04-10
 - [我焦虑了](https://github.com/zfy68/gitblog/issues/33)--2022-03-12
+- [《我可不这么想》](https://github.com/zfy68/gitblog/issues/32)--2022-02-08
 ## 2018
 - [刚毕业的的我](https://github.com/zfy68/gitblog/issues/4)--2021-12-03
 ## 2019
@@ -31,15 +31,14 @@ My personal blog using issues and GitHub Actions
 </details>
 
 ## 2022
-- [崩了](https://github.com/zfy68/gitblog/issues/38)--2022-04-14
 - [
 非常时期囤货手册](https://github.com/zfy68/gitblog/issues/35)--2022-04-10
 - [Tie is important for men](https://github.com/zfy68/gitblog/issues/34)--2022-04-10
 - [我焦虑了](https://github.com/zfy68/gitblog/issues/33)--2022-03-12
 - [假期结束，2022启航！](https://github.com/zfy68/gitblog/issues/31)--2022-02-08
+- [归来还是少年](https://github.com/zfy68/gitblog/issues/30)--2022-02-05
 <details><summary>显示更多</summary>
 
-- [归来还是少年](https://github.com/zfy68/gitblog/issues/30)--2022-02-05
 - [荡秋千，喝酒不足以味人生](https://github.com/zfy68/gitblog/issues/29)--2022-02-03
 - [踩雪](https://github.com/zfy68/gitblog/issues/28)--2022-02-02
 - [路上皆是风景，家是终点](https://github.com/zfy68/gitblog/issues/27)--2022-01-28
@@ -53,7 +52,7 @@ My personal blog using issues and GitHub Actions
 </details>
 
 ## bug
-- [无疾而终](https://github.com/zfy68/gitblog/issues/37)--2022-04-14
+- [崩了](https://github.com/zfy68/gitblog/issues/37)--2022-04-14
 ## tool
 - [clash注册](https://github.com/zfy68/gitblog/issues/9)--2021-12-06
 - [KMS激活工具](https://github.com/zfy68/gitblog/issues/8)--2021-12-06
