@@ -7,12 +7,12 @@ My personal blog using issues and GitHub Actions
 | yihong0618 | https://github.com/yihong0618 | gitlog founder |
 | Paxos | https://www.modb.pro/u/312996 | content producter |
 ## 最近更新
+- [《Secrets of the Temple》](https://github.com/zfy68/gitblog/issues/41)--2022-05-15
 - [《Thinking fast and slow》](https://github.com/zfy68/gitblog/issues/40)--2022-04-25
 - [war is over](https://github.com/zfy68/gitblog/issues/39)--2022-04-18
 - [崩了](https://github.com/zfy68/gitblog/issues/37)--2022-04-14
 - [
 非常时期囤货手册](https://github.com/zfy68/gitblog/issues/35)--2022-04-10
-- [Tie is important for men](https://github.com/zfy68/gitblog/issues/34)--2022-04-10
 ## 2018
 - [刚毕业的的我](https://github.com/zfy68/gitblog/issues/4)--2021-12-03
 ## 2019
@@ -58,6 +58,7 @@ My personal blog using issues and GitHub Actions
 - [clash注册](https://github.com/zfy68/gitblog/issues/9)--2021-12-06
 - [KMS激活工具](https://github.com/zfy68/gitblog/issues/8)--2021-12-06
 ## 读书笔记
+- [《Secrets of the Temple》](https://github.com/zfy68/gitblog/issues/41)--2022-05-15
 - [《Thinking fast and slow》](https://github.com/zfy68/gitblog/issues/40)--2022-04-25
 - [《我可不这么想》](https://github.com/zfy68/gitblog/issues/32)--2022-02-08
-- [《国富论上》](https://github.com/zfy68/gitblog/issues/12)--2021-12-15
+- [《The Wealth of Nations (I) 》](https://github.com/zfy68/gitblog/issues/12)--2021-12-15
