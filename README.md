@@ -7,12 +7,11 @@ My personal blog using issues and GitHub Actions
 | yihong0618 | https://github.com/yihong0618 | gitlog founder |
 | Paxos | https://www.modb.pro/u/312996 | content producter |
 ## 最近更新
+- [《West with the Night》](https://github.com/zfy68/gitblog/issues/42)--2022-07-10
 - [《Secrets of the Temple》](https://github.com/zfy68/gitblog/issues/41)--2022-05-15
 - [《Thinking fast and slow》](https://github.com/zfy68/gitblog/issues/40)--2022-04-25
 - [war is over](https://github.com/zfy68/gitblog/issues/39)--2022-04-18
 - [崩了](https://github.com/zfy68/gitblog/issues/37)--2022-04-14
-- [
-非常时期囤货手册](https://github.com/zfy68/gitblog/issues/35)--2022-04-10
 ## 2018
 - [刚毕业的的我](https://github.com/zfy68/gitblog/issues/4)--2021-12-03
 ## 2019
@@ -22,14 +21,9 @@ My personal blog using issues and GitHub Actions
 ## 2021
 - [2021年述职汇报](https://github.com/zfy68/gitblog/issues/20)--2022-01-10
 - [Log4j RCE 凑个热闹](https://github.com/zfy68/gitblog/issues/11)--2021-12-10
-- [走向地铁口的四连问？](https://github.com/zfy68/gitblog/issues/10)--2021-12-09
 - [痛苦的时候，就是成长的时候](https://github.com/zfy68/gitblog/issues/7)--2021-12-04
 - [死亡不是终点，遗忘才是！](https://github.com/zfy68/gitblog/issues/3)--2021-12-03
-<details><summary>显示更多</summary>
-
 - [初来乍到](https://github.com/zfy68/gitblog/issues/2)--2021-12-03
-</details>
-
 ## 2022
 - [war is over](https://github.com/zfy68/gitblog/issues/39)--2022-04-18
 - [
@@ -58,6 +52,7 @@ My personal blog using issues and GitHub Actions
 - [clash注册](https://github.com/zfy68/gitblog/issues/9)--2021-12-06
 - [KMS激活工具](https://github.com/zfy68/gitblog/issues/8)--2021-12-06
 ## 读书笔记
+- [《West with the Night》](https://github.com/zfy68/gitblog/issues/42)--2022-07-10
 - [《Secrets of the Temple》](https://github.com/zfy68/gitblog/issues/41)--2022-05-15
 - [《Thinking fast and slow》](https://github.com/zfy68/gitblog/issues/40)--2022-04-25
 - [《私はそうは思わない》](https://github.com/zfy68/gitblog/issues/32)--2022-02-08
