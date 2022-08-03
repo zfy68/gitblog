@@ -7,7 +7,7 @@ My personal blog using issues and GitHub Actions
 | yihong0618 | https://github.com/yihong0618 | gitlog founder |
 | Paxos | https://www.modb.pro/u/312996 | content producter |
 ## 最近更新
-- [《THE McKINSRY WAY》](https://github.com/zfy68/gitblog/issues/46)--2022-08-01
+- [《THE McKINSEY WAY》](https://github.com/zfy68/gitblog/issues/46)--2022-08-01
 - [《Never Give Up》 ](https://github.com/zfy68/gitblog/issues/45)--2022-07-24
 - [《The Wealth of Nations (II) 》](https://github.com/zfy68/gitblog/issues/44)--2022-07-19
 - [《West with the Night》](https://github.com/zfy68/gitblog/issues/42)--2022-07-10
@@ -52,7 +52,7 @@ My personal blog using issues and GitHub Actions
 - [clash注册](https://github.com/zfy68/gitblog/issues/9)--2021-12-06
 - [KMS激活工具](https://github.com/zfy68/gitblog/issues/8)--2021-12-06
 ## 读书笔记
-- [《THE McKINSRY WAY》](https://github.com/zfy68/gitblog/issues/46)--2022-08-01
+- [《THE McKINSEY WAY》](https://github.com/zfy68/gitblog/issues/46)--2022-08-01
 - [《Never Give Up》 ](https://github.com/zfy68/gitblog/issues/45)--2022-07-24
 - [《The Wealth of Nations (II) 》](https://github.com/zfy68/gitblog/issues/44)--2022-07-19
 - [《West with the Night》](https://github.com/zfy68/gitblog/issues/42)--2022-07-10
