@@ -7,11 +7,11 @@ My personal blog using issues and GitHub Actions
 | yihong0618 | https://github.com/yihong0618 | gitlog founder |
 | Paxos | https://www.modb.pro/u/312996 | content producter |
 ## 最近更新
+- [《Guns,Germs》](https://github.com/zfy68/gitblog/issues/47)--2022-08-04
 - [《THE McKINSEY WAY》](https://github.com/zfy68/gitblog/issues/46)--2022-08-01
 - [《Never Give Up》 ](https://github.com/zfy68/gitblog/issues/45)--2022-07-24
 - [《The Wealth of Nations (II) 》](https://github.com/zfy68/gitblog/issues/44)--2022-07-19
 - [《West with the Night》](https://github.com/zfy68/gitblog/issues/42)--2022-07-10
-- [《Secrets of the Temple》](https://github.com/zfy68/gitblog/issues/41)--2022-05-15
 ## 2018
 - [刚毕业的的我](https://github.com/zfy68/gitblog/issues/4)--2021-12-03
 ## 2019
@@ -52,13 +52,14 @@ My personal blog using issues and GitHub Actions
 - [clash注册](https://github.com/zfy68/gitblog/issues/9)--2021-12-06
 - [KMS激活工具](https://github.com/zfy68/gitblog/issues/8)--2021-12-06
 ## 读书笔记
+- [《Guns,Germs》](https://github.com/zfy68/gitblog/issues/47)--2022-08-04
 - [《THE McKINSEY WAY》](https://github.com/zfy68/gitblog/issues/46)--2022-08-01
 - [《Never Give Up》 ](https://github.com/zfy68/gitblog/issues/45)--2022-07-24
 - [《The Wealth of Nations (II) 》](https://github.com/zfy68/gitblog/issues/44)--2022-07-19
 - [《West with the Night》](https://github.com/zfy68/gitblog/issues/42)--2022-07-10
-- [《Secrets of the Temple》](https://github.com/zfy68/gitblog/issues/41)--2022-05-15
 <details><summary>显示更多</summary>
 
+- [《Secrets of the Temple》](https://github.com/zfy68/gitblog/issues/41)--2022-05-15
 - [《Thinking fast and slow》](https://github.com/zfy68/gitblog/issues/40)--2022-04-25
 - [《私はそうは思わない》](https://github.com/zfy68/gitblog/issues/32)--2022-02-08
 - [《The Wealth of Nations (I) 》](https://github.com/zfy68/gitblog/issues/12)--2021-12-15
