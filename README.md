@@ -60,8 +60,8 @@ My personal blog using issues and GitHub Actions
 <details><summary>显示更多</summary>
 
 - [《Secrets of the Temple》](https://github.com/zfy68/gitblog/issues/41)--2022-05-15
-- [《Thinking fast and slow》](https://github.com/zfy68/gitblog/issues/40)--2022-04-25
-- [《私はそうは思わない》](https://github.com/zfy68/gitblog/issues/32)--2022-02-08
-- [《The Wealth of Nations (I) 》](https://github.com/zfy68/gitblog/issues/12)--2021-12-15
+- [《Thinking fast and slow》✔](https://github.com/zfy68/gitblog/issues/40)--2022-04-25
+- [《私はそうは思わない》✔](https://github.com/zfy68/gitblog/issues/32)--2022-02-08
+- [《The Wealth of Nations (I) 》 ✔](https://github.com/zfy68/gitblog/issues/12)--2021-12-15
 </details>
 
