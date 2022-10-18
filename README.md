@@ -7,11 +7,11 @@ My personal blog using issues and GitHub Actions
 | yihong0618 | https://github.com/yihong0618 | gitlog founder |
 | Paxos | https://www.modb.pro/u/312996 | content producter |
 ## 最近更新
+- [分享问题等于解决问题的一半。](https://github.com/zfy68/gitblog/issues/51)--2022-10-14
 - [《PMP》](https://github.com/zfy68/gitblog/issues/50)--2022-09-06
 - [去国怀乡，忧谗畏讥](https://github.com/zfy68/gitblog/issues/49)--2022-09-01
 - [《Designing Data-Intensive Application》](https://github.com/zfy68/gitblog/issues/48)--2022-08-07
 - [《Guns , Germs , and Steel》](https://github.com/zfy68/gitblog/issues/47)--2022-08-04
-- [《THE McKINSEY WAY》✔](https://github.com/zfy68/gitblog/issues/46)--2022-08-01
 ## 2018
 - [刚毕业的的我](https://github.com/zfy68/gitblog/issues/4)--2021-12-03
 ## 2019
@@ -25,14 +25,15 @@ My personal blog using issues and GitHub Actions
 - [死亡不是终点，遗忘才是！](https://github.com/zfy68/gitblog/issues/3)--2021-12-03
 - [初来乍到](https://github.com/zfy68/gitblog/issues/2)--2021-12-03
 ## 2022
+- [分享问题等于解决问题的一半。](https://github.com/zfy68/gitblog/issues/51)--2022-10-14
 - [去国怀乡，忧谗畏讥](https://github.com/zfy68/gitblog/issues/49)--2022-09-01
 - [war is over](https://github.com/zfy68/gitblog/issues/39)--2022-04-18
 - [
 非常时期囤货手册](https://github.com/zfy68/gitblog/issues/35)--2022-04-10
 - [Tie is important for men](https://github.com/zfy68/gitblog/issues/34)--2022-04-10
-- [我焦虑了](https://github.com/zfy68/gitblog/issues/33)--2022-03-12
 <details><summary>显示更多</summary>
 
+- [我焦虑了](https://github.com/zfy68/gitblog/issues/33)--2022-03-12
 - [假期结束，2022启航！](https://github.com/zfy68/gitblog/issues/31)--2022-02-08
 - [归来还是少年](https://github.com/zfy68/gitblog/issues/30)--2022-02-05
 - [荡秋千，喝酒不足以味人生](https://github.com/zfy68/gitblog/issues/29)--2022-02-03
