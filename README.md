@@ -7,11 +7,11 @@ My personal blog using issues and GitHub Actions
 | yihong0618 | https://github.com/yihong0618 | gitlog founder |
 | Paxos | https://www.modb.pro/u/312996 | content producter |
 ## 最近更新
+- [《》](https://github.com/zfy68/gitblog/issues/52)--2022-10-25
 - [分享问题等于解决问题的一半。](https://github.com/zfy68/gitblog/issues/51)--2022-10-14
 - [《PMP》](https://github.com/zfy68/gitblog/issues/50)--2022-09-06
 - [去国怀乡，忧谗畏讥](https://github.com/zfy68/gitblog/issues/49)--2022-09-01
 - [《Designing Data-Intensive Application》](https://github.com/zfy68/gitblog/issues/48)--2022-08-07
-- [《Guns , Germs , and Steel》](https://github.com/zfy68/gitblog/issues/47)--2022-08-04
 ## 2018
 - [刚毕业的的我](https://github.com/zfy68/gitblog/issues/4)--2021-12-03
 ## 2019
@@ -54,13 +54,14 @@ My personal blog using issues and GitHub Actions
 - [clash注册](https://github.com/zfy68/gitblog/issues/9)--2021-12-06
 - [KMS激活工具](https://github.com/zfy68/gitblog/issues/8)--2021-12-06
 ## 读书笔记
+- [《》](https://github.com/zfy68/gitblog/issues/52)--2022-10-25
 - [《PMP》](https://github.com/zfy68/gitblog/issues/50)--2022-09-06
 - [《Designing Data-Intensive Application》](https://github.com/zfy68/gitblog/issues/48)--2022-08-07
 - [《Guns , Germs , and Steel》](https://github.com/zfy68/gitblog/issues/47)--2022-08-04
 - [《THE McKINSEY WAY》✔](https://github.com/zfy68/gitblog/issues/46)--2022-08-01
-- [《Never Give Up》 ✔](https://github.com/zfy68/gitblog/issues/45)--2022-07-24
 <details><summary>显示更多</summary>
 
+- [《Never Give Up》 ✔](https://github.com/zfy68/gitblog/issues/45)--2022-07-24
 - [《The Wealth of Nations (II) 》](https://github.com/zfy68/gitblog/issues/44)--2022-07-19
 - [《West with the Night》✔](https://github.com/zfy68/gitblog/issues/42)--2022-07-10
 - [《Secrets of the Temple》](https://github.com/zfy68/gitblog/issues/41)--2022-05-15
