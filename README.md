@@ -7,11 +7,13 @@ My personal blog using issues and GitHub Actions
 | yihong0618 | https://github.com/yihong0618 | gitlog founder |
 | Paxos | https://www.modb.pro/u/312996 | content producter |
 ## 最近更新
+- [依旧阳光](https://github.com/zfy68/gitblog/issues/53)--2022-10-29
 - [《》](https://github.com/zfy68/gitblog/issues/52)--2022-10-25
 - [分享问题等于解决问题的一半。](https://github.com/zfy68/gitblog/issues/51)--2022-10-14
 - [《PMP》](https://github.com/zfy68/gitblog/issues/50)--2022-09-06
 - [去国怀乡，忧谗畏讥](https://github.com/zfy68/gitblog/issues/49)--2022-09-01
-- [《Designing Data-Intensive Application》](https://github.com/zfy68/gitblog/issues/48)--2022-08-07
+## 2016
+- [依旧阳光](https://github.com/zfy68/gitblog/issues/53)--2022-10-29
 ## 2018
 - [刚毕业的的我](https://github.com/zfy68/gitblog/issues/4)--2021-12-03
 ## 2019
