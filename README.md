@@ -10,7 +10,7 @@ My personal blog using issues and GitHub Actions
 - [只有天空在上](https://github.com/zfy68/gitblog/issues/55)--2022-10-29
 - [愿你以梦为马，随处可栖](https://github.com/zfy68/gitblog/issues/54)--2022-10-29
 - [依旧阳光](https://github.com/zfy68/gitblog/issues/53)--2022-10-29
-- [《》](https://github.com/zfy68/gitblog/issues/52)--2022-10-25
+- [《INVESTING The Last Liberal Art, Second Edition》](https://github.com/zfy68/gitblog/issues/52)--2022-10-25
 - [分享问题等于解决问题的一半。](https://github.com/zfy68/gitblog/issues/51)--2022-10-14
 ## 2015
 - [愿你以梦为马，随处可栖](https://github.com/zfy68/gitblog/issues/54)--2022-10-29
@@ -19,7 +19,7 @@ My personal blog using issues and GitHub Actions
 ## 2017
 - [只有天空在上](https://github.com/zfy68/gitblog/issues/55)--2022-10-29
 ## 2018
-- [刚毕业的的我](https://github.com/zfy68/gitblog/issues/4)--2021-12-03
+- [等待已久](https://github.com/zfy68/gitblog/issues/4)--2021-12-03
 ## 2019
 - [步入社会的我](https://github.com/zfy68/gitblog/issues/5)--2021-12-03
 ## 2020
@@ -60,7 +60,7 @@ My personal blog using issues and GitHub Actions
 - [clash注册](https://github.com/zfy68/gitblog/issues/9)--2021-12-06
 - [KMS激活工具](https://github.com/zfy68/gitblog/issues/8)--2021-12-06
 ## 读书笔记
-- [《》](https://github.com/zfy68/gitblog/issues/52)--2022-10-25
+- [《INVESTING The Last Liberal Art, Second Edition》](https://github.com/zfy68/gitblog/issues/52)--2022-10-25
 - [《PMP》](https://github.com/zfy68/gitblog/issues/50)--2022-09-06
 - [《Designing Data-Intensive Application》](https://github.com/zfy68/gitblog/issues/48)--2022-08-07
 - [《Guns , Germs , and Steel》](https://github.com/zfy68/gitblog/issues/47)--2022-08-04
