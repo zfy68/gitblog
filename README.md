@@ -4,14 +4,13 @@ My personal blog using issues and GitHub Actions
 ## 友情链接
 | Name | Link | Desc | 
  | ---- | ---- | ---- |
-| yihong0618 | https://github.com/yihong0618 | gitlog founder |
-| Paxos | https://www.modb.pro/u/312996 | content producter |
+| yihong0618 | https://github.com/yihong0618 | gitblog founder |
 ## 最近更新
+- [去大理](https://github.com/zfy68/gitblog/issues/56)--2022-12-31
 - [只有天空在上](https://github.com/zfy68/gitblog/issues/55)--2022-10-29
 - [愿你以梦为马，随处可栖](https://github.com/zfy68/gitblog/issues/54)--2022-10-29
 - [依旧阳光](https://github.com/zfy68/gitblog/issues/53)--2022-10-29
 - [《INVESTING The Last Liberal Art, Second Edition》](https://github.com/zfy68/gitblog/issues/52)--2022-10-25
-- [分享问题等于解决问题的一半。](https://github.com/zfy68/gitblog/issues/51)--2022-10-14
 ## 2015
 - [愿你以梦为马，随处可栖](https://github.com/zfy68/gitblog/issues/54)--2022-10-29
 ## 2016
@@ -54,6 +53,8 @@ My personal blog using issues and GitHub Actions
 - [新年第一天-徒步爬山13公里](https://github.com/zfy68/gitblog/issues/18)--2022-01-01
 </details>
 
+## 2023
+- [去大理](https://github.com/zfy68/gitblog/issues/56)--2022-12-31
 ## bug
 - [崩了](https://github.com/zfy68/gitblog/issues/37)--2022-04-14
 ## tool
