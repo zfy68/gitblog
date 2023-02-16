@@ -62,13 +62,14 @@ My personal blog using issues and GitHub Actions
 - [clash注册](https://github.com/zfy68/gitblog/issues/9)--2021-12-06
 - [KMS激活工具](https://github.com/zfy68/gitblog/issues/8)--2021-12-06
 ## 读书笔记
+- [《Karl Marx》](https://github.com/zfy68/gitblog/issues/58)--2023-02-15
 - [《INVESTING The Last Liberal Art, Second Edition》](https://github.com/zfy68/gitblog/issues/52)--2022-10-25
 - [《PMP》](https://github.com/zfy68/gitblog/issues/50)--2022-09-06
 - [《Designing Data-Intensive Application》](https://github.com/zfy68/gitblog/issues/48)--2022-08-07
 - [《Guns , Germs , and Steel》](https://github.com/zfy68/gitblog/issues/47)--2022-08-04
-- [《THE McKINSEY WAY》✔](https://github.com/zfy68/gitblog/issues/46)--2022-08-01
 <details><summary>显示更多</summary>
 
+- [《THE McKINSEY WAY》✔](https://github.com/zfy68/gitblog/issues/46)--2022-08-01
 - [《Never Give Up》 ✔](https://github.com/zfy68/gitblog/issues/45)--2022-07-24
 - [《The Wealth of Nations (II) 》](https://github.com/zfy68/gitblog/issues/44)--2022-07-19
 - [《West with the Night》✔](https://github.com/zfy68/gitblog/issues/42)--2022-07-10
