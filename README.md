@@ -6,11 +6,11 @@ My personal blog using issues and GitHub Actions
  | ---- | ---- | ---- |
 | yihong0618 | https://github.com/yihong0618 | gitblog founder |
 ## 最近更新
+- [《THE McKINSEY WAY》original](https://github.com/zfy68/gitblog/issues/60)--2023-02-25
 - [Eslint,spotless,git commit template使用](https://github.com/zfy68/gitblog/issues/59)--2023-02-16
 - [《Karl Marx》](https://github.com/zfy68/gitblog/issues/58)--2023-02-15
 - [23年微观改变](https://github.com/zfy68/gitblog/issues/57)--2023-01-20
 - [去大理](https://github.com/zfy68/gitblog/issues/56)--2022-12-31
-- [只有天空在上](https://github.com/zfy68/gitblog/issues/55)--2022-10-29
 ## 2015
 - [愿你以梦为马，随处可栖](https://github.com/zfy68/gitblog/issues/54)--2022-10-29
 ## 2016
