@@ -6,8 +6,7 @@ My personal blog using issues and GitHub Actions
  | ---- | ---- | ---- |
 | yihong0618 | https://github.com/yihong0618 | gitblog founder |
 ## 最近更新
-- [Agile Software Development
-Principles, Patterns, and Practices](https://github.com/zfy68/gitblog/issues/61)--2023-02-26
+- [《Agile Software Development Principles, Patterns, and Practices》](https://github.com/zfy68/gitblog/issues/61)--2023-02-26
 - [《THE McKINSEY WAY》original](https://github.com/zfy68/gitblog/issues/60)--2023-02-25
 - [Eslint,spotless,git commit template使用](https://github.com/zfy68/gitblog/issues/59)--2023-02-16
 - [《Karl Marx》](https://github.com/zfy68/gitblog/issues/58)--2023-02-15
@@ -65,13 +64,14 @@ Principles, Patterns, and Practices](https://github.com/zfy68/gitblog/issues/61)
 - [clash注册](https://github.com/zfy68/gitblog/issues/9)--2021-12-06
 - [KMS激活工具](https://github.com/zfy68/gitblog/issues/8)--2021-12-06
 ## 读书笔记
+- [《Agile Software Development Principles, Patterns, and Practices》](https://github.com/zfy68/gitblog/issues/61)--2023-02-26
 - [《Karl Marx》](https://github.com/zfy68/gitblog/issues/58)--2023-02-15
 - [《INVESTING The Last Liberal Art, Second Edition》](https://github.com/zfy68/gitblog/issues/52)--2022-10-25
 - [《PMP》](https://github.com/zfy68/gitblog/issues/50)--2022-09-06
 - [《Designing Data-Intensive Application》](https://github.com/zfy68/gitblog/issues/48)--2022-08-07
-- [《Guns , Germs , and Steel》](https://github.com/zfy68/gitblog/issues/47)--2022-08-04
 <details><summary>显示更多</summary>
 
+- [《Guns , Germs , and Steel》](https://github.com/zfy68/gitblog/issues/47)--2022-08-04
 - [《THE McKINSEY WAY》✔](https://github.com/zfy68/gitblog/issues/46)--2022-08-01
 - [《Never Give Up》 ✔](https://github.com/zfy68/gitblog/issues/45)--2022-07-24
 - [《The Wealth of Nations (II) 》](https://github.com/zfy68/gitblog/issues/44)--2022-07-19
