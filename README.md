@@ -62,6 +62,7 @@ My personal blog using issues and GitHub Actions
 ## help wanted
 - [Eslint,spotless,git commit template使用](https://github.com/zfy68/gitblog/issues/59)--2023-02-16
 ## tool
+- [cloudflare代理](https://github.com/zfy68/gitblog/issues/63)--2023-03-06
 - [clash注册](https://github.com/zfy68/gitblog/issues/9)--2021-12-06
 - [KMS激活工具](https://github.com/zfy68/gitblog/issues/8)--2021-12-06
 ## 读书笔记
