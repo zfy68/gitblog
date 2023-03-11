@@ -6,11 +6,11 @@ My personal blog using issues and GitHub Actions
  | ---- | ---- | ---- |
 | yihong0618 | https://github.com/yihong0618 | gitblog founder |
 ## 最近更新
+- [一点想法（经济和教育）](https://github.com/zfy68/gitblog/issues/64)--2023-03-11
 - [cloudflare代理](https://github.com/zfy68/gitblog/issues/63)--2023-03-06
 - [问道青城山](https://github.com/zfy68/gitblog/issues/62)--2023-03-05
 - [《Agile Software Development Principles, Patterns, and Practices》](https://github.com/zfy68/gitblog/issues/61)--2023-02-26
 - [《THE McKINSEY WAY》original](https://github.com/zfy68/gitblog/issues/60)--2023-02-25
-- [Eslint,spotless,git commit template使用](https://github.com/zfy68/gitblog/issues/59)--2023-02-16
 ## 2015
 - [愿你以梦为马，随处可栖](https://github.com/zfy68/gitblog/issues/54)--2022-10-29
 ## 2016
