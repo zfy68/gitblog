@@ -6,11 +6,11 @@ My personal blog using issues and GitHub Actions
  | ---- | ---- | ---- |
 | yihong0618 | https://github.com/yihong0618 | gitblog founder |
 ## 最近更新
-- [TCP粘包](https://github.com/zfy68/gitblog/issues/66)--2023-03-13
-- [What is a Vector Database?](https://github.com/zfy68/gitblog/issues/65)--2023-03-11
-- [一点想法（经济和教育）](https://github.com/zfy68/gitblog/issues/64)--2023-03-11
-- [cloudflare代理](https://github.com/zfy68/gitblog/issues/63)--2023-03-06
-- [问道青城山](https://github.com/zfy68/gitblog/issues/62)--2023-03-05
+- [Steamship( Ship AI Faster)](https://github.com/zfy68/gitblog/issues/72)--2023-03-19
+- [Salman Amin Khan](https://github.com/zfy68/gitblog/issues/71)--2023-03-19
+- [Connected Papers](https://github.com/zfy68/gitblog/issues/70)--2023-03-19
+- [《沉默的大多数》-李银河主编](https://github.com/zfy68/gitblog/issues/69)--2023-03-19
+- [《沉默的大多数》](https://github.com/zfy68/gitblog/issues/68)--2023-03-19
 ## 2015
 - [愿你以梦为马，随处可栖](https://github.com/zfy68/gitblog/issues/54)--2022-10-29
 ## 2016
@@ -54,13 +54,16 @@ My personal blog using issues and GitHub Actions
 </details>
 
 ## 2023
+- [Steamship( Ship AI Faster)](https://github.com/zfy68/gitblog/issues/72)--2023-03-19
+- [Salman Amin Khan](https://github.com/zfy68/gitblog/issues/71)--2023-03-19
+- [Connected Papers](https://github.com/zfy68/gitblog/issues/70)--2023-03-19
 - [TCP粘包](https://github.com/zfy68/gitblog/issues/66)--2023-03-13
 - [What is a Vector Database?](https://github.com/zfy68/gitblog/issues/65)--2023-03-11
+<details><summary>显示更多</summary>
+
 - [一点想法（经济和教育）](https://github.com/zfy68/gitblog/issues/64)--2023-03-11
 - [问道青城山](https://github.com/zfy68/gitblog/issues/62)--2023-03-05
 - [23年微观改变](https://github.com/zfy68/gitblog/issues/57)--2023-01-20
-<details><summary>显示更多</summary>
-
 - [去大理](https://github.com/zfy68/gitblog/issues/56)--2022-12-31
 </details>
 
@@ -73,13 +76,15 @@ My personal blog using issues and GitHub Actions
 - [clash注册](https://github.com/zfy68/gitblog/issues/9)--2021-12-06
 - [KMS激活工具](https://github.com/zfy68/gitblog/issues/8)--2021-12-06
 ## 读书笔记
+- [《沉默的大多数》-李银河主编](https://github.com/zfy68/gitblog/issues/69)--2023-03-19
+- [《沉默的大多数》](https://github.com/zfy68/gitblog/issues/68)--2023-03-19
 - [《Agile Software Development Principles, Patterns, and Practices》](https://github.com/zfy68/gitblog/issues/61)--2023-02-26
 - [《THE McKINSEY WAY》original](https://github.com/zfy68/gitblog/issues/60)--2023-02-25
-- [《Karl Marx》](https://github.com/zfy68/gitblog/issues/58)--2023-02-15
-- [《INVESTING The Last Liberal Art, Second Edition》](https://github.com/zfy68/gitblog/issues/52)--2022-10-25
-- [《PMP》](https://github.com/zfy68/gitblog/issues/50)--2022-09-06
+- [《Karl Marx》✔](https://github.com/zfy68/gitblog/issues/58)--2023-02-15
 <details><summary>显示更多</summary>
 
+- [《INVESTING The Last Liberal Art, Second Edition》✔](https://github.com/zfy68/gitblog/issues/52)--2022-10-25
+- [《PMP》](https://github.com/zfy68/gitblog/issues/50)--2022-09-06
 - [《Designing Data-Intensive Application》](https://github.com/zfy68/gitblog/issues/48)--2022-08-07
 - [《Guns , Germs , and Steel》](https://github.com/zfy68/gitblog/issues/47)--2022-08-04
 - [《THE McKINSEY WAY》✔](https://github.com/zfy68/gitblog/issues/46)--2022-08-01
