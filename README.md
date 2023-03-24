@@ -80,7 +80,7 @@ My personal blog using issues and GitHub Actions
 - [《沉默的大多数》-李银河主编](https://github.com/zfy68/gitblog/issues/69)--2023-03-19
 - [《沉默的大多数》](https://github.com/zfy68/gitblog/issues/68)--2023-03-19
 - [《Agile Software Development Principles, Patterns, and Practices》](https://github.com/zfy68/gitblog/issues/61)--2023-02-26
-- [《THE McKINSEY WAY》original](https://github.com/zfy68/gitblog/issues/60)--2023-02-25
+- [《THE McKINSEY WAY》original ✔](https://github.com/zfy68/gitblog/issues/60)--2023-02-25
 <details><summary>显示更多</summary>
 
 - [《Karl Marx》✔](https://github.com/zfy68/gitblog/issues/58)--2023-02-15
