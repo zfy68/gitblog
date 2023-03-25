@@ -71,6 +71,8 @@ My personal blog using issues and GitHub Actions
 - [崩了](https://github.com/zfy68/gitblog/issues/37)--2022-04-14
 ## help wanted
 - [Eslint,spotless,git commit template使用](https://github.com/zfy68/gitblog/issues/59)--2023-02-16
+## TEDTalk
+- [What Happens to Gas Stations When the World Goes Electric? | Emily Grubert | TED](https://github.com/zfy68/gitblog/issues/74)--2023-03-25
 ## tool
 - [cloudflare代理](https://github.com/zfy68/gitblog/issues/63)--2023-03-06
 - [clash注册](https://github.com/zfy68/gitblog/issues/9)--2021-12-06
