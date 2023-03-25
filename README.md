@@ -6,11 +6,11 @@ My personal blog using issues and GitHub Actions
  | ---- | ---- | ---- |
 | yihong0618 | https://github.com/yihong0618 | gitblog founder |
 ## 最近更新
+- [What Happens to Gas Stations When the World Goes Electric? | Emily Grubert | TED](https://github.com/zfy68/gitblog/issues/74)--2023-03-25
 - [《ArcGIS From Basics To Practice》](https://github.com/zfy68/gitblog/issues/73)--2023-03-23
 - [Steamship( Ship AI Faster)](https://github.com/zfy68/gitblog/issues/72)--2023-03-19
 - [Salman Amin Khan](https://github.com/zfy68/gitblog/issues/71)--2023-03-19
 - [Connected Papers](https://github.com/zfy68/gitblog/issues/70)--2023-03-19
-- [《Silent Majority》Li Yinhe](https://github.com/zfy68/gitblog/issues/69)--2023-03-19
 ## 2015
 - [愿你以梦为马，随处可栖](https://github.com/zfy68/gitblog/issues/54)--2022-10-29
 ## 2016
