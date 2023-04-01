@@ -270,7 +270,7 @@ def main(token, repo_name, issue_number=None, dir_name=BACKUP_DIR):
 
     # save md files to backup folder
     for issue in to_generate_issues:
-        save_issue(issue, me, dir_name)
+        # save_issue(issue, me, dir_name)
 
 
 def save_issue(issue, me, dir_name=BACKUP_DIR):
