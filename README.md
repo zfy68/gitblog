@@ -6,7 +6,7 @@ My personal blog using issues and GitHub Actions
  | ---- | ---- | ---- |
 | yihong0618 | https://github.com/yihong0618 | gitblog founder |
 ## 最近更新
-- [YouTube Download Subtitles](https://github.com/zfy68/gitblog/issues/75)--2023-03-25
+- [YouTube Download Video/Subtitles](https://github.com/zfy68/gitblog/issues/75)--2023-03-25
 - [What Happens to Gas Stations When the World Goes Electric? | Emily Grubert | TED](https://github.com/zfy68/gitblog/issues/74)--2023-03-25
 - [《ArcGIS From Basics To Practice》](https://github.com/zfy68/gitblog/issues/73)--2023-03-23
 - [Steamship( Ship AI Faster)](https://github.com/zfy68/gitblog/issues/72)--2023-03-19
@@ -74,14 +74,14 @@ My personal blog using issues and GitHub Actions
 ## TEDTalk
 - [What Happens to Gas Stations When the World Goes Electric? | Emily Grubert | TED](https://github.com/zfy68/gitblog/issues/74)--2023-03-25
 ## tool
-- [YouTube Download Subtitles](https://github.com/zfy68/gitblog/issues/75)--2023-03-25
+- [YouTube Download Video/Subtitles](https://github.com/zfy68/gitblog/issues/75)--2023-03-25
 - [cloudflare代理](https://github.com/zfy68/gitblog/issues/63)--2023-03-06
 - [clash注册](https://github.com/zfy68/gitblog/issues/9)--2021-12-06
 - [KMS激活工具](https://github.com/zfy68/gitblog/issues/8)--2021-12-06
 ## 读书笔记
 - [《ArcGIS From Basics To Practice》](https://github.com/zfy68/gitblog/issues/73)--2023-03-23
 - [《Silent Majority》Li Yinhe](https://github.com/zfy68/gitblog/issues/69)--2023-03-19
-- [《Silent Majority》](https://github.com/zfy68/gitblog/issues/68)--2023-03-19
+- [《Silent Majority》✔](https://github.com/zfy68/gitblog/issues/68)--2023-03-19
 - [《Agile Software Development Principles, Patterns, and Practices》](https://github.com/zfy68/gitblog/issues/61)--2023-02-26
 - [《THE McKINSEY WAY》original ✔](https://github.com/zfy68/gitblog/issues/60)--2023-02-25
 <details><summary>显示更多</summary>
