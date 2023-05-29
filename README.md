@@ -6,7 +6,7 @@ My personal blog using issues and GitHub Actions
  | ---- | ---- | ---- |
 | yihong0618 | https://github.com/yihong0618 | gitblog founder |
 ## 最近更新
-- [《The Old Man and the Sea》](https://github.com/zfy68/gitblog/issues/77)--2023-05-24
+- [《The Old Man and the Sea》✔](https://github.com/zfy68/gitblog/issues/77)--2023-05-24
 - [《ELON MUSK》](https://github.com/zfy68/gitblog/issues/76)--2023-04-03
 - [YouTube Download Video/Subtitles](https://github.com/zfy68/gitblog/issues/75)--2023-03-25
 - [What Happens to Gas Stations When the World Goes Electric? | Emily Grubert | TED](https://github.com/zfy68/gitblog/issues/74)--2023-03-25
