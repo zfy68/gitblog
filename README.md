@@ -6,11 +6,11 @@ My personal blog using issues and GitHub Actions
  | ---- | ---- | ---- |
 | yihong0618 | https://github.com/yihong0618 | gitblog founder |
 ## 最近更新
+- [摘录自【白板报】](https://github.com/zfy68/gitblog/issues/80)--2023-07-09
 - [2023.7.2 我在南门](https://github.com/zfy68/gitblog/issues/79)--2023-07-03
 - [梦里梦外](https://github.com/zfy68/gitblog/issues/78)--2023-06-28
 - [《The Old Man and the Sea》✔](https://github.com/zfy68/gitblog/issues/77)--2023-05-24
 - [《ELON MUSK》](https://github.com/zfy68/gitblog/issues/76)--2023-04-03
-- [YouTube Download Video/Subtitles](https://github.com/zfy68/gitblog/issues/75)--2023-03-25
 ## 2015
 - [愿你以梦为马，随处可栖](https://github.com/zfy68/gitblog/issues/54)--2022-10-29
 ## 2016
@@ -54,13 +54,14 @@ My personal blog using issues and GitHub Actions
 </details>
 
 ## 2023
+- [摘录自【白板报】](https://github.com/zfy68/gitblog/issues/80)--2023-07-09
 - [2023.7.2 我在南门](https://github.com/zfy68/gitblog/issues/79)--2023-07-03
 - [梦里梦外](https://github.com/zfy68/gitblog/issues/78)--2023-06-28
 - [Steamship( Ship AI Faster)](https://github.com/zfy68/gitblog/issues/72)--2023-03-19
 - [Salman Amin Khan](https://github.com/zfy68/gitblog/issues/71)--2023-03-19
-- [Connected Papers](https://github.com/zfy68/gitblog/issues/70)--2023-03-19
 <details><summary>显示更多</summary>
 
+- [Connected Papers](https://github.com/zfy68/gitblog/issues/70)--2023-03-19
 - [TCP粘包](https://github.com/zfy68/gitblog/issues/66)--2023-03-13
 - [What is a Vector Database?](https://github.com/zfy68/gitblog/issues/65)--2023-03-11
 - [一点想法（经济和教育）](https://github.com/zfy68/gitblog/issues/64)--2023-03-11
