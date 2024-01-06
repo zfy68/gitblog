@@ -21,11 +21,11 @@ My personal blog using issues and GitHub Actions
 </table>
 
 ## 最近更新
+- [《黄金时代》](https://github.com/zfy68/gitblog/issues/91)--2024-01-06
 - [《遥远的救世主》](https://github.com/zfy68/gitblog/issues/90)--2023-12-23
 - [服务器混战三十年，从外资三巨头到国产F4](https://github.com/zfy68/gitblog/issues/89)--2023-10-13
 - [Hong Kong](https://github.com/zfy68/gitblog/issues/88)--2023-09-24
 - [海边踩单车](https://github.com/zfy68/gitblog/issues/87)--2023-09-21
-- [是世道变了还是你没觉醒](https://github.com/zfy68/gitblog/issues/86)--2023-08-15
 ## help wanted
 - [Eslint,spotless,git commit template使用](https://github.com/zfy68/gitblog/issues/59)--2023-02-16
 ## bug
@@ -56,13 +56,14 @@ My personal blog using issues and GitHub Actions
 ## 2017
 - [只有天空在上](https://github.com/zfy68/gitblog/issues/55)--2022-10-29
 ## 读书笔记
+- [《黄金时代》](https://github.com/zfy68/gitblog/issues/91)--2024-01-06
 - [《遥远的救世主》](https://github.com/zfy68/gitblog/issues/90)--2023-12-23
 - [《The Old Man and the Sea》✔](https://github.com/zfy68/gitblog/issues/77)--2023-05-24
 - [《ELON MUSK》](https://github.com/zfy68/gitblog/issues/76)--2023-04-03
 - [《ArcGIS From Basics To Practice》](https://github.com/zfy68/gitblog/issues/73)--2023-03-23
-- [《Silent Majority》Li Yinhe](https://github.com/zfy68/gitblog/issues/69)--2023-03-19
 <details><summary>显示更多</summary>
 
+- [《Silent Majority》Li Yinhe](https://github.com/zfy68/gitblog/issues/69)--2023-03-19
 - [《Silent Majority》✔](https://github.com/zfy68/gitblog/issues/68)--2023-03-19
 - [《Agile Software Development Principles, Patterns, and Practices》](https://github.com/zfy68/gitblog/issues/61)--2023-02-26
 - [《THE McKINSEY WAY》original ✔](https://github.com/zfy68/gitblog/issues/60)--2023-02-25
