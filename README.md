@@ -21,11 +21,11 @@ My personal blog using issues and GitHub Actions
 </table>
 
 ## 最近更新
+- [《白银时代》](https://github.com/zfy68/gitblog/issues/92)--2024-03-05
 - [《黄金时代》](https://github.com/zfy68/gitblog/issues/91)--2024-01-06
 - [《遥远的救世主》](https://github.com/zfy68/gitblog/issues/90)--2023-12-23
 - [服务器混战三十年，从外资三巨头到国产F4](https://github.com/zfy68/gitblog/issues/89)--2023-10-13
 - [Hong Kong](https://github.com/zfy68/gitblog/issues/88)--2023-09-24
-- [海边踩单车](https://github.com/zfy68/gitblog/issues/87)--2023-09-21
 ## help wanted
 - [Eslint,spotless,git commit template使用](https://github.com/zfy68/gitblog/issues/59)--2023-02-16
 ## bug
