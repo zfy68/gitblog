@@ -23,9 +23,9 @@ My personal blog using issues and GitHub Actions
 ## 最近更新
 - [《左耳听风》传奇程序员练级攻略](https://github.com/zfy68/gitblog/issues/94)--2024-06-18
 - [《非暴力沟通》](https://github.com/zfy68/gitblog/issues/93)--2024-05-21
-- [《白银时代》](https://github.com/zfy68/gitblog/issues/92)--2024-03-05
-- [《黄金时代》](https://github.com/zfy68/gitblog/issues/91)--2024-01-06
-- [《遥远的救世主》](https://github.com/zfy68/gitblog/issues/90)--2023-12-23
+- [《白银时代》✓](https://github.com/zfy68/gitblog/issues/92)--2024-03-05
+- [《黄金时代》✓](https://github.com/zfy68/gitblog/issues/91)--2024-01-06
+- [《遥远的救世主》✓](https://github.com/zfy68/gitblog/issues/90)--2023-12-23
 ## help wanted
 - [Eslint,spotless,git commit template使用](https://github.com/zfy68/gitblog/issues/59)--2023-02-16
 ## bug
@@ -58,9 +58,9 @@ My personal blog using issues and GitHub Actions
 ## 读书笔记
 - [《左耳听风》传奇程序员练级攻略](https://github.com/zfy68/gitblog/issues/94)--2024-06-18
 - [《非暴力沟通》](https://github.com/zfy68/gitblog/issues/93)--2024-05-21
-- [《白银时代》](https://github.com/zfy68/gitblog/issues/92)--2024-03-05
-- [《黄金时代》](https://github.com/zfy68/gitblog/issues/91)--2024-01-06
-- [《遥远的救世主》](https://github.com/zfy68/gitblog/issues/90)--2023-12-23
+- [《白银时代》✓](https://github.com/zfy68/gitblog/issues/92)--2024-03-05
+- [《黄金时代》✓](https://github.com/zfy68/gitblog/issues/91)--2024-01-06
+- [《遥远的救世主》✓](https://github.com/zfy68/gitblog/issues/90)--2023-12-23
 <details><summary>显示更多</summary>
 
 - [《The Old Man and the Sea》✔](https://github.com/zfy68/gitblog/issues/77)--2023-05-24
