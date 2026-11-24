@@ -21,11 +21,11 @@ My personal blog using issues and GitHub Actions
 </table>
 
 ## 最近更新
+- [《结构性改革》✓](https://github.com/zfy68/gitblog/issues/95)--2026-11-24
 - [《左耳听风》传奇程序员练级攻略](https://github.com/zfy68/gitblog/issues/94)--2024-06-18
 - [《非暴力沟通》](https://github.com/zfy68/gitblog/issues/93)--2024-05-21
 - [《白银时代》✓](https://github.com/zfy68/gitblog/issues/92)--2024-03-05
 - [《黄金时代》✓](https://github.com/zfy68/gitblog/issues/91)--2024-01-06
-- [《遥远的救世主》✓](https://github.com/zfy68/gitblog/issues/90)--2023-12-23
 ## help wanted
 - [Eslint,spotless,git commit template使用](https://github.com/zfy68/gitblog/issues/59)--2023-02-16
 ## bug
@@ -36,7 +36,6 @@ My personal blog using issues and GitHub Actions
 - [步入社会的我](https://github.com/zfy68/gitblog/issues/5)--2021-12-03
 ## 2020
 - [迷茫的我](https://github.com/zfy68/gitblog/issues/6)--2021-12-03
-## 2021
 - [2021年述职汇报](https://github.com/zfy68/gitblog/issues/20)--2022-01-10
 - [Log4j RCE 凑个热闹](https://github.com/zfy68/gitblog/issues/11)--2021-12-10
 - [痛苦的时候，就是成长的时候](https://github.com/zfy68/gitblog/issues/7)--2021-12-04
@@ -44,7 +43,6 @@ My personal blog using issues and GitHub Actions
 - [初来乍到](https://github.com/zfy68/gitblog/issues/2)--2021-12-03
 ## TEDTalk
 - [What Happens to Gas Stations When the World Goes Electric? | Emily Grubert | TED](https://github.com/zfy68/gitblog/issues/74)--2023-03-25
-## tool
 - [YouTube Download Video/Subtitles](https://github.com/zfy68/gitblog/issues/75)--2023-03-25
 - [cloudflare代理](https://github.com/zfy68/gitblog/issues/63)--2023-03-06
 - [clash注册](https://github.com/zfy68/gitblog/issues/9)--2021-12-06
@@ -55,14 +53,14 @@ My personal blog using issues and GitHub Actions
 - [依旧阳光](https://github.com/zfy68/gitblog/issues/53)--2022-10-29
 ## 2017
 - [只有天空在上](https://github.com/zfy68/gitblog/issues/55)--2022-10-29
-## 读书笔记
+- [《结构性改革》✓](https://github.com/zfy68/gitblog/issues/95)--2026-11-24
 - [《左耳听风》传奇程序员练级攻略](https://github.com/zfy68/gitblog/issues/94)--2024-06-18
 - [《非暴力沟通》](https://github.com/zfy68/gitblog/issues/93)--2024-05-21
 - [《白银时代》✓](https://github.com/zfy68/gitblog/issues/92)--2024-03-05
 - [《黄金时代》✓](https://github.com/zfy68/gitblog/issues/91)--2024-01-06
-- [《遥远的救世主》✓](https://github.com/zfy68/gitblog/issues/90)--2023-12-23
 <details><summary>显示更多</summary>
 
+- [《遥远的救世主》✓](https://github.com/zfy68/gitblog/issues/90)--2023-12-23
 - [《The Old Man and the Sea》✔](https://github.com/zfy68/gitblog/issues/77)--2023-05-24
 - [《ELON MUSK》](https://github.com/zfy68/gitblog/issues/76)--2023-04-03
 - [《ArcGIS From Basics To Practice》](https://github.com/zfy68/gitblog/issues/73)--2023-03-23
@@ -85,7 +83,6 @@ My personal blog using issues and GitHub Actions
 - [《The Wealth of Nations (I) 》 ✔](https://github.com/zfy68/gitblog/issues/12)--2021-12-15
 </details>
 
-## 2022
 - [分享问题等于解决问题的一半。](https://github.com/zfy68/gitblog/issues/51)--2022-10-14
 - [去国怀乡，忧谗畏讥](https://github.com/zfy68/gitblog/issues/49)--2022-09-01
 - [war is over](https://github.com/zfy68/gitblog/issues/39)--2022-04-18
@@ -109,7 +106,6 @@ My personal blog using issues and GitHub Actions
 - [新年第一天-徒步爬山13公里](https://github.com/zfy68/gitblog/issues/18)--2022-01-01
 </details>
 
-## 2023
 - [服务器混战三十年，从外资三巨头到国产F4](https://github.com/zfy68/gitblog/issues/89)--2023-10-13
 - [Hong Kong](https://github.com/zfy68/gitblog/issues/88)--2023-09-24
 - [海边踩单车](https://github.com/zfy68/gitblog/issues/87)--2023-09-21
