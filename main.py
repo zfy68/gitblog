@@ -30,7 +30,9 @@ PLACEHOLDER_COVER = "assets/placeholder-cover.png"
 # exists, then an image whose alt contains 封面, then the first image that
 # is not an author or avatar photo.
 _COVER_COMMENT_RE = re.compile(r"<!--\s*cover:\s*(\S+?)\s*-->", re.IGNORECASE)
-_MD_IMAGE_RE = re.compile(r"!\[([^\]]*)\]\(\s*<?([^)\s>]+)>?")
+_MD_IMAGE_RE = re.compile(
+    r"!\[([^\]]*)\]\(\s*<?([^)\s>]+)>?(?:\s+[\"'][^\"']*[\"'])?\s*\)"
+)
 _HTML_IMAGE_RE = re.compile(r"<img\b([^>]*)>", re.IGNORECASE)
 _NON_COVER_ALT_KEYWORDS = ("作者", "头像", "肖像", "avatar", "portrait", "author")
 
@@ -254,7 +256,7 @@ def local_asset_path(folder, number):
     return None
 
 
-def cover_src_for_issue(issue):
+def cover_src_for_issue(issue, use_placeholder=True):
     body = issue.body or ""
     comment = _COVER_COMMENT_RE.search(body) if body else None
     if comment:
@@ -262,7 +264,12 @@ def cover_src_for_issue(issue):
     local = local_asset_path("covers", issue.number)
     if local:
         return local
-    return extract_cover_url(body) or PLACEHOLDER_COVER
+    found = extract_cover_url(body)
+    if found:
+        return found
+    if use_placeholder:
+        return PLACEHOLDER_COVER
+    return None
 
 
 def _cover_cell(issue):
@@ -329,6 +336,103 @@ def add_md_quote_cards(md_path, issues):
         md.write("<table>\n  <tr>\n" + "\n".join(cells) + "\n  </tr>\n</table>\n\n")
 
 
+_YEAR_LABEL_RE = re.compile(r"^(19|20)\d{2}$")
+_FRONT_MATTER_RE = re.compile(r"\A---\s*\n.*?\n---\s*\n", re.DOTALL)
+_HTML_COMMENT_RE = re.compile(r"<!--.*?-->", re.DOTALL)
+_MD_LINK_RE = re.compile(r"\[([^\]]*)\]\([^)]*\)")
+_HTML_TAG_RE = re.compile(r"<[^>]+>")
+_MD_EMPHASIS_RE = re.compile(r"(\*\*|__|~~|`)")
+EXCERPT_LIMIT = 140
+
+
+def is_year_label(name):
+    return bool(_YEAR_LABEL_RE.fullmatch(name or ""))
+
+
+def plain_excerpt(body, limit=EXCERPT_LIMIT):
+    if not body:
+        return ""
+    text = body.replace("\r\n", "\n").replace("\r", "\n")
+    text = _FRONT_MATTER_RE.sub("", text)
+    text = _HTML_COMMENT_RE.sub("", text)
+    text = _MD_IMAGE_RE.sub("", text)
+    text = _HTML_IMAGE_RE.sub("", text)
+    text = _MD_LINK_RE.sub(r"\1", text)
+    text = _HTML_TAG_RE.sub("", text)
+    text = _MD_EMPHASIS_RE.sub("", text)
+    lines = []
+    for line in text.splitlines():
+        line = re.sub(r"^\s{0,3}#{1,6}\s*", "", line)
+        line = re.sub(r"\s*#{1,6}\s*$", "", line)
+        line = re.sub(r"^\s{0,3}>\s?", "", line)
+        line = re.sub(r"^\s*[-*+]\s+", "", line)
+        line = re.sub(r"^\s*\d+\.\s+", "", line)
+        lines.append(line)
+    text = re.sub(r"\s+", " ", " ".join(lines)).strip()
+    if len(text) <= limit:
+        return text
+    return text[:limit].rstrip() + "…"
+
+
+def write_issue_list(md, issues):
+    for i, issue in enumerate(issues):
+        if i == ANCHOR_NUMBER:
+            md.write("<details><summary>显示更多</summary>\n")
+            md.write("\n")
+        add_issue_info(issue, md)
+    if len(issues) > ANCHOR_NUMBER:
+        md.write("</details>\n")
+        md.write("\n")
+
+
+def write_year_spotlight(md, issue, year_name):
+    title = issue.title or ""
+    href = html.escape(issue.html_url, quote=True)
+    title_html = f'<a href="{href}"><strong>{html.escape(title)}</strong></a>'
+    labels = [label.name for label in issue.labels if label.name != year_name]
+    meta = html.escape(format_time(issue.created_at))
+    if labels:
+        meta += " · " + " · ".join(html.escape(name) for name in labels)
+    excerpt = plain_excerpt(issue.body)
+    text = f"{title_html}<br>\n      <sub>{meta}</sub>"
+    if excerpt:
+        text += "<br>\n      " + html.escape(excerpt)
+    cover = cover_src_for_issue(issue, use_placeholder=False)
+    if cover:
+        alt = html.escape(title, quote=True)
+        md.write("<table>\n  <tr>\n")
+        md.write(
+            '    <td width="96" valign="top">\n'
+            f'      <a href="{href}"><img src="{html.escape(cover, quote=True)}"'
+            f' width="80" alt="{alt}"></a>\n'
+            "    </td>\n"
+        )
+        md.write(f"    <td valign=\"top\">\n      {text}\n    </td>\n")
+        md.write("  </tr>\n</table>\n\n")
+        return
+    md.write(f"{title_html}<br>\n<sub>{meta}</sub>\n")
+    if excerpt:
+        md.write("\n" + html.escape(excerpt) + "\n")
+    md.write("\n")
+
+
+def add_md_years(repo, md_path, me):
+    labels = [label for label in get_repo_labels(repo) if is_year_label(label.name)]
+    labels.sort(key=lambda label: int(label.name))
+    with open(md_path, "a+", encoding="utf-8") as md:
+        for label in labels:
+            issues = owned_issues_for_label(repo, label, me)
+            if not issues:
+                continue
+            issues.sort(key=lambda issue: (issue.created_at, issue.number))
+            md.write("## " + label.name + "\n")
+            if len(issues) == 1:
+                md.write("\n")
+                write_year_spotlight(md, issues[0], label.name)
+            else:
+                write_issue_list(md, issues)
+
+
 def owned_issues_for_label(repo, label, me):
     # Do not use PaginatedList.totalCount. GitHub no longer sends rel="last"
     # on these Link headers, and PyGithub then reports 0 for any list that
@@ -366,7 +470,7 @@ def add_md_label(repo, md, me):
     with open(md, "a+", encoding="utf-8") as md:
         for label in labels:
             # we don't need add top label again
-            if label.name in IGNORE_LABELS:
+            if label.name in IGNORE_LABELS or is_year_label(label.name):
                 continue
 
             issues = owned_issues_for_label(repo, label, me)
@@ -374,14 +478,7 @@ def add_md_label(repo, md, me):
                 continue
 
             md.write("## " + label.name + "\n")
-            for i, issue in enumerate(issues):
-                if i == ANCHOR_NUMBER:
-                    md.write("<details><summary>显示更多</summary>\n")
-                    md.write("\n")
-                add_issue_info(issue, md)
-            if len(issues) > ANCHOR_NUMBER:
-                md.write("</details>\n")
-                md.write("\n")
+            write_issue_list(md, issues)
 
 
 def get_to_generate_issues(repo, dir_name, issue_number=None):
@@ -437,6 +534,7 @@ def main(token, repo_name, issue_number=None, dir_name=BACKUP_DIR):
     reading_notes = owned_issues_for_label(repo, READING_NOTES_LABEL, me)
     add_md_cover_wall("README.md", reading_notes)
     add_md_quote_cards("README.md", reading_notes)
+    add_md_years(repo, "README.md", me)
     for func in [add_md_label, add_md_todo]:
         func(repo, "README.md", me)
 
