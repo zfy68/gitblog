@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 import argparse
+import html
 import os
 import re
 
@@ -20,6 +21,15 @@ TOP_ISSUES_LABELS = ["Top"]
 TODO_ISSUES_LABELS = ["TODO"]
 FRIENDS_LABELS = ["Friends"]
 IGNORE_LABELS = FRIENDS_LABELS + TOP_ISSUES_LABELS + TODO_ISSUES_LABELS
+READING_NOTES_LABEL = "读书笔记"
+COVER_COLUMNS = 4
+PLACEHOLDER_COVER = "assets/placeholder-cover.png"
+# <!-- cover: URL --> wins, then an image whose alt contains 封面.
+# Otherwise the first image that is not an author or avatar photo.
+_COVER_COMMENT_RE = re.compile(r"<!--\s*cover:\s*(\S+?)\s*-->", re.IGNORECASE)
+_MD_IMAGE_RE = re.compile(r"!\[([^\]]*)\]\(\s*<?([^)\s>]+)>?")
+_HTML_IMAGE_RE = re.compile(r"<img\b([^>]*)>", re.IGNORECASE)
+_NON_COVER_ALT_KEYWORDS = ("作者", "头像", "肖像", "avatar", "portrait", "author")
 
 FRIENDS_TABLE_HEAD = "| Name | Link | Desc | \n | ---- | ---- | ---- |\n"
 FRIENDS_TABLE_TEMPLATE = "| {name} | {link} | {desc} |\n"
@@ -191,6 +201,96 @@ def add_md_recent(repo, md, me, limit=5):
             print(str(e))
 
 
+def _is_non_cover_alt(alt):
+    folded = (alt or "").lower()
+    return any(word in alt or word in folded for word in _NON_COVER_ALT_KEYWORDS)
+
+
+def _iter_body_images(body):
+    found = []
+    for match in _MD_IMAGE_RE.finditer(body):
+        found.append((match.start(), match.group(1).strip(), match.group(2).strip()))
+    for match in _HTML_IMAGE_RE.finditer(body):
+        attrs = match.group(1)
+        src_match = re.search(
+            r'\bsrc\s*=\s*["\']([^"\']+)["\']', attrs, re.IGNORECASE
+        )
+        if not src_match:
+            src_match = re.search(r"\bsrc\s*=\s*([^\s>]+)", attrs, re.IGNORECASE)
+        if not src_match:
+            continue
+        alt_match = re.search(
+            r'\balt\s*=\s*["\']([^"\']*)["\']', attrs, re.IGNORECASE
+        )
+        alt = alt_match.group(1).strip() if alt_match else ""
+        found.append((match.start(), alt, src_match.group(1).strip()))
+    found.sort(key=lambda item: item[0])
+    return [(alt, url) for _, alt, url in found]
+
+
+def extract_cover_url(body):
+    if not body:
+        return None
+    comment = _COVER_COMMENT_RE.search(body)
+    if comment:
+        return comment.group(1)
+    images = _iter_body_images(body)
+    for alt, url in images:
+        if "封面" in alt and not _is_non_cover_alt(alt):
+            return url
+    for alt, url in images:
+        if not _is_non_cover_alt(alt):
+            return url
+    return None
+
+
+def _cover_cell(issue):
+    title = issue.title or ""
+    cover = extract_cover_url(issue.body) or PLACEHOLDER_COVER
+    date = format_time(issue.created_at)
+    return (
+        '    <td align="center" width="25%" valign="top">\n'
+        f'      <a href="{html.escape(issue.html_url, quote=True)}">\n'
+        f'        <img src="{html.escape(cover, quote=True)}" width="120"'
+        f' alt="{html.escape(title + "封面", quote=True)}"><br>\n'
+        f"        {html.escape(title)}\n"
+        "      </a><br>\n"
+        f"      <sub>{html.escape(date)}</sub>\n"
+        "    </td>"
+    )
+
+
+def render_cover_wall(issues):
+    cells = [_cover_cell(issue) for issue in issues]
+    rows = []
+    for start in range(0, len(cells), COVER_COLUMNS):
+        chunk = cells[start : start + COVER_COLUMNS]
+        rows.append("  <tr>\n" + "\n".join(chunk) + "\n  </tr>")
+    return "<table>\n" + "\n".join(rows) + "\n</table>\n"
+
+
+def add_md_reading_notes(md, issues):
+    md.write("## 📚 读书笔记\n\n")
+    md.write(
+        "按读完或记录时间排列，一点封面就进对应笔记。封面宽 120px。还没有封面的书先用占位图。\n\n"
+    )
+    md.write(render_cover_wall(issues))
+    md.write("\n")
+
+
+def owned_issues_for_label(repo, label, me):
+    # Do not use PaginatedList.totalCount. GitHub no longer sends rel="last"
+    # on these Link headers, and PyGithub then reports 0 for any list that
+    # spans more than one page, which dropped the section heading.
+    issues = [
+        issue
+        for issue in get_issues_from_label(repo, label)
+        if issue and is_me(issue, me)
+    ]
+    issues.sort(key=lambda issue: issue.created_at, reverse=True)
+    return issues
+
+
 def add_md_header(md, repo_name):
     with open(md, "w", encoding="utf-8") as md:
         md.write(MD_HEAD.format(repo_name=repo_name))
@@ -218,21 +318,20 @@ def add_md_label(repo, md, me):
             if label.name in IGNORE_LABELS:
                 continue
 
-            issues = get_issues_from_label(repo, label)
-            if issues.totalCount:
-                md.write("## " + label.name + "\n")
-                issues = sorted(issues, key=lambda x: x.created_at, reverse=True)
-            i = 0
-            for issue in issues:
-                if not issue:
-                    continue
-                if is_me(issue, me):
-                    if i == ANCHOR_NUMBER:
-                        md.write("<details><summary>显示更多</summary>\n")
-                        md.write("\n")
-                    add_issue_info(issue, md)
-                    i += 1
-            if i > ANCHOR_NUMBER:
+            issues = owned_issues_for_label(repo, label, me)
+            if not issues:
+                continue
+            if label.name == READING_NOTES_LABEL:
+                add_md_reading_notes(md, issues)
+                continue
+
+            md.write("## " + label.name + "\n")
+            for i, issue in enumerate(issues):
+                if i == ANCHOR_NUMBER:
+                    md.write("<details><summary>显示更多</summary>\n")
+                    md.write("\n")
+                add_issue_info(issue, md)
+            if len(issues) > ANCHOR_NUMBER:
                 md.write("</details>\n")
                 md.write("\n")
 
