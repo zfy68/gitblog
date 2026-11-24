@@ -26,66 +26,76 @@ My personal blog using issues and GitHub Actions
 - [《清算已毕：波伏瓦自传》✓](https://github.com/zfy68/gitblog/issues/98)--2026-11-24
 - [《豆豆三部曲（普通人的改命路线图）》](https://github.com/zfy68/gitblog/issues/97)--2026-11-24
 - [《第一性原理：普通人的人生高效手册》✓](https://github.com/zfy68/gitblog/issues/96)--2026-11-24
-## 📚 读书笔记
-
-按读完或记录时间排列，一点封面就进对应笔记。封面宽 120px。还没有封面的书先用占位图。
+## 读书笔记
 
 <table>
   <tr>
     <td align="center" width="25%" valign="top">
       <a href="https://github.com/zfy68/gitblog/issues/100">
-        <img src="https://cdn.weread.qq.com/weread/cover/24/cpPlatform_jJwozpZTRxYDFwwjZRfzck/t6_cpPlatform_jJwozpZTRxYDFwwjZRfzck.jpg" width="120" alt="《美国儿科学会育儿百科（第七版）》封面"><br>
+        <img src="https://cdn.weread.qq.com/weread/cover/24/cpPlatform_jJwozpZTRxYDFwwjZRfzck/t6_cpPlatform_jJwozpZTRxYDFwwjZRfzck.jpg" width="120" alt="《美国儿科学会育儿百科（第七版）》"><br>
         《美国儿科学会育儿百科（第七版）》
       </a><br>
-      <sub>2026-11-24</sub>
+      <sub>2026-11-01 开始</sub>
+<br>
+      不要因为没有正确地给孩子换尿布或没能按时带孩子出门而自责。只要大家都平安健康，你就应该从容度过每一天并享受其中的每一分钟。
     </td>
     <td align="center" width="25%" valign="top">
       <a href="https://github.com/zfy68/gitblog/issues/99">
-        <img src="https://cdn.weread.qq.com/weread/cover/13/cpplatform_imtewds6vrwyk1jze7fvrq/t6_cpplatform_imtewds6vrwyk1jze7fvrq1772524720.jpg" width="120" alt="《安定此心：我当精神科医生的12000天》✓封面"><br>
+        <img src="https://cdn.weread.qq.com/weread/cover/13/cpplatform_imtewds6vrwyk1jze7fvrq/t6_cpplatform_imtewds6vrwyk1jze7fvrq1772524720.jpg" width="120" alt="《安定此心：我当精神科医生的12000天》✓"><br>
         《安定此心：我当精神科医生的12000天》✓
       </a><br>
-      <sub>2026-11-24</sub>
+      <sub>2026-10-07 / 2026-11-22</sub>
+<br>
+      我们每天都在清扫看得见的垃圾，却对那些在心里腐烂的精神痛苦视而不见。
     </td>
     <td align="center" width="25%" valign="top">
       <a href="https://github.com/zfy68/gitblog/issues/98">
-        <img src="https://cdn.weread.qq.com/weread/cover/85/cpplatform_aeadwyzdkvsbhkuashe48f/t6_cpplatform_aeadwyzdkvsbhkuashe48f1738918192.jpg" width="120" alt="《清算已毕：波伏瓦自传》✓封面"><br>
+        <img src="https://cdn.weread.qq.com/weread/cover/85/cpplatform_aeadwyzdkvsbhkuashe48f/t6_cpplatform_aeadwyzdkvsbhkuashe48f1738918192.jpg" width="120" alt="《清算已毕：波伏瓦自传》✓"><br>
         《清算已毕：波伏瓦自传》✓
       </a><br>
-      <sub>2026-11-24</sub>
+      <sub>2026-10-27 / 2026-11-14</sub>
+<br>
+      能确定的是，我对自己的命运非常满意，从不希望它是任何其他样子。推动我完成命运的因素，在我看来皆是幸运。
     </td>
     <td align="center" width="25%" valign="top">
       <a href="https://github.com/zfy68/gitblog/issues/97">
-        <img src="https://cdn.weread.qq.com/weread/cover/4/cpplatform_bzgnaxrydr71c4oknntp4c/t6_cpplatform_bzgnaxrydr71c4oknntp4c1789554704.jpg" width="120" alt="《豆豆三部曲（普通人的改命路线图）》封面"><br>
+        <img src="https://cdn.weread.qq.com/weread/cover/4/cpplatform_bzgnaxrydr71c4oknntp4c/t6_cpplatform_bzgnaxrydr71c4oknntp4c1789554704.jpg" width="120" alt="《豆豆三部曲（普通人的改命路线图）》"><br>
         《豆豆三部曲（普通人的改命路线图）》
       </a><br>
-      <sub>2026-11-24</sub>
+      <sub>2026-09-24 开始</sub>
+<br>
+      中国为什么穷？穷就穷在幼稚的思维，穷在期望救主、期望救恩的文化上，这是一个渗透到民族骨子里的价值判断体系，太可怕了。”
     </td>
   </tr>
   <tr>
     <td align="center" width="25%" valign="top">
       <a href="https://github.com/zfy68/gitblog/issues/96">
-        <img src="https://cdn.weread.qq.com/weread/cover/41/cpplatform_tpufzthcymkybyjf83v9un/t6_cpplatform_tpufzthcymkybyjf83v9un1789358460.jpg" width="120" alt="《第一性原理：普通人的人生高效手册》✓封面"><br>
+        <img src="https://cdn.weread.qq.com/weread/cover/41/cpplatform_tpufzthcymkybyjf83v9un/t6_cpplatform_tpufzthcymkybyjf83v9un1789358460.jpg" width="120" alt="《第一性原理：普通人的人生高效手册》✓"><br>
         《第一性原理：普通人的人生高效手册》✓
       </a><br>
-      <sub>2026-11-24</sub>
+      <sub>2026-09-19 / 2026-09-22</sub>
+<br>
+      不接受任何预先设定好的结论，回到最基础的事实后再做推理。
     </td>
     <td align="center" width="25%" valign="top">
       <a href="https://github.com/zfy68/gitblog/issues/95">
-        <img src="https://wfqqreader-1252317822.image.myqcloud.com/cover/49/33362049/t6_33362049.jpg" width="120" alt="《结构性改革》✓封面"><br>
+        <img src="https://wfqqreader-1252317822.image.myqcloud.com/cover/49/33362049/t6_33362049.jpg" width="120" alt="《结构性改革》✓"><br>
         《结构性改革》✓
       </a><br>
-      <sub>2026-11-24</sub>
+      <sub>2026-10-14 / 2026-10-31</sub>
+<br>
+      总之，在面对复杂问题的时候，掌握马克思主义辩证法的基本规律，遵循“问题—结构—对策”的逻辑分析范式，问题基本上能迎刃而解。
     </td>
     <td align="center" width="25%" valign="top">
       <a href="https://github.com/zfy68/gitblog/issues/94">
-        <img src="assets/covers/issue-94.png" width="120" alt="《左耳听风》传奇程序员练级攻略封面"><br>
+        <img src="assets/covers/issue-94.png" width="120" alt="《左耳听风》传奇程序员练级攻略"><br>
         《左耳听风》传奇程序员练级攻略
       </a><br>
       <sub>2024-06-18</sub>
     </td>
     <td align="center" width="25%" valign="top">
       <a href="https://github.com/zfy68/gitblog/issues/93">
-        <img src="assets/covers/issue-93.png" width="120" alt="《非暴力沟通》封面"><br>
+        <img src="assets/covers/issue-93.png" width="120" alt="《非暴力沟通》"><br>
         《非暴力沟通》
       </a><br>
       <sub>2024-05-21</sub>
