@@ -30,8 +30,10 @@ FRIENDS_INFO_DICT = {
 }
 
 
-def get_me(user):
-    return user.get_user().login
+def get_me(repo):
+    # owner.login is on the repository payload (same value as
+    # github.repository_owner). GITHUB_TOKEN cannot call GET /user.
+    return repo.owner.login
 
 
 def is_me(issue, me):
@@ -279,8 +281,8 @@ def generate_rss_feed(repo, filename, me):
 
 def main(token, repo_name, issue_number=None, dir_name=BACKUP_DIR):
     user = login(token)
-    me = get_me(user)
     repo = get_repo(user, repo_name)
+    me = get_me(repo)
     # add to readme one by one, change order here
     add_md_header("README.md", repo_name)
     for func in [add_md_firends, add_md_top, add_md_recent, add_md_label, add_md_todo]:
