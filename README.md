@@ -21,11 +21,105 @@ My personal blog using issues and GitHub Actions
 </table>
 
 ## 最近更新
+- [《美国儿科学会育儿百科（第七版）》](https://github.com/zfy68/gitblog/issues/100)--2026-11-24
+- [《安定此心：我当精神科医生的12000天》✓](https://github.com/zfy68/gitblog/issues/99)--2026-11-24
 - [《清算已毕：波伏瓦自传》✓](https://github.com/zfy68/gitblog/issues/98)--2026-11-24
 - [《豆豆三部曲（普通人的改命路线图）》](https://github.com/zfy68/gitblog/issues/97)--2026-11-24
 - [《第一性原理：普通人的人生高效手册》✓](https://github.com/zfy68/gitblog/issues/96)--2026-11-24
-- [《结构性改革》✓](https://github.com/zfy68/gitblog/issues/95)--2026-11-24
-- [《左耳听风》传奇程序员练级攻略](https://github.com/zfy68/gitblog/issues/94)--2024-06-18
+## 📚 读书笔记
+
+按读完或记录时间排列，一点封面就进对应笔记。封面宽 120px。还没有封面的书先用占位图。
+
+<table>
+  <tr>
+    <td align="center" width="25%" valign="top">
+      <a href="https://github.com/zfy68/gitblog/issues/100">
+        <img src="https://cdn.weread.qq.com/weread/cover/24/cpPlatform_jJwozpZTRxYDFwwjZRfzck/t6_cpPlatform_jJwozpZTRxYDFwwjZRfzck.jpg" width="120" alt="《美国儿科学会育儿百科（第七版）》封面"><br>
+        《美国儿科学会育儿百科（第七版）》
+      </a><br>
+      <sub>2026-11-24</sub>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <a href="https://github.com/zfy68/gitblog/issues/99">
+        <img src="https://cdn.weread.qq.com/weread/cover/13/cpplatform_imtewds6vrwyk1jze7fvrq/t6_cpplatform_imtewds6vrwyk1jze7fvrq1772524720.jpg" width="120" alt="《安定此心：我当精神科医生的12000天》✓封面"><br>
+        《安定此心：我当精神科医生的12000天》✓
+      </a><br>
+      <sub>2026-11-24</sub>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <a href="https://github.com/zfy68/gitblog/issues/98">
+        <img src="https://cdn.weread.qq.com/weread/cover/85/cpplatform_aeadwyzdkvsbhkuashe48f/t6_cpplatform_aeadwyzdkvsbhkuashe48f1738918192.jpg" width="120" alt="《清算已毕：波伏瓦自传》✓封面"><br>
+        《清算已毕：波伏瓦自传》✓
+      </a><br>
+      <sub>2026-11-24</sub>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <a href="https://github.com/zfy68/gitblog/issues/97">
+        <img src="https://cdn.weread.qq.com/weread/cover/4/cpplatform_bzgnaxrydr71c4oknntp4c/t6_cpplatform_bzgnaxrydr71c4oknntp4c1789554704.jpg" width="120" alt="《豆豆三部曲（普通人的改命路线图）》封面"><br>
+        《豆豆三部曲（普通人的改命路线图）》
+      </a><br>
+      <sub>2026-11-24</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%" valign="top">
+      <a href="https://github.com/zfy68/gitblog/issues/96">
+        <img src="https://cdn.weread.qq.com/weread/cover/41/cpplatform_tpufzthcymkybyjf83v9un/t6_cpplatform_tpufzthcymkybyjf83v9un1789358460.jpg" width="120" alt="《第一性原理：普通人的人生高效手册》✓封面"><br>
+        《第一性原理：普通人的人生高效手册》✓
+      </a><br>
+      <sub>2026-11-24</sub>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <a href="https://github.com/zfy68/gitblog/issues/95">
+        <img src="https://wfqqreader-1252317822.image.myqcloud.com/cover/49/33362049/t6_33362049.jpg" width="120" alt="《结构性改革》✓封面"><br>
+        《结构性改革》✓
+      </a><br>
+      <sub>2026-11-24</sub>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <a href="https://github.com/zfy68/gitblog/issues/94">
+        <img src="assets/covers/issue-94.png" width="120" alt="《左耳听风》传奇程序员练级攻略封面"><br>
+        《左耳听风》传奇程序员练级攻略
+      </a><br>
+      <sub>2024-06-18</sub>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <a href="https://github.com/zfy68/gitblog/issues/93">
+        <img src="assets/covers/issue-93.png" width="120" alt="《非暴力沟通》封面"><br>
+        《非暴力沟通》
+      </a><br>
+      <sub>2024-05-21</sub>
+    </td>
+  </tr>
+</table>
+
+## 语录卡片
+
+<table>
+  <tr>
+    <td align="center" width="25%" valign="top">
+      <a href="https://github.com/zfy68/gitblog/issues/100">
+        <img src="assets/quotes/issue-100.png" width="180" alt="《美国儿科学会育儿百科（第七版）》">
+      </a>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <a href="https://github.com/zfy68/gitblog/issues/99">
+        <img src="assets/quotes/issue-99.png" width="180" alt="《安定此心：我当精神科医生的12000天》✓">
+      </a>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <a href="https://github.com/zfy68/gitblog/issues/98">
+        <img src="assets/quotes/issue-98.png" width="180" alt="《清算已毕：波伏瓦自传》✓">
+      </a>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <a href="https://github.com/zfy68/gitblog/issues/97">
+        <img src="assets/quotes/issue-97.png" width="180" alt="《豆豆三部曲（普通人的改命路线图）》">
+      </a>
+    </td>
+  </tr>
+</table>
+
 ## help wanted
 - [Eslint,spotless,git commit template使用](https://github.com/zfy68/gitblog/issues/59)--2023-02-16
 ## bug
@@ -55,238 +149,41 @@ My personal blog using issues and GitHub Actions
 - [依旧阳光](https://github.com/zfy68/gitblog/issues/53)--2022-10-29
 ## 2017
 - [只有天空在上](https://github.com/zfy68/gitblog/issues/55)--2022-10-29
-## 📚 读书笔记
+## 读书笔记
+- [《美国儿科学会育儿百科（第七版）》](https://github.com/zfy68/gitblog/issues/100)--2026-11-24
+- [《安定此心：我当精神科医生的12000天》✓](https://github.com/zfy68/gitblog/issues/99)--2026-11-24
+- [《清算已毕：波伏瓦自传》✓](https://github.com/zfy68/gitblog/issues/98)--2026-11-24
+- [《豆豆三部曲（普通人的改命路线图）》](https://github.com/zfy68/gitblog/issues/97)--2026-11-24
+- [《第一性原理：普通人的人生高效手册》✓](https://github.com/zfy68/gitblog/issues/96)--2026-11-24
+<details><summary>显示更多</summary>
 
-按读完或记录时间排列，一点封面就进对应笔记。封面宽 120px。还没有封面的书先用占位图。
-
-<table>
-  <tr>
-    <td align="center" width="25%" valign="top">
-      <a href="https://github.com/zfy68/gitblog/issues/99">
-        <img src="https://cdn.weread.qq.com/weread/cover/13/cpplatform_imtewds6vrwyk1jze7fvrq/t6_cpplatform_imtewds6vrwyk1jze7fvrq1772524720.jpg" width="120" alt="《安定此心：我当精神科医生的12000天》✓封面"><br>
-        《安定此心：我当精神科医生的12000天》✓
-      </a><br>
-      <sub>2026-11-24</sub>
-    </td>
-    <td align="center" width="25%" valign="top">
-      <a href="https://github.com/zfy68/gitblog/issues/98">
-        <img src="https://cdn.weread.qq.com/weread/cover/85/cpplatform_aeadwyzdkvsbhkuashe48f/t6_cpplatform_aeadwyzdkvsbhkuashe48f1738918192.jpg" width="120" alt="《清算已毕：波伏瓦自传》✓封面"><br>
-        《清算已毕：波伏瓦自传》✓
-      </a><br>
-      <sub>2026-11-24</sub>
-    </td>
-    <td align="center" width="25%" valign="top">
-      <a href="https://github.com/zfy68/gitblog/issues/97">
-        <img src="https://cdn.weread.qq.com/weread/cover/4/cpplatform_bzgnaxrydr71c4oknntp4c/t6_cpplatform_bzgnaxrydr71c4oknntp4c1789554704.jpg" width="120" alt="《豆豆三部曲（普通人的改命路线图）》封面"><br>
-        《豆豆三部曲（普通人的改命路线图）》
-      </a><br>
-      <sub>2026-11-24</sub>
-    </td>
-    <td align="center" width="25%" valign="top">
-      <a href="https://github.com/zfy68/gitblog/issues/96">
-        <img src="https://cdn.weread.qq.com/weread/cover/41/cpplatform_tpufzthcymkybyjf83v9un/t6_cpplatform_tpufzthcymkybyjf83v9un1789358460.jpg" width="120" alt="《第一性原理：普通人的人生高效手册》✓封面"><br>
-        《第一性原理：普通人的人生高效手册》✓
-      </a><br>
-      <sub>2026-11-24</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="25%" valign="top">
-      <a href="https://github.com/zfy68/gitblog/issues/95">
-        <img src="https://wfqqreader-1252317822.image.myqcloud.com/cover/49/33362049/t6_33362049.jpg" width="120" alt="《结构性改革》✓封面"><br>
-        《结构性改革》✓
-      </a><br>
-      <sub>2026-11-24</sub>
-    </td>
-    <td align="center" width="25%" valign="top">
-      <a href="https://github.com/zfy68/gitblog/issues/94">
-        <img src="https://github.com/zfy68/gitblog/assets/37278360/7daf649c-102a-4f42-86ac-8fddda2e5ef7" width="120" alt="《左耳听风》传奇程序员练级攻略封面"><br>
-        《左耳听风》传奇程序员练级攻略
-      </a><br>
-      <sub>2024-06-18</sub>
-    </td>
-    <td align="center" width="25%" valign="top">
-      <a href="https://github.com/zfy68/gitblog/issues/93">
-        <img src="assets/placeholder-cover.png" width="120" alt="《非暴力沟通》封面"><br>
-        《非暴力沟通》
-      </a><br>
-      <sub>2024-05-21</sub>
-    </td>
-    <td align="center" width="25%" valign="top">
-      <a href="https://github.com/zfy68/gitblog/issues/92">
-        <img src="https://github.com/zfy68/gitblog/assets/37278360/c4a10270-8592-4f14-8961-3434a36ba209" width="120" alt="《白银时代》✓封面"><br>
-        《白银时代》✓
-      </a><br>
-      <sub>2024-03-05</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="25%" valign="top">
-      <a href="https://github.com/zfy68/gitblog/issues/91">
-        <img src="https://github.com/zfy68/gitblog/assets/37278360/5e0733ac-5396-4aef-9f3d-0997b1bd3b51" width="120" alt="《黄金时代》✓封面"><br>
-        《黄金时代》✓
-      </a><br>
-      <sub>2024-01-06</sub>
-    </td>
-    <td align="center" width="25%" valign="top">
-      <a href="https://github.com/zfy68/gitblog/issues/90">
-        <img src="https://github.com/zfy68/gitblog/assets/37278360/2896e366-5037-48fd-ad09-7b380961d11e" width="120" alt="《遥远的救世主》✓封面"><br>
-        《遥远的救世主》✓
-      </a><br>
-      <sub>2023-12-23</sub>
-    </td>
-    <td align="center" width="25%" valign="top">
-      <a href="https://github.com/zfy68/gitblog/issues/77">
-        <img src="assets/placeholder-cover.png" width="120" alt="《The Old Man and the Sea》✔封面"><br>
-        《The Old Man and the Sea》✔
-      </a><br>
-      <sub>2023-05-24</sub>
-    </td>
-    <td align="center" width="25%" valign="top">
-      <a href="https://github.com/zfy68/gitblog/issues/76">
-        <img src="assets/placeholder-cover.png" width="120" alt="《ELON MUSK》封面"><br>
-        《ELON MUSK》
-      </a><br>
-      <sub>2023-04-03</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="25%" valign="top">
-      <a href="https://github.com/zfy68/gitblog/issues/73">
-        <img src="assets/placeholder-cover.png" width="120" alt="《ArcGIS From Basics To Practice》封面"><br>
-        《ArcGIS From Basics To Practice》
-      </a><br>
-      <sub>2023-03-23</sub>
-    </td>
-    <td align="center" width="25%" valign="top">
-      <a href="https://github.com/zfy68/gitblog/issues/69">
-        <img src="assets/placeholder-cover.png" width="120" alt="《Silent Majority》Li Yinhe封面"><br>
-        《Silent Majority》Li Yinhe
-      </a><br>
-      <sub>2023-03-19</sub>
-    </td>
-    <td align="center" width="25%" valign="top">
-      <a href="https://github.com/zfy68/gitblog/issues/68">
-        <img src="https://user-images.githubusercontent.com/37278360/226149437-c8f2ffe8-1862-4a05-9f1b-394416efb66b.png" width="120" alt="《Silent Majority》✔封面"><br>
-        《Silent Majority》✔
-      </a><br>
-      <sub>2023-03-19</sub>
-    </td>
-    <td align="center" width="25%" valign="top">
-      <a href="https://github.com/zfy68/gitblog/issues/61">
-        <img src="https://user-images.githubusercontent.com/37278360/221445423-b5d4fa91-5487-4562-a4d0-072da46e899c.jpg" width="120" alt="《Agile Software Development Principles, Patterns, and Practices》封面"><br>
-        《Agile Software Development Principles, Patterns, and Practices》
-      </a><br>
-      <sub>2023-02-26</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="25%" valign="top">
-      <a href="https://github.com/zfy68/gitblog/issues/60">
-        <img src="assets/placeholder-cover.png" width="120" alt="《THE McKINSEY WAY》original ✔封面"><br>
-        《THE McKINSEY WAY》original ✔
-      </a><br>
-      <sub>2023-02-25</sub>
-    </td>
-    <td align="center" width="25%" valign="top">
-      <a href="https://github.com/zfy68/gitblog/issues/58">
-        <img src="assets/placeholder-cover.png" width="120" alt="《Karl Marx》✔封面"><br>
-        《Karl Marx》✔
-      </a><br>
-      <sub>2023-02-15</sub>
-    </td>
-    <td align="center" width="25%" valign="top">
-      <a href="https://github.com/zfy68/gitblog/issues/52">
-        <img src="assets/placeholder-cover.png" width="120" alt="《INVESTING The Last Liberal Art, Second Edition》✔封面"><br>
-        《INVESTING The Last Liberal Art, Second Edition》✔
-      </a><br>
-      <sub>2022-10-25</sub>
-    </td>
-    <td align="center" width="25%" valign="top">
-      <a href="https://github.com/zfy68/gitblog/issues/50">
-        <img src="assets/placeholder-cover.png" width="120" alt="《PMP》封面"><br>
-        《PMP》
-      </a><br>
-      <sub>2022-09-06</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="25%" valign="top">
-      <a href="https://github.com/zfy68/gitblog/issues/48">
-        <img src="https://user-images.githubusercontent.com/37278360/183315532-111eb2d5-da1f-4f88-9d28-d9f37099e2b8.jpg" width="120" alt="《Designing Data-Intensive Application》封面"><br>
-        《Designing Data-Intensive Application》
-      </a><br>
-      <sub>2022-08-07</sub>
-    </td>
-    <td align="center" width="25%" valign="top">
-      <a href="https://github.com/zfy68/gitblog/issues/47">
-        <img src="assets/placeholder-cover.png" width="120" alt="《Guns , Germs , and Steel》封面"><br>
-        《Guns , Germs , and Steel》
-      </a><br>
-      <sub>2022-08-04</sub>
-    </td>
-    <td align="center" width="25%" valign="top">
-      <a href="https://github.com/zfy68/gitblog/issues/46">
-        <img src="assets/placeholder-cover.png" width="120" alt="《THE McKINSEY WAY》✔封面"><br>
-        《THE McKINSEY WAY》✔
-      </a><br>
-      <sub>2022-08-01</sub>
-    </td>
-    <td align="center" width="25%" valign="top">
-      <a href="https://github.com/zfy68/gitblog/issues/45">
-        <img src="https://user-images.githubusercontent.com/37278360/180890644-ed4e80c6-0937-4fc0-83dc-7e0e87d2cef9.jpg" width="120" alt="《Never Give Up》 ✔封面"><br>
-        《Never Give Up》 ✔
-      </a><br>
-      <sub>2022-07-24</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="25%" valign="top">
-      <a href="https://github.com/zfy68/gitblog/issues/44">
-        <img src="https://user-images.githubusercontent.com/37278360/180890757-95bb412f-c729-44ef-8226-a0491307d096.jpg" width="120" alt="《The Wealth of Nations (II) 》封面"><br>
-        《The Wealth of Nations (II) 》
-      </a><br>
-      <sub>2022-07-19</sub>
-    </td>
-    <td align="center" width="25%" valign="top">
-      <a href="https://github.com/zfy68/gitblog/issues/42">
-        <img src="assets/placeholder-cover.png" width="120" alt="《West with the Night》✔封面"><br>
-        《West with the Night》✔
-      </a><br>
-      <sub>2022-07-10</sub>
-    </td>
-    <td align="center" width="25%" valign="top">
-      <a href="https://github.com/zfy68/gitblog/issues/41">
-        <img src="assets/placeholder-cover.png" width="120" alt="《Secrets of the Temple》封面"><br>
-        《Secrets of the Temple》
-      </a><br>
-      <sub>2022-05-15</sub>
-    </td>
-    <td align="center" width="25%" valign="top">
-      <a href="https://github.com/zfy68/gitblog/issues/40">
-        <img src="assets/placeholder-cover.png" width="120" alt="《Thinking fast and slow》✔封面"><br>
-        《Thinking fast and slow》✔
-      </a><br>
-      <sub>2022-04-25</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="25%" valign="top">
-      <a href="https://github.com/zfy68/gitblog/issues/32">
-        <img src="assets/placeholder-cover.png" width="120" alt="《私はそうは思わない》✔封面"><br>
-        《私はそうは思わない》✔
-      </a><br>
-      <sub>2022-02-08</sub>
-    </td>
-    <td align="center" width="25%" valign="top">
-      <a href="https://github.com/zfy68/gitblog/issues/12">
-        <img src="assets/placeholder-cover.png" width="120" alt="《The Wealth of Nations (I) 》 ✔封面"><br>
-        《The Wealth of Nations (I) 》 ✔
-      </a><br>
-      <sub>2021-12-15</sub>
-    </td>
-  </tr>
-</table>
+- [《结构性改革》✓](https://github.com/zfy68/gitblog/issues/95)--2026-11-24
+- [《左耳听风》传奇程序员练级攻略](https://github.com/zfy68/gitblog/issues/94)--2024-06-18
+- [《非暴力沟通》](https://github.com/zfy68/gitblog/issues/93)--2024-05-21
+- [《白银时代》✓](https://github.com/zfy68/gitblog/issues/92)--2024-03-05
+- [《黄金时代》✓](https://github.com/zfy68/gitblog/issues/91)--2024-01-06
+- [《遥远的救世主》✓](https://github.com/zfy68/gitblog/issues/90)--2023-12-23
+- [《The Old Man and the Sea》✔](https://github.com/zfy68/gitblog/issues/77)--2023-05-24
+- [《ELON MUSK》](https://github.com/zfy68/gitblog/issues/76)--2023-04-03
+- [《ArcGIS From Basics To Practice》](https://github.com/zfy68/gitblog/issues/73)--2023-03-23
+- [《Silent Majority》Li Yinhe](https://github.com/zfy68/gitblog/issues/69)--2023-03-19
+- [《Silent Majority》✔](https://github.com/zfy68/gitblog/issues/68)--2023-03-19
+- [《Agile Software Development Principles, Patterns, and Practices》](https://github.com/zfy68/gitblog/issues/61)--2023-02-26
+- [《THE McKINSEY WAY》original ✔](https://github.com/zfy68/gitblog/issues/60)--2023-02-25
+- [《Karl Marx》✔](https://github.com/zfy68/gitblog/issues/58)--2023-02-15
+- [《INVESTING The Last Liberal Art, Second Edition》✔](https://github.com/zfy68/gitblog/issues/52)--2022-10-25
+- [《PMP》](https://github.com/zfy68/gitblog/issues/50)--2022-09-06
+- [《Designing Data-Intensive Application》](https://github.com/zfy68/gitblog/issues/48)--2022-08-07
+- [《Guns , Germs , and Steel》](https://github.com/zfy68/gitblog/issues/47)--2022-08-04
+- [《THE McKINSEY WAY》✔](https://github.com/zfy68/gitblog/issues/46)--2022-08-01
+- [《Never Give Up》 ✔](https://github.com/zfy68/gitblog/issues/45)--2022-07-24
+- [《The Wealth of Nations (II) 》](https://github.com/zfy68/gitblog/issues/44)--2022-07-19
+- [《West with the Night》✔](https://github.com/zfy68/gitblog/issues/42)--2022-07-10
+- [《Secrets of the Temple》](https://github.com/zfy68/gitblog/issues/41)--2022-05-15
+- [《Thinking fast and slow》✔](https://github.com/zfy68/gitblog/issues/40)--2022-04-25
+- [《私はそうは思わない》✔](https://github.com/zfy68/gitblog/issues/32)--2022-02-08
+- [《The Wealth of Nations (I) 》 ✔](https://github.com/zfy68/gitblog/issues/12)--2021-12-15
+</details>
 
 ## 2022
 - [分享问题等于解决问题的一半。](https://github.com/zfy68/gitblog/issues/51)--2022-10-14
