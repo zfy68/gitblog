@@ -21,11 +21,11 @@ My personal blog using issues and GitHub Actions
 </table>
 
 ## 最近更新
+- [《清算已毕：波伏瓦自传》✓](https://github.com/zfy68/gitblog/issues/98)--2026-11-24
+- [《豆豆三部曲（普通人的改命路线图）》](https://github.com/zfy68/gitblog/issues/97)--2026-11-24
+- [《第一性原理：普通人的人生高效手册》✓](https://github.com/zfy68/gitblog/issues/96)--2026-11-24
 - [《结构性改革》✓](https://github.com/zfy68/gitblog/issues/95)--2026-11-24
 - [《左耳听风》传奇程序员练级攻略](https://github.com/zfy68/gitblog/issues/94)--2024-06-18
-- [《非暴力沟通》](https://github.com/zfy68/gitblog/issues/93)--2024-05-21
-- [《白银时代》✓](https://github.com/zfy68/gitblog/issues/92)--2024-03-05
-- [《黄金时代》✓](https://github.com/zfy68/gitblog/issues/91)--2024-01-06
 ## help wanted
 - [Eslint,spotless,git commit template使用](https://github.com/zfy68/gitblog/issues/59)--2023-02-16
 ## bug
@@ -60,6 +60,36 @@ My personal blog using issues and GitHub Actions
 按读完或记录时间排列，一点封面就进对应笔记。封面宽 120px。还没有封面的书先用占位图。
 
 <table>
+  <tr>
+    <td align="center" width="25%" valign="top">
+      <a href="https://github.com/zfy68/gitblog/issues/99">
+        <img src="https://cdn.weread.qq.com/weread/cover/13/cpplatform_imtewds6vrwyk1jze7fvrq/t6_cpplatform_imtewds6vrwyk1jze7fvrq1772524720.jpg" width="120" alt="《安定此心：我当精神科医生的12000天》✓封面"><br>
+        《安定此心：我当精神科医生的12000天》✓
+      </a><br>
+      <sub>2026-11-24</sub>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <a href="https://github.com/zfy68/gitblog/issues/98">
+        <img src="https://cdn.weread.qq.com/weread/cover/85/cpplatform_aeadwyzdkvsbhkuashe48f/t6_cpplatform_aeadwyzdkvsbhkuashe48f1738918192.jpg" width="120" alt="《清算已毕：波伏瓦自传》✓封面"><br>
+        《清算已毕：波伏瓦自传》✓
+      </a><br>
+      <sub>2026-11-24</sub>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <a href="https://github.com/zfy68/gitblog/issues/97">
+        <img src="https://cdn.weread.qq.com/weread/cover/4/cpplatform_bzgnaxrydr71c4oknntp4c/t6_cpplatform_bzgnaxrydr71c4oknntp4c1789554704.jpg" width="120" alt="《豆豆三部曲（普通人的改命路线图）》封面"><br>
+        《豆豆三部曲（普通人的改命路线图）》
+      </a><br>
+      <sub>2026-11-24</sub>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <a href="https://github.com/zfy68/gitblog/issues/96">
+        <img src="https://cdn.weread.qq.com/weread/cover/41/cpplatform_tpufzthcymkybyjf83v9un/t6_cpplatform_tpufzthcymkybyjf83v9un1789358460.jpg" width="120" alt="《第一性原理：普通人的人生高效手册》✓封面"><br>
+        《第一性原理：普通人的人生高效手册》✓
+      </a><br>
+      <sub>2026-11-24</sub>
+    </td>
+  </tr>
   <tr>
     <td align="center" width="25%" valign="top">
       <a href="https://github.com/zfy68/gitblog/issues/95">
