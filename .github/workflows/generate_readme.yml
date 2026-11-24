@@ -11,10 +11,31 @@ on:
       - master
     paths:
       - main.py
+      - .github/workflows/generate_readme.yml
+      - .github/simplify/**
+      - .github/simplify_reading_notes.py
 
 jobs:
+  simplify-reading-notes:
+    if: github.event_name == 'push'
+    name: Simplify reading-note issues
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      contents: read
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+      - name: Update issue bodies
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: python .github/simplify_reading_notes.py
+
   sync:
     name: Generate README
+    needs: simplify-reading-notes
+    if: always() && (needs.simplify-reading-notes.result == 'success' || needs.simplify-reading-notes.result == 'skipped')
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -41,6 +62,7 @@ jobs:
       - name: Generate new md
         run: |
           source venv/bin/activate
+          rm -f BACKUP/95_*.md BACKUP/96_*.md BACKUP/97_*.md BACKUP/98_*.md BACKUP/99_*.md BACKUP/100_*.md
           python main.py ${{ secrets.GITHUB_TOKEN }} ${{ github.repository }} --issue_number '${{ github.event.issue.number }}'
 
       - name: Push README
