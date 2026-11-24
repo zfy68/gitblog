@@ -272,20 +272,67 @@ def cover_src_for_issue(issue, use_placeholder=True):
     return None
 
 
+_READ_START_RE = re.compile(r"(\d{4}-\d{2}-\d{2})\s*开始")
+_READ_END_RE = re.compile(r"(\d{4}-\d{2}-\d{2})\s*(?:读完|结束)")
+_POPULAR_HEADING_RE = re.compile(r"^#{1,6}\s*.*(?:热门划线|经典语录).*$", re.MULTILINE)
+
+
+def reading_dates(issue):
+    body = issue.body or ""
+    start = _READ_START_RE.search(body)
+    end = _READ_END_RE.search(body)
+    if start and end:
+        return f"{start.group(1)} / {end.group(1)}"
+    if start:
+        return f"{start.group(1)} 开始"
+    if end:
+        return end.group(1)
+    return format_time(issue.created_at)
+
+
+def popular_underline(body):
+    if not body:
+        return ""
+    heading = _POPULAR_HEADING_RE.search(body)
+    if not heading:
+        return ""
+    rest = body[heading.end() :]
+    nxt = re.search(r"^#{1,6}\s+", rest, re.MULTILINE)
+    if nxt:
+        rest = rest[: nxt.start()]
+    lines = []
+    started = False
+    for line in rest.splitlines():
+        stripped = line.strip()
+        if stripped.startswith(">"):
+            started = True
+            lines.append(re.sub(r"^>\s?", "", stripped))
+            continue
+        if started:
+            break
+    return re.sub(r"\s+", " ", " ".join(lines)).strip()
+
+
 def _cover_cell(issue):
     title = issue.title or ""
     cover = cover_src_for_issue(issue)
-    date = format_time(issue.created_at)
-    return (
-        '    <td align="center" width="25%" valign="top">\n'
-        f'      <a href="{html.escape(issue.html_url, quote=True)}">\n'
+    dates = reading_dates(issue)
+    quote = popular_underline(issue.body)
+    href = html.escape(issue.html_url, quote=True)
+    lines = [
+        '    <td align="center" width="25%" valign="top">',
+        f'      <a href="{href}">',
         f'        <img src="{html.escape(cover, quote=True)}" width="120"'
-        f' alt="{html.escape(title + "封面", quote=True)}"><br>\n'
-        f"        {html.escape(title)}\n"
-        "      </a><br>\n"
-        f"      <sub>{html.escape(date)}</sub>\n"
-        "    </td>"
-    )
+        f' alt="{html.escape(title, quote=True)}"><br>',
+        f"        {html.escape(title)}",
+        "      </a><br>",
+        f"      <sub>{html.escape(dates)}</sub>",
+    ]
+    if quote:
+        lines.append("<br>")
+        lines.append("      " + html.escape(quote))
+    lines.append("    </td>")
+    return "\n".join(lines)
 
 
 def render_cover_wall(issues):
@@ -302,10 +349,7 @@ def add_md_cover_wall(md_path, issues):
     if not shown:
         return
     with open(md_path, "a+", encoding="utf-8") as md:
-        md.write("## 📚 读书笔记\n\n")
-        md.write(
-            "按读完或记录时间排列，一点封面就进对应笔记。封面宽 120px。还没有封面的书先用占位图。\n\n"
-        )
+        md.write("## 读书笔记\n\n")
         md.write(render_cover_wall(shown))
         md.write("\n")
 
