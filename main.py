@@ -23,9 +23,12 @@ FRIENDS_LABELS = ["Friends"]
 IGNORE_LABELS = FRIENDS_LABELS + TOP_ISSUES_LABELS + TODO_ISSUES_LABELS
 READING_NOTES_LABEL = "读书笔记"
 COVER_COLUMNS = 4
+COVER_WALL_LIMIT = 8
+QUOTE_CARD_LIMIT = 4
 PLACEHOLDER_COVER = "assets/placeholder-cover.png"
-# <!-- cover: URL --> wins, then an image whose alt contains 封面.
-# Otherwise the first image that is not an author or avatar photo.
+# <!-- cover: URL --> wins, then assets/covers/issue-<n>.png when that file
+# exists, then an image whose alt contains 封面, then the first image that
+# is not an author or avatar photo.
 _COVER_COMMENT_RE = re.compile(r"<!--\s*cover:\s*(\S+?)\s*-->", re.IGNORECASE)
 _MD_IMAGE_RE = re.compile(r"!\[([^\]]*)\]\(\s*<?([^)\s>]+)>?")
 _HTML_IMAGE_RE = re.compile(r"<img\b([^>]*)>", re.IGNORECASE)
@@ -244,9 +247,27 @@ def extract_cover_url(body):
     return None
 
 
+def local_asset_path(folder, number):
+    path = f"assets/{folder}/issue-{number}.png"
+    if os.path.isfile(path):
+        return path
+    return None
+
+
+def cover_src_for_issue(issue):
+    body = issue.body or ""
+    comment = _COVER_COMMENT_RE.search(body) if body else None
+    if comment:
+        return comment.group(1)
+    local = local_asset_path("covers", issue.number)
+    if local:
+        return local
+    return extract_cover_url(body) or PLACEHOLDER_COVER
+
+
 def _cover_cell(issue):
     title = issue.title or ""
-    cover = extract_cover_url(issue.body) or PLACEHOLDER_COVER
+    cover = cover_src_for_issue(issue)
     date = format_time(issue.created_at)
     return (
         '    <td align="center" width="25%" valign="top">\n'
@@ -269,13 +290,43 @@ def render_cover_wall(issues):
     return "<table>\n" + "\n".join(rows) + "\n</table>\n"
 
 
-def add_md_reading_notes(md, issues):
-    md.write("## 📚 读书笔记\n\n")
-    md.write(
-        "按读完或记录时间排列，一点封面就进对应笔记。封面宽 120px。还没有封面的书先用占位图。\n\n"
-    )
-    md.write(render_cover_wall(issues))
-    md.write("\n")
+def add_md_cover_wall(md_path, issues):
+    shown = list(issues)[:COVER_WALL_LIMIT]
+    if not shown:
+        return
+    with open(md_path, "a+", encoding="utf-8") as md:
+        md.write("## 📚 读书笔记\n\n")
+        md.write(
+            "按读完或记录时间排列，一点封面就进对应笔记。封面宽 120px。还没有封面的书先用占位图。\n\n"
+        )
+        md.write(render_cover_wall(shown))
+        md.write("\n")
+
+
+def add_md_quote_cards(md_path, issues):
+    chosen = []
+    for issue in issues:
+        path = local_asset_path("quotes", issue.number)
+        if not path:
+            continue
+        chosen.append((issue, path))
+        if len(chosen) >= QUOTE_CARD_LIMIT:
+            break
+    if not chosen:
+        return
+    cells = []
+    for issue, path in chosen:
+        title = html.escape(issue.title or "", quote=True)
+        cells.append(
+            '    <td align="center" width="25%" valign="top">\n'
+            f'      <a href="{html.escape(issue.html_url, quote=True)}">\n'
+            f'        <img src="{html.escape(path, quote=True)}" width="180" alt="{title}">\n'
+            "      </a>\n"
+            "    </td>"
+        )
+    with open(md_path, "a+", encoding="utf-8") as md:
+        md.write("## 语录卡片\n\n")
+        md.write("<table>\n  <tr>\n" + "\n".join(cells) + "\n  </tr>\n</table>\n\n")
 
 
 def owned_issues_for_label(repo, label, me):
@@ -320,9 +371,6 @@ def add_md_label(repo, md, me):
 
             issues = owned_issues_for_label(repo, label, me)
             if not issues:
-                continue
-            if label.name == READING_NOTES_LABEL:
-                add_md_reading_notes(md, issues)
                 continue
 
             md.write("## " + label.name + "\n")
@@ -384,7 +432,12 @@ def main(token, repo_name, issue_number=None, dir_name=BACKUP_DIR):
     me = get_me(repo)
     # add to readme one by one, change order here
     add_md_header("README.md", repo_name)
-    for func in [add_md_firends, add_md_top, add_md_recent, add_md_label, add_md_todo]:
+    for func in [add_md_firends, add_md_top, add_md_recent]:
+        func(repo, "README.md", me)
+    reading_notes = owned_issues_for_label(repo, READING_NOTES_LABEL, me)
+    add_md_cover_wall("README.md", reading_notes)
+    add_md_quote_cards("README.md", reading_notes)
+    for func in [add_md_label, add_md_todo]:
         func(repo, "README.md", me)
 
     generate_rss_feed(repo, "feed.xml", me)
