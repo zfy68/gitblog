@@ -21,7 +21,7 @@ My personal blog using issues and GitHub Actions
 </table>
 
 ## 最近更新
-- [📚 待读清单](https://github.com/zfy68/gitblog/issues/101)--2026-11-25
+- [待读清单](https://github.com/zfy68/gitblog/issues/101)--2026-11-25
 - [《美国儿科学会育儿百科（第七版）》](https://github.com/zfy68/gitblog/issues/100)--2026-11-24
 - [《安定此心：我当精神科医生的12000天》✓](https://github.com/zfy68/gitblog/issues/99)--2026-11-24
 - [《清算已毕：波伏瓦自传》✓](https://github.com/zfy68/gitblog/issues/98)--2026-11-24
@@ -32,8 +32,8 @@ My personal blog using issues and GitHub Actions
   <tr>
     <td align="center" width="25%" valign="top">
       <a href="https://github.com/zfy68/gitblog/issues/101">
-        <img src="assets/placeholder-cover.png" width="120" alt="📚 待读清单"><br>
-        📚 待读清单
+        <img src="assets/placeholder-cover.png" width="120" alt="待读清单"><br>
+        待读清单
       </a><br>
       <sub>2026-11-25</sub>
     </td>
@@ -269,7 +269,7 @@ My personal blog using issues and GitHub Actions
 - [clash注册](https://github.com/zfy68/gitblog/issues/9)--2021-12-06
 - [KMS激活工具](https://github.com/zfy68/gitblog/issues/8)--2021-12-06
 ## 读书笔记
-- [📚 待读清单](https://github.com/zfy68/gitblog/issues/101)--2026-11-25
+- [待读清单](https://github.com/zfy68/gitblog/issues/101)--2026-11-25
 - [《美国儿科学会育儿百科（第七版）》](https://github.com/zfy68/gitblog/issues/100)--2026-11-24
 - [《安定此心：我当精神科医生的12000天》✓](https://github.com/zfy68/gitblog/issues/99)--2026-11-24
 - [《清算已毕：波伏瓦自传》✓](https://github.com/zfy68/gitblog/issues/98)--2026-11-24
