@@ -1,5 +1,314 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/zfy68/gitblog</id><title>RSS feed of zfy68's gitblog</title><updated>2026-11-24T08:32:12.731088+00:00</updated><link href="https://github.com/zfy68/gitblog"/><link href="https://raw.githubusercontent.com/zfy68/gitblog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/zfy68/gitblog/issues/100</id><title>《美国儿科学会育儿百科（第七版）》</title><updated>2026-11-24T08:32:13.497302+00:00</updated><content type="html"><![CDATA[<p><img src="https://cdn.weread.qq.com/weread/cover/24/cpPlatform_jJwozpZTRxYDFwwjZRfzck/t6_cpPlatform_jJwozpZTRxYDFwwjZRfzck.jpg" alt="封面" /></p>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/zfy68/gitblog</id><title>RSS feed of zfy68's gitblog</title><updated>2026-11-25T02:47:57.379360+00:00</updated><link href="https://github.com/zfy68/gitblog"/><link href="https://raw.githubusercontent.com/zfy68/gitblog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/zfy68/gitblog/issues/101</id><title>📚 待读清单</title><updated>2026-11-25T02:47:57.985268+00:00</updated><content type="html"><![CDATA[<p>这份待读清单汇总两类书：一是 X 上 <a href="https://x.com/rerere_o_o/status/2125059654153855147">@rerere_o_o 征集「绝对该读」的回复</a>里提到的 19 本；二是我微信读书书架上尚未读完的书（含还没开始的）。读完把 <code>- [ ]</code> 改成 <code>- [x]</code> 即可。以后新书直接追加在文末「后续追加」。</p>
+<p>更新日期：2026-11-25</p>
+<hr />
+<h2>微信读书可读</h2>
+<p>来自上述 X 帖回复，目前能在微信读书打开的中文版。</p>
+<ul>
+<li>
+<p><input disabled="" type="checkbox"> <a href="https://weread.qq.com/web/reader/b1132730813ab9a9fg012df1">《方舟》</a>（『方舟』，夕木春央 / 佳辰 译）</p>
+<ul>
+<li><strong>为什么读</strong>：封闭空间里的本格推理，把一群人放进会逐渐被水淹没的地下建筑，看人在极限处境里如何选择。</li>
+<li><strong>阅读建议</strong>：先读这一本，再读《十戒》《乐园》；注意避开剧透。章节停顿清楚，适合利用碎片时间一章章读。微信读书有佳辰译本，可直接打开。</li>
+</ul>
+</li>
+<li>
+<p><input disabled="" type="checkbox"> <a href="https://weread.qq.com/web/reader/a34322d0813ab71f5g0140b5">《白》</a>（『すべての、白いものたちの』，韩江 / 胡椒筒 译）</p>
+<ul>
+<li><strong>为什么读</strong>：以「白色」为线索写成的短章，既像小说也像散文诗，写记忆、哀悼，以及日常里那些洁净却易逝的事物。</li>
+<li><strong>阅读建议</strong>：短章结构很适合带娃间隙读一两节，不必一次读完。微信读书为胡椒筒译本。</li>
+</ul>
+</li>
+<li>
+<p><input disabled="" type="checkbox"> <a href="https://weread.qq.com/web/reader/c3e322a0813ab6e82g017293">《火车》</a>（『火車』，宫部美雪）</p>
+<ul>
+<li><strong>为什么读</strong>：宫部美雪代表作之一，写泡沫经济背景下一个普通上班族被卷入信贷事件后的处境与选择，推理和社会小说兼有。</li>
+<li><strong>阅读建议</strong>：务必避开剧透。章节停顿清楚，适合碎片阅读。微信读书为南海出版公司版本。</li>
+</ul>
+</li>
+<li>
+<p><input disabled="" type="checkbox"> <a href="https://weread.qq.com/web/reader/6c932130813ab91b1g01941d">《如果世上不再有猫》</a>（『世界から猫が消えたなら』，川村元气 / 王蕴洁 译）</p>
+<ul>
+<li><strong>为什么读</strong>：篇幅不长，用「如果世界上少一样东西」的设定，问什么东西对自己真正重要。</li>
+<li><strong>阅读建议</strong>：体量小，一两天的碎片时间往往就能读完。有同名电影，想对照的话建议先读书。微信读书为王蕴洁译本。</li>
+</ul>
+</li>
+<li>
+<p><input disabled="" type="checkbox"> <a href="https://weread.qq.com/web/reader/22c32a305dd66222c91ebc5">《理想国》</a>（『国家』，柏拉图 / 张竹明 译，译林版）</p>
+<ul>
+<li><strong>为什么读</strong>：讨论正义、教育和理想城邦的哲学经典，是理解西方政治思想的起点之一。</li>
+<li><strong>阅读建议</strong>：不必一次读完，清醒时读一小节即可，犯困时不适合硬啃。译林张竹明译本较通行；另有<a href="https://weread.qq.com/web/reader/2e1325e0813ab78c4g013897">何祥迪译的果麦版</a>等其他译本，选一种读下去即可。</li>
+</ul>
+</li>
+<li>
+<p><input disabled="" type="checkbox"> <a href="https://weread.qq.com/web/reader/8b5325005d0eca8b53fcf90">《小妇人》</a>（『若草物語』，路易莎·梅·奥尔科特 / 刘春英、陈玉立 译，译林版）</p>
+<ul>
+<li><strong>为什么读</strong>：写马奇家四姐妹的成长与家庭生活，温暖、章节分明，是经典的成长小说。</li>
+<li><strong>阅读建议</strong>：译林版可直接读。喜欢的话再读续作<a href="https://weread.qq.com/web/reader/b6c32310717111d6b6c9a50">《小男子汉》</a>、<a href="https://weread.qq.com/web/reader/0d0329607209256c0d0c5c6">《乔的男孩们》</a>。</li>
+</ul>
+</li>
+<li>
+<p><input disabled="" type="checkbox"> <a href="https://weread.qq.com/web/reader/b1e324605dddbdb1e47f6c5">《圣诞颂歌》</a>（『クリスマス・キャロル』，狄更斯 / 邓嘉宛 译）</p>
+<ul>
+<li><strong>为什么读</strong>：狄更斯的短篇经典，写一个吝啬的人在圣诞夜里被改变，篇幅短、故事完整。</li>
+<li><strong>阅读建议</strong>：现在读正好赶上年尾。邓嘉宛译本或<a href="https://weread.qq.com/web/reader/04c321f07182db4f04ceeb1">汪倜然中英双语插图本</a>都可以；一个晚上或两三个碎片时段往往就能读完。</li>
+</ul>
+</li>
+<li>
+<p><input disabled="" type="checkbox"> <a href="https://weread.qq.com/web/reader/73832210813ab7e28g011b3f">《在我曾经最美的时候：茨木则子诗集》</a>（含『自分の感受性くらい』，茨木则子 / 熊韵 译）</p>
+<ul>
+<li><strong>为什么读</strong>：原帖推荐的是诗「自分の感受性くらい」（集中译作「自己的感受力至少要」），写的是把感受力掌握在自己手里。微信读书没有同名单行本，这首诗收在这本诗集里。</li>
+<li><strong>阅读建议</strong>：直接打开目录里的对应栏目即可，不必按顺序读完全书。诗天生适合碎片时间。</li>
+</ul>
+</li>
+</ul>
+<hr />
+<h2>微信读书待上架</h2>
+<p>书城有条目，但目前是待上架或已下架，打开可能读不了。上架后再勾选开读。</p>
+<ul>
+<li>
+<p><input disabled="" type="checkbox"> <a href="https://weread.qq.com/web/reader/20e32380811e77e4cg0147c2">《十二国记(1-15)》</a>（『十二国記』，小野不由美；简介称王蕴洁 译，尖端出版）</p>
+<ul>
+<li><strong>为什么读</strong>：以中国古典为底色的异世界长篇，写身份、命运与治国，是日本奇幻的代表作之一。</li>
+<li><strong>阅读建议</strong>：部头大，适合一卷一卷读。建议从《月之影 影之海》开始，不要先跳到后期的《白银之墟 玄之月》。上架前可先不开坑。</li>
+</ul>
+</li>
+<li>
+<p><input disabled="" type="checkbox"> <a href="https://weread.qq.com/web/reader/d9132d70721ead46d919c99">《浪击而不沉》</a>（『たゆたえども沈まず』，原田舞叶 / 星野空 译，新星出版社）</p>
+<ul>
+<li><strong>为什么读</strong>：以十九世纪巴黎为舞台，写梵高兄弟与日本画商林忠正的交会，是带艺术史背景的小说。</li>
+<li><strong>阅读建议</strong>：等微信读书重新上架，或先找纸书。中等篇幅，有连续一点的时间再读更顺。</li>
+</ul>
+</li>
+<li>
+<p><input disabled="" type="checkbox"> <a href="https://weread.qq.com/web/reader/73732c205e420b737a8868e">《银河英雄传说》</a>（『銀河英雄伝説』，田中芳树 / 袁斌 译）</p>
+<ul>
+<li><strong>为什么读</strong>：田中芳树的太空史诗，写帝国与同盟之间的战略、政治与人物，是亚洲科幻的经典长篇。</li>
+<li><strong>阅读建议</strong>：体量很大，适合当作长期读物，一章一章来，不必赶着读完。条目目前待上架，上架后再开始更合适。</li>
+</ul>
+</li>
+<li>
+<p><input disabled="" type="checkbox"> <a href="https://weread.qq.com/web/reader/a0732490811e1df6bg01036f">《德尔菲尼亚战记》</a>（『デルフィニア戦記』，茅田砂胡）</p>
+<ul>
+<li><strong>为什么读</strong>：茅田砂胡的长篇奇幻战记，卷数多，是日式奇幻里的经典系列之一。</li>
+<li><strong>阅读建议</strong>：投入不小，目前待上架，等能稳定读到再决定是否开坑。</li>
+</ul>
+</li>
+</ul>
+<hr />
+<h2>暂无中文电子版</h2>
+<p>这次在微信读书没搜到对应译本，可先记在这里，有纸书、日文版或其他平台再读。</p>
+<ul>
+<li>
+<p><input disabled="" type="checkbox"> 《十戒》（『十戒』，夕木春央）</p>
+<ul>
+<li><strong>为什么读</strong>：原帖回复建议与《方舟》《乐园》连着读的本格向作品。</li>
+<li><strong>阅读建议</strong>：放在《方舟》之后、《乐园》之前。暂无微信读书译本，先不要剧透。</li>
+</ul>
+</li>
+<li>
+<p><input disabled="" type="checkbox"> 《乐园》（『楽園』，夕木春央）</p>
+<ul>
+<li><strong>为什么读</strong>：同上，是回复里建议连读的第三本。</li>
+<li><strong>阅读建议</strong>：读完《方舟》《十戒》再读。暂无微信读书译本。</li>
+</ul>
+</li>
+<li>
+<p><input disabled="" type="checkbox"> 《初恋收起来的日子》（『初恋をしまう日』，町田そのこ；中文书名暂按日文直译，未见通行电子版译名）</p>
+<ul>
+<li><strong>为什么读</strong>：町田そのこ的小说常写普通人的情感，原帖里被推荐给想看「会哭的书」的人。</li>
+<li><strong>阅读建议</strong>：暂无微信读书译本。篇幅若按她一贯的中长篇，有连续一点的晚上再读更合适。</li>
+</ul>
+</li>
+<li>
+<p><input disabled="" type="checkbox"> 《小鸟与理梦人》（『小鳥とリムジン』，小川糸；台湾繁体译名）</p>
+<ul>
+<li><strong>为什么读</strong>：小川糸一贯的温暖日常与人情，原帖里称它是温情的故事。</li>
+<li><strong>阅读建议</strong>：该书暂无微信读书译本。若想先感受她的文风，她的《山茶文具店》等在微信读书有。</li>
+</ul>
+</li>
+<li>
+<p><input disabled="" type="checkbox"> 《成濑跑过整座城市》（『成瀬は都を駆け抜ける』，宮島未奈；中文书名暂按日文意译，微信读书未见上架）</p>
+<ul>
+<li><strong>为什么读</strong>：成濑三部作的第二部，青春轻快，写一个我行我素的高中女生。</li>
+<li><strong>阅读建议</strong>：建议先读第一部『成瀬は天下を取りにいく』（简体《成濑要征服世界》），再读这一本。微信读书暂无这两部。</li>
+</ul>
+</li>
+<li>
+<p><input disabled="" type="checkbox"> 《预言的岛》（『予言の島』，澤村伊智；中文书名暂按日文直译）</p>
+<ul>
+<li><strong>为什么读</strong>：原帖里称它再读时会别有意味，是那种第一遍和第二遍观感会不同的作品。</li>
+<li><strong>阅读建议</strong>：务必避开剧透。暂无微信读书译本。</li>
+</ul>
+</li>
+<li>
+<p><input disabled="" type="checkbox"> 《妖精森林的小不点》（『ハクメイとミコチ』，樫木祐人）</p>
+<ul>
+<li><strong>为什么读</strong>：描写真人大小的小人在山野里过日子的漫画，节奏舒缓，生活气足。</li>
+<li><strong>阅读建议</strong>：适合累的时候翻几话。微信读书未见官方版本。</li>
+</ul>
+</li>
+</ul>
+<hr />
+<h2>我的书架·未读完</h2>
+<p>来源：微信读书书架（只读同步，未改书架）。书架可见条目共 39 个：电子书 33 本（已读完 13、未读完 20）+ 有声书 5 本 + 文章收藏 1 个。下面 20 本是电子书里尚未读完或还没开始的；与上面 X 推荐重复的书会在原条目标注进度，这次没有重复。进度以微信读书接口为准（100% 才算读完；0% 为未开始或几乎未读）。</p>
+<p>有声书专辑本身都显示「已完结」（指更新完结，不是收听完成），接口没有返回收听进度，无法判断是否听完，故未列入：莫言《晚熟的人》、厉以宁等《读懂中国改革1》、清崎《富爸爸财务自由之路》、张磊《价值》、卡尼曼《思考，快与慢》。</p>
+<h3>读到一半，建议优先续上</h3>
+<ul>
+<li>
+<p><input disabled="" type="checkbox"> <a href="https://weread.qq.com/web/reader/0b632700813ab7158g01664e">《美国儿科学会育儿百科（第七版）》</a>（美国儿科学会）· 进度 97%</p>
+<ul>
+<li><strong>为什么读</strong>：偏权威的儿科与养育工具书，不是要一气读完的故事。</li>
+<li><strong>阅读建议</strong>：已经接近读完，剩下的部分当作查询手册即可。仓库里已有读书笔记 #100。新生儿阶段可优先翻睡眠、喂养、哭闹相关章节。</li>
+</ul>
+</li>
+<li>
+<p><input disabled="" type="checkbox"> <a href="https://weread.qq.com/web/reader/6ca329105aaa836ca644ec8">《中国现代诗歌经典选读》</a>（赵志峰）· 进度 77%</p>
+<ul>
+<li><strong>为什么读</strong>：现代诗选本，适合在碎片时间一首一首读。</li>
+<li><strong>阅读建议</strong>：已经过半，抽空把剩余篇目读完即可，不必连续啃。</li>
+</ul>
+</li>
+<li>
+<p><input disabled="" type="checkbox"> <a href="https://weread.qq.com/web/reader/f5532100813abc110g010081">《豆豆三部曲（普通人的改命路线图）》</a>（豆豆）· 进度 69%</p>
+<ul>
+<li><strong>为什么读</strong>：以规则、人性与选择见长的长篇小说集，其中《遥远的救世主》尤为人所知。</li>
+<li><strong>阅读建议</strong>：从上次停下的地方续读即可。仓库里已有本套笔记 #97，以及《遥远的救世主》笔记 #90。</li>
+</ul>
+</li>
+<li>
+<p><input disabled="" type="checkbox"> <a href="https://weread.qq.com/web/reader/2db32930813ab80f9g0165a3">《明亮的夜晚》</a>（崔恩荣）· 进度 13%</p>
+<ul>
+<li><strong>为什么读</strong>：韩国作家崔恩荣的小说，笔触细腻，常写女性的生活与彼此的牵绊。</li>
+<li><strong>阅读建议</strong>：已经开了头，适合用碎片时间慢慢续。不必赶速度。</li>
+</ul>
+</li>
+<li>
+<p><input disabled="" type="checkbox"> <a href="https://weread.qq.com/web/reader/ea532d2071938fb5ea51430">《丰乳肥臀》</a>（莫言）· 进度 2%</p>
+<ul>
+<li><strong>为什么读</strong>：莫言的长篇代表作之一，以一个家庭和一位母亲的视角写二十世纪中国的变迁，篇幅长、分量重。</li>
+<li><strong>阅读建议</strong>：刚开头。这部不宜当睡前轻松读物，有相对完整的时段再推进更合适。</li>
+</ul>
+</li>
+<li>
+<p><input disabled="" type="checkbox"> <a href="https://weread.qq.com/web/reader/6a732ce07201202c6a7b30a">《认知觉醒：开启自我改变的原动力》</a>（周岭）· 进度 1%</p>
+<ul>
+<li><strong>为什么读</strong>：面向自我认知和习惯改变的通识读物，章节较短。</li>
+<li><strong>阅读建议</strong>：几乎还没开始，可当作碎片时间的轻量阅读；不必一次读完。</li>
+</ul>
+</li>
+<li>
+<p><input disabled="" type="checkbox"> <a href="https://weread.qq.com/web/reader/67632250813ab6d7bg014522">《厌女（增订本）》</a>（上野千鹤子）· 进度 0%（接口显示已开始阅读）</p>
+<ul>
+<li><strong>为什么读</strong>：上野千鹤子关于厌女文化的社会学著作，用来理解性别结构和日常里的偏见。</li>
+<li><strong>阅读建议</strong>：已开始但进度仍为 0%，可以从任一章接着读，概念性文字适合清醒时看。</li>
+</ul>
+</li>
+</ul>
+<h3>未开始·和带娃更相关</h3>
+<ul>
+<li>
+<p><input disabled="" type="checkbox"> <a href="https://weread.qq.com/web/reader/6ab32c905defcd6abe7224d">《父母的语言：3000万词汇塑造更强大的学习型大脑》</a>（达娜·萨斯金德 等）· 进度 0%</p>
+<ul>
+<li><strong>为什么读</strong>：讲早期语言环境如何影响孩子的大脑和学习，对现在这个阶段很实际。</li>
+<li><strong>阅读建议</strong>：可先读理念和可操作的方法，不必整本一次性读完，边带孩子边用。</li>
+</ul>
+</li>
+<li>
+<p><input disabled="" type="checkbox"> <a href="https://weread.qq.com/web/reader/bbc32a50813ab7953g01522a">《正面管教（修订版）》</a>（简·尼尔森）· 进度 0%</p>
+<ul>
+<li><strong>为什么读</strong>：讲如何既尊重孩子又建立界限，是常见的养育方法书。</li>
+<li><strong>阅读建议</strong>：很多内容在幼儿期之后也会用到。可先浏览整体框架，需要时再翻对应章节。</li>
+</ul>
+</li>
+<li>
+<p><input disabled="" type="checkbox"> <a href="https://weread.qq.com/web/reader/be9328c0718ea4fbbe96fa8">《卡尔·威特的教育》</a>（卡尔·威特）· 进度 0%</p>
+<ul>
+<li><strong>为什么读</strong>：早期教育方面的经典著作，记录作者培养孩子的方法与观念。</li>
+<li><strong>阅读建议</strong>：有明显的时代局限，建议带着辨识读，不必全盘照搬。</li>
+</ul>
+</li>
+</ul>
+<h3>未开始·其他</h3>
+<details>
+<summary>其余 10 本（进度均为 0%，点击展开）</summary>
+<ul>
+<li>
+<p><input disabled="" type="checkbox"> <a href="https://weread.qq.com/web/reader/67e32950813ab8db0g017351">《重组与突破》</a>（黄奇帆）· 进度 0%</p>
+<ul>
+<li><strong>为什么读</strong>：黄奇帆谈改革、产业和经济问题。若已经读过《结构性改革》，这本可以当作延伸。</li>
+<li><strong>阅读建议</strong>：偏论述，适合清醒时按章节读，不必连续读完。</li>
+</ul>
+</li>
+<li>
+<p><input disabled="" type="checkbox"> <a href="https://weread.qq.com/web/reader/32e328b0813abbc7fg011975">《第一性原理（微信读书特别版）》</a>（李善友）· 进度 0%</p>
+<ul>
+<li><strong>为什么读</strong>：用第一性原理拆解问题和认知方法。</li>
+<li><strong>阅读建议</strong>：按章节翻即可。仓库里已有《第一性原理：普通人的人生高效手册》笔记 #96；若那本已经读完，这个特别版可以自行勾选或对照是否同一内容。</li>
+</ul>
+</li>
+<li>
+<p><input disabled="" type="checkbox"> <a href="https://weread.qq.com/web/reader/ff0320d0813abbe90g0133bd">《帝国棋局：张居正的晚明改革与博弈（世间已无张居正 全新增订版补充16万字）》</a>（齐悦）· 进度 0%</p>
+<ul>
+<li><strong>为什么读</strong>：写张居正主持晚明改革时的朝局与博弈，是偏叙事的历史作品。</li>
+<li><strong>阅读建议</strong>：增订后篇幅更长，有比较完整的时间再开始更合适。</li>
+</ul>
+</li>
+<li>
+<p><input disabled="" type="checkbox"> <a href="https://weread.qq.com/web/reader/14d325f0813abc351g015626">《太阳的阴影》</a>（雷沙德·卡普希钦斯基）· 进度 0%</p>
+<ul>
+<li><strong>为什么读</strong>：波兰记者卡普希钦斯基的作品，以文学笔法写下他所见的非洲与权力。</li>
+<li><strong>阅读建议</strong>：纪实随笔，可按章节读，适合想换口味时打开。</li>
+</ul>
+</li>
+<li>
+<p><input disabled="" type="checkbox"> <a href="https://weread.qq.com/web/reader/6d232640727324446d2e978">《挽救计划（同名电影原著）》</a>（安迪·威尔）· 进度 0%</p>
+<ul>
+<li><strong>为什么读</strong>：安迪·威尔的科幻小说，写一个科学家在孤立处境里用理工思维解决问题，节奏较快。</li>
+<li><strong>阅读建议</strong>：作为轻松一点的长篇来读很合适；想先看电影也可以，但书里的解题过程更完整。</li>
+</ul>
+</li>
+<li>
+<p><input disabled="" type="checkbox"> <a href="https://weread.qq.com/web/reader/61a325e0813abb6ccg0107ad">《马驹桥的时间：清华博士的日结手记》</a>（丛瑞安）· 进度 0%</p>
+<ul>
+<li><strong>为什么读</strong>：作者以日结零工的方式记录在北京马驹桥一带的生活，是当代纪实。</li>
+<li><strong>阅读建议</strong>：按日或按篇来读即可，不必连续熬夜赶完。</li>
+</ul>
+</li>
+<li>
+<p><input disabled="" type="checkbox"> <a href="https://weread.qq.com/web/reader/2bb32ff0813ab6ffcg014315">《毛泽东选集（全四卷）》</a>（毛泽东）· 进度 0%</p>
+<ul>
+<li><strong>为什么读</strong>：中国现代史与政治文献选编，体量很大。</li>
+<li><strong>阅读建议</strong>：更适合按篇目查阅，不必按「必须读完一套」来要求自己。</li>
+</ul>
+</li>
+<li>
+<p><input disabled="" type="checkbox"> <a href="https://weread.qq.com/web/reader/c7132760813ab9ef7g0169f5">《老人与海：The Old Man And The Sea（英文原版）》</a>（海明威）· 进度 0%</p>
+<ul>
+<li><strong>为什么读</strong>：短篇经典，文字干净，适合用来保持英文阅读。</li>
+<li><strong>阅读建议</strong>：篇幅短，碎片时间即可。仓库里已有《The Old Man and the Sea》笔记 #77；若中文或另一版本已读完，这个英文版可当重读或语言练习。</li>
+</ul>
+</li>
+<li>
+<p><input disabled="" type="checkbox"> <a href="https://weread.qq.com/web/reader/344322e0813abb14cg013182">《The Little Prince《小王子》英文原版》</a>（Antoine de Saint-Exupéry）· 进度 0%</p>
+<ul>
+<li><strong>为什么读</strong>：经典哲理童话，英文并不长，适合碎片时间读。</li>
+<li><strong>阅读建议</strong>：当英文轻松读物即可，不必当任务。</li>
+</ul>
+</li>
+<li>
+<p><input disabled="" type="checkbox"> <a href="https://weread.qq.com/web/reader/70c32450813abafbcg011fe5">《Strait is the Gate窄门（英文版）》</a>（安德烈·纪德）· 进度 0%</p>
+<ul>
+<li><strong>为什么读</strong>：纪德的经典小说，写信仰、克制与情感之间的拉扯。</li>
+<li><strong>阅读建议</strong>：比《小王子》《老人与海》更难一些，有余力再读；也可先考虑中译本。</li>
+</ul>
+</li>
+</ul>
+</details>
+<hr />
+<h2>后续追加</h2>
+<p>之后想读的新书直接追加在本节下面，仍用 <code>- [ ]</code>，并补一句「为什么读」和「阅读建议」。尽量写上微信读书链接或版本信息，方便以后回来接着维护这一个 issue。</p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/101"/><category term="读书笔记"/><published>2026-11-25T02:47:29+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/100</id><title>《美国儿科学会育儿百科（第七版）》</title><updated>2026-11-25T02:47:58.256341+00:00</updated><content type="html"><![CDATA[<p><img src="https://cdn.weread.qq.com/weread/cover/24/cpPlatform_jJwozpZTRxYDFwwjZRfzck/t6_cpPlatform_jJwozpZTRxYDFwwjZRfzck.jpg" alt="封面" /></p>
 <p>2026-11-01 开始读</p>
 <h3>热门划线</h3>
 <blockquote>
@@ -127,7 +436,7 @@
 吃吃停停型婴儿会先吃几分钟，再休息几分钟，然后继续吃。有些会含着乳房睡着，大约半小时以后醒来接着吃两口当点心。这种模式会让人很烦，但母亲不能催他们。最好的解决办法就是留出更多的喂奶时间，灵活应对。
 了解孩子的吃奶模式是你在分娩后的头几周遇到的最大挑战之一。只要了解了他的吃奶模式，你就会发现更容易判断他何时饿了、何时吃饱了、每天需要吃几次、每次要吃多长时间。一般来说，最好在婴儿刚出现饥饿迹象时就开始喂奶，不要等到他哭了再喂。此外，每个婴儿都有自己喜欢的姿势，甚至会表现出对某一侧乳房的偏好。</p>
 </blockquote>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/100"/><category term="读书笔记"/><published>2026-11-24T07:26:33+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/99</id><title>《安定此心：我当精神科医生的12000天》✓</title><updated>2026-11-24T08:32:13.804671+00:00</updated><content type="html"><![CDATA[<p><img src="https://cdn.weread.qq.com/weread/cover/13/cpplatform_imtewds6vrwyk1jze7fvrq/t6_cpplatform_imtewds6vrwyk1jze7fvrq1772524720.jpg" alt="封面" /></p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/100"/><category term="读书笔记"/><published>2026-11-24T07:26:33+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/99</id><title>《安定此心：我当精神科医生的12000天》✓</title><updated>2026-11-25T02:47:58.505480+00:00</updated><content type="html"><![CDATA[<p><img src="https://cdn.weread.qq.com/weread/cover/13/cpplatform_imtewds6vrwyk1jze7fvrq/t6_cpplatform_imtewds6vrwyk1jze7fvrq1772524720.jpg" alt="封面" /></p>
 <p>2026-10-07 开始读，2026-11-22 读完</p>
 <h3>热门划线</h3>
 <blockquote>
@@ -209,7 +518,7 @@
 <blockquote>
 <p>看见之后，理解才刚刚开始。精神疾病的去污名化不是靠一本书就能完成的，但至少，我们可以从停止随意使用“精神病”作为贬义词开始，从关心身边那个突然沉默的朋友开始，从正视自己的情绪问题开始。“一微尘里三千界，半刹那间八万春。”生命中每个瞬间都值得珍惜，都藏着说不尽的故事和感动。愿这本书能成为一扇窗，让更多的光照进来。愿每一种痛苦都能被温柔接住，每一个迷路的灵魂都能找到归途。</p>
 </blockquote>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/99"/><category term="读书笔记"/><published>2026-11-24T07:26:26+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/98</id><title>《清算已毕：波伏瓦自传》✓</title><updated>2026-11-24T08:32:14.067388+00:00</updated><content type="html"><![CDATA[<p><img src="https://cdn.weread.qq.com/weread/cover/85/cpplatform_aeadwyzdkvsbhkuashe48f/t6_cpplatform_aeadwyzdkvsbhkuashe48f1738918192.jpg" alt="封面" /></p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/99"/><category term="读书笔记"/><published>2026-11-24T07:26:26+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/98</id><title>《清算已毕：波伏瓦自传》✓</title><updated>2026-11-25T02:47:58.702918+00:00</updated><content type="html"><![CDATA[<p><img src="https://cdn.weread.qq.com/weread/cover/85/cpplatform_aeadwyzdkvsbhkuashe48f/t6_cpplatform_aeadwyzdkvsbhkuashe48f1738918192.jpg" alt="封面" /></p>
 <p>2026-10-27 开始读，2026-11-14 读完</p>
 <h3>热门划线</h3>
 <blockquote>
@@ -288,7 +597,7 @@
 <blockquote>
 <p>在我们面前，没有人质疑过一党制、工会在社会生活中缺席或计划经济，大家关心的都是与封建分子斗争、人口过多等问题，尤其是“新阶级”的出现</p>
 </blockquote>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/98"/><category term="读书笔记"/><published>2026-11-24T07:26:18+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/97</id><title>《豆豆三部曲（普通人的改命路线图）》</title><updated>2026-11-24T08:32:14.313502+00:00</updated><content type="html"><![CDATA[<p><img src="https://cdn.weread.qq.com/weread/cover/4/cpplatform_bzgnaxrydr71c4oknntp4c/t6_cpplatform_bzgnaxrydr71c4oknntp4c1789554704.jpg" alt="封面" /></p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/98"/><category term="读书笔记"/><published>2026-11-24T07:26:18+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/97</id><title>《豆豆三部曲（普通人的改命路线图）》</title><updated>2026-11-25T02:47:58.920438+00:00</updated><content type="html"><![CDATA[<p><img src="https://cdn.weread.qq.com/weread/cover/4/cpplatform_bzgnaxrydr71c4oknntp4c/t6_cpplatform_bzgnaxrydr71c4oknntp4c1789554704.jpg" alt="封面" /></p>
 <p>2026-09-24 开始读</p>
 <h3>热门划线</h3>
 <blockquote>
@@ -351,7 +660,7 @@
 <blockquote>
 <p>布兰迪非常遗憾地摇摇头，叹息了一句：“你是我见过的最有头脑的傻瓜。”</p>
 </blockquote>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/97"/><category term="读书笔记"/><published>2026-11-24T07:26:12+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/96</id><title>《第一性原理：普通人的人生高效手册》✓</title><updated>2026-11-24T08:32:14.563007+00:00</updated><content type="html"><![CDATA[<p><img src="https://cdn.weread.qq.com/weread/cover/41/cpplatform_tpufzthcymkybyjf83v9un/t6_cpplatform_tpufzthcymkybyjf83v9un1789358460.jpg" alt="封面" /></p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/97"/><category term="读书笔记"/><published>2026-11-24T07:26:12+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/96</id><title>《第一性原理：普通人的人生高效手册》✓</title><updated>2026-11-25T02:47:59.141864+00:00</updated><content type="html"><![CDATA[<p><img src="https://cdn.weread.qq.com/weread/cover/41/cpplatform_tpufzthcymkybyjf83v9un/t6_cpplatform_tpufzthcymkybyjf83v9un1789358460.jpg" alt="封面" /></p>
 <p>2026-09-19 开始听，2026-09-22 读完</p>
 <h3>热门划线</h3>
 <blockquote>
@@ -414,7 +723,7 @@
 <blockquote>
 <p>每一个小块的体积都应该趋近于零，无穷多个零相加仍然是零。</p>
 </blockquote>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/96"/><category term="读书笔记"/><published>2026-11-24T07:26:05+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/95</id><title>《结构性改革》✓</title><updated>2026-11-24T08:32:14.825880+00:00</updated><content type="html"><![CDATA[<p><img src="https://wfqqreader-1252317822.image.myqcloud.com/cover/49/33362049/t6_33362049.jpg" alt="封面" /></p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/96"/><category term="读书笔记"/><published>2026-11-24T07:26:05+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/95</id><title>《结构性改革》✓</title><updated>2026-11-25T02:47:59.400953+00:00</updated><content type="html"><![CDATA[<p><img src="https://wfqqreader-1252317822.image.myqcloud.com/cover/49/33362049/t6_33362049.jpg" alt="封面" /></p>
 <p>2026-10-14 开始读，2026-10-31 读完</p>
 <h3>热门划线</h3>
 <blockquote>
@@ -477,13 +786,13 @@
 <blockquote>
 <p>工业用地一律按照50年出让，但实际企业平均生命周期普遍不足15年，此后工业用地被迫闲置，而且由于缺乏完善的土地流转机制和二级市场，被闲置的工业用地得不到流转、盘活。</p>
 </blockquote>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/95"/><category term="读书笔记"/><published>2026-11-24T04:03:12+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/94</id><title>《左耳听风》传奇程序员练级攻略</title><updated>2026-11-24T08:32:15.083949+00:00</updated><content type="html"><![CDATA[<p><a href="https://coolshell.cn/haoel">陈皓 著</a>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/95"/><category term="读书笔记"/><published>2026-11-24T04:03:12+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/94</id><title>《左耳听风》传奇程序员练级攻略</title><updated>2026-11-25T02:47:59.636319+00:00</updated><content type="html"><![CDATA[<p><a href="https://coolshell.cn/haoel">陈皓 著</a>
 <img src="https://github.com/zfy68/gitblog/assets/37278360/7daf649c-102a-4f42-86ac-8fddda2e5ef7" alt="1000180571.jpg" /></p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/94"/><category term="读书笔记"/><published>2024-06-18T06:04:09+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/93</id><title>《非暴力沟通》</title><updated>2026-11-24T08:32:15.366805+00:00</updated><content type="html"><![CDATA[<h3>非暴力沟通的四个要素：1、观察；2、感受；3、需要；4、请求。</h3>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/93"/><category term="读书笔记"/><published>2024-05-21T01:09:16+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/92</id><title>《白银时代》✓</title><updated>2026-11-24T08:32:15.597776+00:00</updated><content type="html"><![CDATA[<h3>数盲症</h3>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/94"/><category term="读书笔记"/><published>2024-06-18T06:04:09+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/93</id><title>《非暴力沟通》</title><updated>2026-11-25T02:47:59.855991+00:00</updated><content type="html"><![CDATA[<h3>非暴力沟通的四个要素：1、观察；2、感受；3、需要；4、请求。</h3>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/93"/><category term="读书笔记"/><published>2024-05-21T01:09:16+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/92</id><title>《白银时代》✓</title><updated>2026-11-25T02:48:00.081368+00:00</updated><content type="html"><![CDATA[<h3>数盲症</h3>
 <p>干不了任何实际工作的傻子leader</p>
 <p><img src="https://github.com/zfy68/gitblog/assets/37278360/c4a10270-8592-4f14-8961-3434a36ba209" alt="IMG_20240304_083231.jpg" /></p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/92"/><category term="读书笔记"/><published>2024-03-05T23:53:55+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/91</id><title>《黄金时代》✓</title><updated>2026-11-24T08:32:15.921277+00:00</updated><content type="html"><![CDATA[<p>1.人活在世上 就是为了忍受摧残 一直到死 想明了这一点 一切都能泰然处之。</p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/92"/><category term="读书笔记"/><published>2024-03-05T23:53:55+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/91</id><title>《黄金时代》✓</title><updated>2026-11-25T02:48:00.302590+00:00</updated><content type="html"><![CDATA[<p>1.人活在世上 就是为了忍受摧残 一直到死 想明了这一点 一切都能泰然处之。</p>
 <p>2.那一年我二十一岁，在我一生的黄金时代，我有好多奢望。我想爱，想吃，还想在一瞬间变成天上半明半暗的云。</p>
 <p>3.后来我才知道，生活就是个缓慢受锤的过程，人一天天老下去，奢望也一天天消逝，最后变得像挨了锤的牛一样。可是我过二十一岁生日时没有预见到这一点。我觉得自己会永远生猛下去，什么也锤不了我。</p>
 <p>4.当我沿着一条路走下去的时候，心里总想着另一条路上的事。这种时候，我心里很乱。</p>
@@ -498,32 +807,32 @@
 <p><img src="https://github.com/zfy68/gitblog/assets/37278360/1066f1f4-1dd7-4617-b891-acd2001675f4" alt="IMG_20240106_171953.jpg" /></p>
 <p><img src="https://github.com/zfy68/gitblog/assets/37278360/2d406c61-c7e9-43f8-b811-cd9558208ce2" alt="IMG_20240106_171958.jpg" /></p>
 <p><img src="https://github.com/zfy68/gitblog/assets/37278360/434cdeeb-edbd-4ce8-97b3-8017770c10ef" alt="IMG_20240106_172236.jpg" /></p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/91"/><category term="读书笔记"/><published>2024-01-06T09:36:08+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/90</id><title>《遥远的救世主》✓</title><updated>2026-11-24T08:32:16.164178+00:00</updated><content type="html"><![CDATA[<p><img src="https://github.com/zfy68/gitblog/assets/37278360/2896e366-5037-48fd-ad09-7b380961d11e" alt="IMG_20231223_115514.jpg" /></p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/91"/><category term="读书笔记"/><published>2024-01-06T09:36:08+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/90</id><title>《遥远的救世主》✓</title><updated>2026-11-25T02:48:00.501892+00:00</updated><content type="html"><![CDATA[<p><img src="https://github.com/zfy68/gitblog/assets/37278360/2896e366-5037-48fd-ad09-7b380961d11e" alt="IMG_20231223_115514.jpg" /></p>
 <p><img src="https://github.com/zfy68/gitblog/assets/37278360/b041357a-5b9d-4580-8bc2-4156b240ae3d" alt="IMG_20231223_115734.jpg" /></p>
 <p><img src="https://github.com/zfy68/gitblog/assets/37278360/a932badd-eb95-403f-a838-27b36f81a402" alt="IMG_20231223_115507.jpg" /></p>
 <p><img src="https://github.com/zfy68/gitblog/assets/37278360/107b209a-e661-4cf3-bb42-f445373a6704" alt="IMG_20231223_111241.jpg" /></p>
 <p><img src="https://github.com/zfy68/gitblog/assets/37278360/70742078-76d8-4756-bde6-d8304ac65f2c" alt="IMG_20231221_213903.jpg" /></p>
 <p><img src="https://github.com/zfy68/gitblog/assets/37278360/2df6b054-d8a1-4e49-9ec2-ba856fd5b031" alt="IMG_20231220_160310.jpg" /></p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/90"/><category term="读书笔记"/><published>2023-12-23T04:31:34+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/89</id><title>服务器混战三十年，从外资三巨头到国产F4</title><updated>2026-11-24T08:32:16.415830+00:00</updated><content type="html"><![CDATA[<p>摘自澎湃新闻<a href="https://m.thepaper.cn/newsDetail_forward_21714861">服务器混战三十年，从外资三巨头到国产F4
+]]></content><link href="https://github.com/zfy68/gitblog/issues/90"/><category term="读书笔记"/><published>2023-12-23T04:31:34+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/89</id><title>服务器混战三十年，从外资三巨头到国产F4</title><updated>2026-11-25T02:48:00.709943+00:00</updated><content type="html"><![CDATA[<p>摘自澎湃新闻<a href="https://m.thepaper.cn/newsDetail_forward_21714861">服务器混战三十年，从外资三巨头到国产F4
 </a></p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/89"/><category term="2023"/><published>2023-10-13T08:58:09+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/88</id><title>Hong Kong</title><updated>2026-11-24T08:32:16.658363+00:00</updated><content type="html"><![CDATA[<p><img src="https://github.com/zfy68/gitblog/assets/37278360/3f12cb35-52d6-43c2-ba0b-b1f3c0021243" alt="IMG_20230923_143206.jpg" /></p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/88"/><category term="2023"/><published>2023-09-24T23:54:26+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/87</id><title>海边踩单车</title><updated>2026-11-24T08:32:16.890734+00:00</updated><content type="html"><![CDATA[<p><img src="https://github.com/zfy68/gitblog/assets/37278360/21c2604b-cc64-41f8-bd47-841a49f6a2a9" alt="1695304744514.jpg" /></p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/87"/><category term="2023"/><published>2023-09-21T13:59:31+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/86</id><title>是世道变了还是你没觉醒</title><updated>2026-11-24T08:32:17.119421+00:00</updated><content type="html"><![CDATA[<p>身处任何时代，我们都在感叹世界社会越来越复杂，其实社会一直没变过只是每个人一生都有觉醒年代，分早熟晚熟罢了</p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/89"/><category term="2023"/><published>2023-10-13T08:58:09+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/88</id><title>Hong Kong</title><updated>2026-11-25T02:48:00.925976+00:00</updated><content type="html"><![CDATA[<p><img src="https://github.com/zfy68/gitblog/assets/37278360/3f12cb35-52d6-43c2-ba0b-b1f3c0021243" alt="IMG_20230923_143206.jpg" /></p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/88"/><category term="2023"/><published>2023-09-24T23:54:26+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/87</id><title>海边踩单车</title><updated>2026-11-25T02:48:01.183957+00:00</updated><content type="html"><![CDATA[<p><img src="https://github.com/zfy68/gitblog/assets/37278360/21c2604b-cc64-41f8-bd47-841a49f6a2a9" alt="1695304744514.jpg" /></p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/87"/><category term="2023"/><published>2023-09-21T13:59:31+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/86</id><title>是世道变了还是你没觉醒</title><updated>2026-11-25T02:48:01.432299+00:00</updated><content type="html"><![CDATA[<p>身处任何时代，我们都在感叹世界社会越来越复杂，其实社会一直没变过只是每个人一生都有觉醒年代，分早熟晚熟罢了</p>
 <h3>觉醒时代：在流氓横行，自证清白的时代就算觉醒了</h3>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/86"/><category term="2023"/><published>2023-08-15T12:56:30+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/85</id><title>肩颈的救赎</title><updated>2026-11-24T08:32:17.383995+00:00</updated><content type="html"><![CDATA[<p><img src="https://github.com/zfy68/gitblog/assets/37278360/07b3a4ac-80a2-4650-bdde-351db5e5b63a" alt="1691589355537.jpg" /></p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/85"/><category term="2023"/><published>2023-08-09T13:56:14+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/84</id><title>散步疗养</title><updated>2026-11-24T08:32:17.631552+00:00</updated><content type="html"><![CDATA[<p><img src="https://github.com/zfy68/gitblog/assets/37278360/f2c73c3a-ea86-4d88-8dbf-664e65024f3b" alt="1691021031078.jpg" /></p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/84"/><category term="2023"/><published>2023-08-03T00:04:11+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/83</id><title>黑暗和光</title><updated>2026-11-24T08:32:17.870195+00:00</updated><content type="html"><![CDATA[<p>人能够在错综复杂的世界之所以活着，全靠自己内心世界在支撑？
+]]></content><link href="https://github.com/zfy68/gitblog/issues/86"/><category term="2023"/><published>2023-08-15T12:56:30+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/85</id><title>肩颈的救赎</title><updated>2026-11-25T02:48:01.663107+00:00</updated><content type="html"><![CDATA[<p><img src="https://github.com/zfy68/gitblog/assets/37278360/07b3a4ac-80a2-4650-bdde-351db5e5b63a" alt="1691589355537.jpg" /></p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/85"/><category term="2023"/><published>2023-08-09T13:56:14+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/84</id><title>散步疗养</title><updated>2026-11-25T02:48:01.868090+00:00</updated><content type="html"><![CDATA[<p><img src="https://github.com/zfy68/gitblog/assets/37278360/f2c73c3a-ea86-4d88-8dbf-664e65024f3b" alt="1691021031078.jpg" /></p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/84"/><category term="2023"/><published>2023-08-03T00:04:11+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/83</id><title>黑暗和光</title><updated>2026-11-25T02:48:02.059870+00:00</updated><content type="html"><![CDATA[<p>人能够在错综复杂的世界之所以活着，全靠自己内心世界在支撑？
 <img src="https://github.com/zfy68/gitblog/assets/37278360/96245af6-b07d-4564-b8ae-220509deed77" alt="Screenshot_20230726_151041_edit_225041198160923.jpg" /></p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/83"/><category term="2023"/><published>2023-07-26T12:16:23+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/82</id><title>生命很短，路很长</title><updated>2026-11-24T08:32:18.103187+00:00</updated><content type="html"><![CDATA[<h1>革命尚未成功</h1>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/83"/><category term="2023"/><published>2023-07-26T12:16:23+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/82</id><title>生命很短，路很长</title><updated>2026-11-25T02:48:02.280517+00:00</updated><content type="html"><![CDATA[<h1>革命尚未成功</h1>
 <p>减脂的三个月里，伤病（肩膀和垮经常不舒服）一直缠绕着我，时常感觉身心俱疲 以至于感觉自己像个loser。在这期间因疼痛还停了十天。有点辛苦，今天回家休养五天，短暂调整后回来咬着嘴唇还得继续，因为距离140还差很多。
 <img src="https://github.com/zfy68/gitblog/assets/37278360/32dcbfdd-5087-4034-b5aa-3982d54260f9" alt="Screenshot_20230720_121239.jpg" /></p>
 <p><img src="https://github.com/zfy68/gitblog/assets/37278360/cbc55b21-608d-4b31-a8f5-ed474987923b" alt="Screenshot_20230720_121039.jpg" /></p>
 <p><img src="https://github.com/zfy68/gitblog/assets/37278360/13d4a6e0-1abf-4464-988f-334ae85e72b1" alt="Screenshot_20230720_121132.jpg" /></p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/82"/><category term="2023"/><published>2023-07-21T23:42:50+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/81</id><title>这夏天热的烦躁，躺着都累，最近在持续游泳</title><updated>2026-11-24T08:32:18.371650+00:00</updated><content type="html"><![CDATA[<p>游泳进入第三个月，每次1-2公里，25*40～60，目前会蛙泳，初级踩水</p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/82"/><category term="2023"/><published>2023-07-21T23:42:50+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/81</id><title>这夏天热的烦躁，躺着都累，最近在持续游泳</title><updated>2026-11-25T02:48:02.461021+00:00</updated><content type="html"><![CDATA[<p>游泳进入第三个月，每次1-2公里，25*40～60，目前会蛙泳，初级踩水</p>
 <p><img src="https://github.com/zfy68/gitblog/assets/37278360/0cde9871-4f3a-4034-bf71-e14c9f0f71c9" alt="1688877953661.jpg" /></p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/81"/><category term="2023"/><published>2023-07-09T04:50:02+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/80</id><title>摘录自【白板报】</title><updated>2026-11-24T08:32:18.635941+00:00</updated><content type="html"><![CDATA[<p>原文见：<a href="https://twitter.com/BaibanbaoNet/status/1677649764324634626">白板报 @BaibanbaoNet</a></p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/81"/><category term="2023"/><published>2023-07-09T04:50:02+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/80</id><title>摘录自【白板报】</title><updated>2026-11-25T02:48:02.655723+00:00</updated><content type="html"><![CDATA[<p>原文见：<a href="https://twitter.com/BaibanbaoNet/status/1677649764324634626">白板报 @BaibanbaoNet</a></p>
 <p>我的一位朋友，最近陷入了甜蜜的烦恼。因为买的书太多，他和家人之间产生了分歧。每次买书回家，都面临家人的质问： 怎么还买书？你买的书看完了吗？ 这个问题确实让他无言以对，因为他喜欢买书，且很多书连塑封都没有拆，就堆在家里的地上。 为了解决这个矛盾，他经常收到书的快递之后，拆了包装，把书塞到衣服里，藏到背包里，化整为零地带回家中。有一次，他一边喝着加糖的美式咖啡，一边对我说： 尽量不买书了，等我赚钱换房，买个有书房的房子。 我说，问题不在这儿。问题在于你的家人说的对。别的不说，你《红楼梦》看完了吗？ 他说刚刚读到第五十四回：史太君破陈腐旧套 王熙凤效戏彩斑衣。 我说，好，那我来考你一个问题：你觉得，按照贾母的意思，她是希望宝玉娶谁呢？黛玉，宝钗，还是湘云？ 朋友思索了一下说： 我的直觉告诉我以上都不是。史太君大概率不会让宝玉娶一个亲戚。她还是会选一个名门望族的小姐，家底，模样，才德配得上宝玉的。这样便于政治联姻。 我说，你说对了，但政治联姻不是最主要的。最主要的是遮耻。 在清代的大户人家，不通过父母和媒妁之言，私定终身，会被认为是极大的耻辱，大到非用死不能掩盖的地步。 所以，当袭人听到宝玉误把自己看成黛玉表白心迹，她才吓得如同五雷轰顶。不是她害怕爱情的闪电，而是因为这事要是败露了，会死人的。 对于大家闺秀私定终身，贾母在第五十四回借着批判说书女先生的机会，早已表明了立场： 贾母笑道：“这些书都是一个套子，左不过是些佳人才子，最没趣儿。把人家女儿说的那样坏，还说是佳人，编的连影儿也没有了。开口都是书香门第，父亲不是尚书就是宰相，生一个小一姐必是爱如珍宝。这小一姐必是通文知礼，无所不晓，竟是个绝代佳人。只一见了一个清俊的男人，不管是亲是友，便想起终身大事来，父母也忘了，书礼也忘了，鬼不成鬼，贼不成贼，那一点儿是佳人？便是满腹文章，做出这些事来，也算不得是佳人了。比如男人满腹文章去作贼，难道那王法就说他是才子，就不入贼情一案不成？可知那编书的是自己塞了自己的嘴。 贾母其实话中有话，尤其是这一句： 只一见了一个清俊的男人，不管是亲是友，便想起终身大事来，父母也忘了，书礼也忘了，鬼不成鬼，贼不成贼。 这话分明就是对宝黛说的，可能还捎带着湘云。意思就是： 如果你们胆敢对宝玉有想法，那么结果就是，鬼不成鬼，贼不成贼 当然组织上给你们安排，除外。 至于，黛玉嫁给宝玉，也更不可能，因为姨表可以成亲，姑表成亲会被人笑话。 民间管这叫：骨肉还家。意思是姑姑嫁出去，女儿又嫁过来，相当于骨肉还回来。所以是很难听的一句话。 我继续对朋友说，你看，你对红楼梦很有领悟力，只是需要进一步的精读。 接着我给他讲了任何商品都要买两次的道理。 这是我最近的感悟 所有你买的东西，其实都是买两次。第一次是你支付这个东西的价钱，一本书30元，一个相机2000元，一张游泳卡500元，等等……但是，仅仅支付了第一笔价钱，你还不能算拥有它。你还要支付第二笔价钱，读完一本书需要10小时，出去拍照需要整个周六下午，去游泳馆前后加起来至少3小时的时间。把这些时间加上去，你购买物品的价格远远不止是表面上的价格了。因此： 一本书 = 30元 + 10 小时 一台相机 = 2000元 + 4 小时 * 12 （假设你每个元抽出一个周末去扫街） 一张游泳卡 = 500 元 + 3小时 * 10 （假设是一张20次卡，你游10次才回本） 我们往往错把物品的第一次付钱当成它的真实价格，或轻松，或咬牙，买下了物品；而忘记了我们使它发挥效用时支付的第二笔价钱，才是真正昂贵的支出。 朋友听完，决定最近一段时间暂时不买新书，等读完《红楼梦》，通过了我的测试再说。 但我很怀疑他能否通得过，因为我准备的题目是王小山出的： 《红楼梦》中，年龄最小的是谁？ 参考答案：贾琏和尤二姐的儿子。 只半夜，尤二姐腹痛不止，谁知竟将一个已成形的男胎打了下来。(【第六十九回】 弄小巧用借剑杀人 觉大限吞生金自逝)</p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/80"/><category term="2023"/><published>2023-07-09T01:32:06+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/79</id><title>2023.7.2 我在南门</title><updated>2026-11-24T08:32:18.937738+00:00</updated><content type="html"><![CDATA[<p>昨天夏木的朋友乔迁之喜，一伙人，总共九个，有五个和我是大学校友，当然都是毕业之后认识的。</p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/80"/><category term="2023"/><published>2023-07-09T01:32:06+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/79</id><title>2023.7.2 我在南门</title><updated>2026-11-25T02:48:02.867859+00:00</updated><content type="html"><![CDATA[<p>昨天夏木的朋友乔迁之喜，一伙人，总共九个，有五个和我是大学校友，当然都是毕业之后认识的。</p>
 <p>起因几个小伙伴忙，原定于六点的晚饭等到开饭已经八点过了。先到的我们吃着主人家端上的琥珀樱桃、一手抓着红提一手抓着现炸酥肉，嘴巴没停，再喝着加了冰块的水进行着漫长的等待。</p>
 <p>期间我拿了阳台的一本书，书名为《系统性思考》，我迅速扫描了目录，发现和之前看的《思考快与慢》类同，随意翻动着书页，咔嚓咔嚓的，其实这是错觉，我压根没看书了，我在听她们摆龙门阵，因为她们的经历故事比读书更吸引我。</p>
 <p>吃饭过程中，大家有说有笑，吃到了很好吃的爆炒花甲、钵钵鸡，四川人夏天必吃的空心菜。当然最近我也特别喜欢吃红苕尖，全用猪油炒，贼香。</p>
@@ -532,55 +841,55 @@
 <p>凌晨一点，我带着头盔，骑着艾玛，载着穿雨衣的夏木回家，洗澡，在空调中入眠。</p>
 <p>附一张餐桌图
 <img src="https://github.com/zfy68/gitblog/assets/37278360/1532605d-556a-46da-b3a0-38f08ffc6d18" alt="IMG_20230702_202418.jpg" /></p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/79"/><category term="2023"/><published>2023-07-03T15:17:05+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/78</id><title>梦里梦外</title><updated>2026-11-24T08:32:19.172087+00:00</updated><content type="html"><![CDATA[<p>深夜被打雷声惊醒，习惯性起来检查卧室厕所阳台窗关着没。听窗外的暴雨声有点兴奋，但回想到刚才的梦，我……￼ 梦里我在赶飞机，起飞后发现飞机是从山洞里面出来的，感觉哪里不对，然后飞机就变成了皮卡，同行的人一起被送进了封闭的精神病院，在进去之前，我紧张的打开手机，删了clash、tg等软件…￼</p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/78"/><category term="2023"/><published>2023-06-28T09:59:04+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/77</id><title>《The Old Man and the Sea》✔</title><updated>2026-11-24T08:32:19.403513+00:00</updated><content type="html"><![CDATA[<p>《老人与海》的作者是美国作家埃内斯特·海明威（Ernest Hemingway）。他是20世纪最重要和最具影响力的作家之一，被誉为现代主义文学的代表作家。海明威以其简练、朴素和富有力量的写作风格而闻名，他的作品常常探索战争、人类生存和意义等主题，并以其对男性形象、冒险和自由的描绘而著称。他还是诺贝尔文学奖的获得者，于1954年获得该奖项，表彰了他在文学领域的杰出贡献。海明威的作品广泛被翻译成多种语言并享有全球读者的喜爱和赞赏。</p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/77"/><category term="读书笔记"/><published>2023-05-24T23:52:15+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/76</id><title>《ELON MUSK》</title><updated>2026-11-24T08:32:19.664024+00:00</updated><content type="html"><![CDATA[<p><a href="https://en.wikipedia.org/wiki/Ashlee_Vance">阿什利·万斯 (Ashlee Vance) 专栏作家</a></p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/76"/><category term="读书笔记"/><published>2023-04-03T23:16:53+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/75</id><title>YouTube Download Video/Subtitles</title><updated>2026-11-24T08:32:19.924010+00:00</updated><content type="html"><![CDATA[<h3><a href="https://downsub.com/">下载油管字幕</a></h3>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/79"/><category term="2023"/><published>2023-07-03T15:17:05+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/78</id><title>梦里梦外</title><updated>2026-11-25T02:48:03.099990+00:00</updated><content type="html"><![CDATA[<p>深夜被打雷声惊醒，习惯性起来检查卧室厕所阳台窗关着没。听窗外的暴雨声有点兴奋，但回想到刚才的梦，我……￼ 梦里我在赶飞机，起飞后发现飞机是从山洞里面出来的，感觉哪里不对，然后飞机就变成了皮卡，同行的人一起被送进了封闭的精神病院，在进去之前，我紧张的打开手机，删了clash、tg等软件…￼</p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/78"/><category term="2023"/><published>2023-06-28T09:59:04+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/77</id><title>《The Old Man and the Sea》✔</title><updated>2026-11-25T02:48:03.341264+00:00</updated><content type="html"><![CDATA[<p>《老人与海》的作者是美国作家埃内斯特·海明威（Ernest Hemingway）。他是20世纪最重要和最具影响力的作家之一，被誉为现代主义文学的代表作家。海明威以其简练、朴素和富有力量的写作风格而闻名，他的作品常常探索战争、人类生存和意义等主题，并以其对男性形象、冒险和自由的描绘而著称。他还是诺贝尔文学奖的获得者，于1954年获得该奖项，表彰了他在文学领域的杰出贡献。海明威的作品广泛被翻译成多种语言并享有全球读者的喜爱和赞赏。</p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/77"/><category term="读书笔记"/><published>2023-05-24T23:52:15+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/76</id><title>《ELON MUSK》</title><updated>2026-11-25T02:48:03.586633+00:00</updated><content type="html"><![CDATA[<p><a href="https://en.wikipedia.org/wiki/Ashlee_Vance">阿什利·万斯 (Ashlee Vance) 专栏作家</a></p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/76"/><category term="读书笔记"/><published>2023-04-03T23:16:53+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/75</id><title>YouTube Download Video/Subtitles</title><updated>2026-11-25T02:48:03.859019+00:00</updated><content type="html"><![CDATA[<h3><a href="https://downsub.com/">下载油管字幕</a></h3>
 <p>同时支持以下平台
 <img src="https://user-images.githubusercontent.com/37278360/227685256-e4a1742b-1b3a-4472-a32c-449dbec26b8c.png" alt="image" /></p>
 <h3><a href="https://x2download.app/en67">下载油管视频</a></h3>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/75"/><category term="tool"/><published>2023-03-25T02:53:55+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/74</id><title>What Happens to Gas Stations When the World Goes Electric? | Emily Grubert | TED</title><updated>2026-11-24T08:32:20.165536+00:00</updated><content type="html"><![CDATA[<p><a href="https://api.woodpeckerlearning.com/v4/assets/share/FQQE3rB8Uc0/Video/0">https://api.woodpeckerlearning.com/v4/assets/share/FQQE3rB8Uc0/Video/0</a></p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/74"/><category term="TEDTalk"/><published>2023-03-25T00:01:04+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/73</id><title>《ArcGIS From Basics To Practice》</title><updated>2026-11-24T08:32:20.411191+00:00</updated><content type="html"><![CDATA[<p>《ArcGIS 地理信息系统：从基础到实践》 闫磊 张海龙·编著</p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/75"/><category term="tool"/><published>2023-03-25T02:53:55+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/74</id><title>What Happens to Gas Stations When the World Goes Electric? | Emily Grubert | TED</title><updated>2026-11-25T02:48:04.132967+00:00</updated><content type="html"><![CDATA[<p><a href="https://api.woodpeckerlearning.com/v4/assets/share/FQQE3rB8Uc0/Video/0">https://api.woodpeckerlearning.com/v4/assets/share/FQQE3rB8Uc0/Video/0</a></p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/74"/><category term="TEDTalk"/><published>2023-03-25T00:01:04+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/73</id><title>《ArcGIS From Basics To Practice》</title><updated>2026-11-25T02:48:04.378060+00:00</updated><content type="html"><![CDATA[<p>《ArcGIS 地理信息系统：从基础到实践》 闫磊 张海龙·编著</p>
 <p><a href="https://zh.wikipedia.org/zh-cn/ArcGIS">ArcGIS</a>是由<a href="https://zh.wikipedia.org/wiki/ESRI">ESRI</a>出品的一个<a href="https://zh.wikipedia.org/wiki/%E5%9C%B0%E7%90%86%E8%B3%87%E8%A8%8A%E7%B3%BB%E7%B5%B1">地理信息系统</a>系列<a href="https://zh.wikipedia.org/wiki/%E8%BB%9F%E9%AB%94">软件</a>的总称。</p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/73"/><category term="读书笔记"/><published>2023-03-23T00:08:46+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/72</id><title>Steamship( Ship AI Faster)</title><updated>2026-11-24T08:32:20.628496+00:00</updated><content type="html"><![CDATA[<p><a href="https://github.com/nludb">Steamship GitHub</a></p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/73"/><category term="读书笔记"/><published>2023-03-23T00:08:46+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/72</id><title>Steamship( Ship AI Faster)</title><updated>2026-11-25T02:48:04.642630+00:00</updated><content type="html"><![CDATA[<p><a href="https://github.com/nludb">Steamship GitHub</a></p>
 <p><strong>The fastest way to add language AI to your project.</strong></p>
 <p><a href="https://www.steamship.com/">Official Website</a>
 <a href="https://docs.steamship.com/">Doc</a></p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/72"/><category term="2023"/><published>2023-03-19T15:12:41+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/71</id><title>Salman Amin Khan</title><updated>2026-11-24T08:32:20.855271+00:00</updated><content type="html"><![CDATA[<p><a href="https://zh.wikipedia.org/zh/%E8%96%A9%E7%88%BE%E6%9B%BC%C2%B7%E5%8F%AF%E6%B1%97">萨尔曼·阿敏·可汗</a></p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/71"/><category term="2023"/><published>2023-03-19T15:06:15+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/70</id><title>Connected Papers</title><updated>2026-11-24T08:32:21.495933+00:00</updated><content type="html"><![CDATA[<p><a href="https://www.connectedpapers.com/about">Connected Papers is a unique, visual tool to help researchers and applied scientists find and explore papers relevant to their field of work.
+]]></content><link href="https://github.com/zfy68/gitblog/issues/72"/><category term="2023"/><published>2023-03-19T15:12:41+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/71</id><title>Salman Amin Khan</title><updated>2026-11-25T02:48:05.245121+00:00</updated><content type="html"><![CDATA[<p><a href="https://zh.wikipedia.org/zh/%E8%96%A9%E7%88%BE%E6%9B%BC%C2%B7%E5%8F%AF%E6%B1%97">萨尔曼·阿敏·可汗</a></p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/71"/><category term="2023"/><published>2023-03-19T15:06:15+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/70</id><title>Connected Papers</title><updated>2026-11-25T02:48:05.469157+00:00</updated><content type="html"><![CDATA[<p><a href="https://www.connectedpapers.com/about">Connected Papers is a unique, visual tool to help researchers and applied scientists find and explore papers relevant to their field of work.
 </a></p>
 <p>Data mining: practical machine learning tools and techniques with Java implementations</p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/70"/><category term="2023"/><published>2023-03-19T15:04:02+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/69</id><title>《Silent Majority》Li Yinhe</title><updated>2026-11-24T08:32:21.703102+00:00</updated><content type="html"><![CDATA[<h3>《沉默的大多数》  <a href="https://zh.wikipedia.org/zh-hans/%E6%9D%8E%E9%93%B6%E6%B2%B3">李银河主编</a></h3>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/70"/><category term="2023"/><published>2023-03-19T15:04:02+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/69</id><title>《Silent Majority》Li Yinhe</title><updated>2026-11-25T02:48:05.704581+00:00</updated><content type="html"><![CDATA[<h3>《沉默的大多数》  <a href="https://zh.wikipedia.org/zh-hans/%E6%9D%8E%E9%93%B6%E6%B2%B3">李银河主编</a></h3>
 <h3>《沉默的大多数》  <a href="https://github.com/zfy68/gitblog/issues/68">王小波</a></h3>
 <h3>从话语中，你很少能学到人性，从沉默中却能。假如还想学得更多，那就要继续一声不吭。</h3>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/69"/><category term="读书笔记"/><published>2023-03-19T00:39:09+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/68</id><title>《Silent Majority》✔</title><updated>2026-11-24T08:32:21.952178+00:00</updated><content type="html"><![CDATA[<h3>《沉默的大多数》<a href="https://zh.wikipedia.org/zh-hans/%E7%8E%8B%E5%B0%8F%E6%B3%A2">王小波著</a></h3>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/69"/><category term="读书笔记"/><published>2023-03-19T00:39:09+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/68</id><title>《Silent Majority》✔</title><updated>2026-11-25T02:48:05.929567+00:00</updated><content type="html"><![CDATA[<h3>《沉默的大多数》<a href="https://zh.wikipedia.org/zh-hans/%E7%8E%8B%E5%B0%8F%E6%B3%A2">王小波著</a></h3>
 <h3>《沉默的大多数》<a href="https://github.com/zfy68/gitblog/issues/69">李银河主编</a></h3>
 <h3>假如有人说不思维才快乐，我只有摇头，却无话可说。</h3>
 <p><img src="https://user-images.githubusercontent.com/37278360/226149437-c8f2ffe8-1862-4a05-9f1b-394416efb66b.png" alt="image" /></p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/68"/><category term="读书笔记"/><published>2023-03-19T00:25:29+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/66</id><title>TCP粘包</title><updated>2026-11-24T08:32:22.345933+00:00</updated><content type="html"><![CDATA[<p><img src="https://user-images.githubusercontent.com/37278360/224743480-d36fd10f-816a-494f-b6f5-41e4fcd79502.jpg" alt="mmexport1678719354665.jpg" />
+]]></content><link href="https://github.com/zfy68/gitblog/issues/68"/><category term="读书笔记"/><published>2023-03-19T00:25:29+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/66</id><title>TCP粘包</title><updated>2026-11-25T02:48:06.231097+00:00</updated><content type="html"><![CDATA[<p><img src="https://user-images.githubusercontent.com/37278360/224743480-d36fd10f-816a-494f-b6f5-41e4fcd79502.jpg" alt="mmexport1678719354665.jpg" />
 <a href="https://www.jianshu.com/p/60b99f0c0dd9#1678719564556">https://www.jianshu.com/p/60b99f0c0dd9#1678719564556</a></p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/66"/><category term="2023"/><published>2023-03-13T15:09:57+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/65</id><title>What is a Vector Database?</title><updated>2026-11-24T08:32:22.591522+00:00</updated><content type="html"><![CDATA[<h3><a href="https://www.pinecone.io/learn/vector-database/">What is a Vector Database?</a></h3>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/66"/><category term="2023"/><published>2023-03-13T15:09:57+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/65</id><title>What is a Vector Database?</title><updated>2026-11-25T02:48:06.434293+00:00</updated><content type="html"><![CDATA[<h3><a href="https://www.pinecone.io/learn/vector-database/">What is a Vector Database?</a></h3>
 <p><img src="https://user-images.githubusercontent.com/37278360/224461626-a6b141ab-8e9c-43bf-9b72-b013293c9186.png" alt="image" /></p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/65"/><category term="2023"/><published>2023-03-11T03:04:03+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/64</id><title>一点想法（经济和教育）</title><updated>2026-11-24T08:32:22.825721+00:00</updated><content type="html"><![CDATA[<p><img src="https://user-images.githubusercontent.com/37278360/224459706-9662d1b3-6734-4657-beef-be027d164b49.jpg" alt="IMG_20230311_101315.jpg" /></p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/64"/><category term="2023"/><published>2023-03-11T02:14:20+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/63</id><title>cloudflare代理</title><updated>2026-11-24T08:32:23.104359+00:00</updated><content type="html"><![CDATA[<p><img src="https://user-images.githubusercontent.com/37278360/223189222-164fc97a-ae0f-4f16-b580-94b5ba4860de.png" alt="mmexport1678124611207.png" /></p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/63"/><category term="tool"/><published>2023-03-06T17:44:21+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/62</id><title>问道青城山</title><updated>2026-11-24T08:32:23.348830+00:00</updated><content type="html"><![CDATA[<p><img src="https://user-images.githubusercontent.com/37278360/222958077-e77c6efe-1e0c-4226-8f43-6e9479fb5c5f.jpg" alt="IMG_20230305_131856.jpg" /></p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/62"/><category term="2023"/><published>2023-03-05T11:35:40+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/61</id><title>《Agile Software Development Principles, Patterns, and Practices》</title><updated>2026-11-24T08:32:23.651360+00:00</updated><content type="html"><![CDATA[<p><a href="https://en.m.wikipedia.org/wiki/Robert_C._Martin">罗伯特·C·马丁</a></p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/65"/><category term="2023"/><published>2023-03-11T03:04:03+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/64</id><title>一点想法（经济和教育）</title><updated>2026-11-25T02:48:06.731747+00:00</updated><content type="html"><![CDATA[<p><img src="https://user-images.githubusercontent.com/37278360/224459706-9662d1b3-6734-4657-beef-be027d164b49.jpg" alt="IMG_20230311_101315.jpg" /></p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/64"/><category term="2023"/><published>2023-03-11T02:14:20+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/63</id><title>cloudflare代理</title><updated>2026-11-25T02:48:06.933093+00:00</updated><content type="html"><![CDATA[<p><img src="https://user-images.githubusercontent.com/37278360/223189222-164fc97a-ae0f-4f16-b580-94b5ba4860de.png" alt="mmexport1678124611207.png" /></p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/63"/><category term="tool"/><published>2023-03-06T17:44:21+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/62</id><title>问道青城山</title><updated>2026-11-25T02:48:07.133693+00:00</updated><content type="html"><![CDATA[<p><img src="https://user-images.githubusercontent.com/37278360/222958077-e77c6efe-1e0c-4226-8f43-6e9479fb5c5f.jpg" alt="IMG_20230305_131856.jpg" /></p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/62"/><category term="2023"/><published>2023-03-05T11:35:40+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/61</id><title>《Agile Software Development Principles, Patterns, and Practices》</title><updated>2026-11-25T02:48:07.366296+00:00</updated><content type="html"><![CDATA[<p><a href="https://en.m.wikipedia.org/wiki/Robert_C._Martin">罗伯特·C·马丁</a></p>
 <p><a href="https://www.booked.net/objectmentor">https://www.booked.net/objectmentor</a></p>
 <p><img src="https://user-images.githubusercontent.com/37278360/221445423-b5d4fa91-5487-4562-a4d0-072da46e899c.jpg" alt="1280px-Robert_C._Martin_surrounded_by_computers.jpg" /></p>
 <p>敏捷软件开发原则、模式与实践</p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/61"/><category term="读书笔记"/><published>2023-02-26T23:49:45+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/60</id><title>《THE McKINSEY WAY》original ✔</title><updated>2026-11-24T08:32:23.888774+00:00</updated><content type="html"><![CDATA[<p><a href="https://github.com/zfy68/gitblog/issues/46">《THE McKINSEY WAY》中文版</a></p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/60"/><category term="读书笔记"/><published>2023-02-25T00:59:27+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/59</id><title>Eslint,spotless,git commit template使用</title><updated>2026-11-24T08:32:24.158539+00:00</updated><content type="html"><![CDATA[<p>web : Eslint </p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/61"/><category term="读书笔记"/><published>2023-02-26T23:49:45+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/60</id><title>《THE McKINSEY WAY》original ✔</title><updated>2026-11-25T02:48:07.571386+00:00</updated><content type="html"><![CDATA[<p><a href="https://github.com/zfy68/gitblog/issues/46">《THE McKINSEY WAY》中文版</a></p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/60"/><category term="读书笔记"/><published>2023-02-25T00:59:27+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/59</id><title>Eslint,spotless,git commit template使用</title><updated>2026-11-25T02:48:07.801714+00:00</updated><content type="html"><![CDATA[<p>web : Eslint </p>
 <p>idea plugin : <a href="https://blog.csdn.net/u010020726/article/details/127704399">spotless </a></p>
 <p>idea plugin : <a href="https://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html">git commit template</a></p>
 <p><a href="https://github.com/zfy68/gitblog/files/10751084/plugin-attachment.zip">plugin-attachment.zip</a></p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/59"/><category term="help wanted"/><published>2023-02-16T01:33:36+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/58</id><title>《Karl Marx》✔</title><updated>2026-11-24T08:32:24.411842+00:00</updated><content type="html"><![CDATA[<p><a href="https://zh.wikipedia.org/zh-cn/%E5%8D%A1%E5%B0%94%C2%B7%E9%A9%AC%E5%85%8B%E6%80%9D">Karl Marx</a></p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/59"/><category term="help wanted"/><published>2023-02-16T01:33:36+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/58</id><title>《Karl Marx》✔</title><updated>2026-11-25T02:48:08.067109+00:00</updated><content type="html"><![CDATA[<p><a href="https://zh.wikipedia.org/zh-cn/%E5%8D%A1%E5%B0%94%C2%B7%E9%A9%AC%E5%85%8B%E6%80%9D">Karl Marx</a></p>
 <h3>无知和偏见都不值得炫耀，因为它们加在一起，只会阻碍你接近事物的真相。</h3>
 <p>如何读通马克思呢？
 阅读《1844年经济学哲学手稿》、《共产党宣言》、《资本论》，读通读透世界历史。</p>
 <p>张光明和罗传芳合作的《马克思传》深入探究了马克思的思想体系和生平经历，是一本富有洞见和耐人寻味的读物。这本书的内容全面系统，既包括马克思主义的理论基础，也有详实的个人经历和家庭背景的描写，从多个维度深入分析了马克思的思想和影响。</p>
 <p>《马克思传》的写作风格朴实无华，充满了深度和细节。作者们用语精准，让读者能够深刻领悟马克思主义的精髓和思想内涵。无论您是学者还是对马克思主义有兴趣的读者，这本书都能够为您提供新的思考视角和启发。除了深入介绍马克思的思想，这本书还探讨了马克思主义的演化过程和实践应用，让读者可以更全面地了解马克思主义的多样性和世界影响。</p>
 <p>总之，《马克思传》是一本值得阅读的书籍，它充分展示了作者们对马克思思想和生平的深刻研究和思考，不仅对于马克思主义的理论研究有很大的参考价值，也能够帮助读者更好地理解和把握马克思主义的精神内核。</p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/58"/><category term="读书笔记"/><published>2023-02-15T23:50:34+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/57</id><title>23年微观改变</title><updated>2026-11-24T08:32:24.632355+00:00</updated><content type="html"><![CDATA[<p>几个方面：
+]]></content><link href="https://github.com/zfy68/gitblog/issues/58"/><category term="读书笔记"/><published>2023-02-15T23:50:34+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/57</id><title>23年微观改变</title><updated>2026-11-25T02:48:08.311940+00:00</updated><content type="html"><![CDATA[<p>几个方面：
 听力，体力
 语言组织和逻辑思维
 架构和摄影</p>
@@ -588,22 +897,22 @@
 根因分析，告警聚类
 数据同化
 GIS</p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/57"/><category term="2023"/><published>2023-01-20T16:12:12+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/56</id><title>去大理</title><updated>2026-11-24T08:32:24.909543+00:00</updated><content type="html"><![CDATA[<p>👏</p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/56"/><category term="2023"/><published>2022-12-31T23:59:23+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/55</id><title>只有天空在上</title><updated>2026-11-24T08:32:25.206690+00:00</updated><content type="html"><![CDATA[<p><img src="https://user-images.githubusercontent.com/37278360/198830514-28899311-8566-41d3-a79d-443d15871068.png" alt="image" /></p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/55"/><category term="2017"/><published>2022-10-29T12:07:56+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/54</id><title>愿你以梦为马，随处可栖</title><updated>2026-11-24T08:32:25.483006+00:00</updated><content type="html"><![CDATA[<p><img src="https://user-images.githubusercontent.com/37278360/198830202-834b56b9-ac81-4e4d-9a87-f0b13cf10418.png" alt="image" /></p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/57"/><category term="2023"/><published>2023-01-20T16:12:12+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/56</id><title>去大理</title><updated>2026-11-25T02:48:08.561513+00:00</updated><content type="html"><![CDATA[<p>👏</p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/56"/><category term="2023"/><published>2022-12-31T23:59:23+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/55</id><title>只有天空在上</title><updated>2026-11-25T02:48:08.771543+00:00</updated><content type="html"><![CDATA[<p><img src="https://user-images.githubusercontent.com/37278360/198830514-28899311-8566-41d3-a79d-443d15871068.png" alt="image" /></p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/55"/><category term="2017"/><published>2022-10-29T12:07:56+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/54</id><title>愿你以梦为马，随处可栖</title><updated>2026-11-25T02:48:08.993050+00:00</updated><content type="html"><![CDATA[<p><img src="https://user-images.githubusercontent.com/37278360/198830202-834b56b9-ac81-4e4d-9a87-f0b13cf10418.png" alt="image" /></p>
 <p><img src="https://user-images.githubusercontent.com/37278360/198830278-75e38677-7e23-4f96-b46a-1ee179b2454c.png" alt="image" /></p>
 <p><img src="https://user-images.githubusercontent.com/37278360/198830287-6839910c-04a8-4f3c-b069-f73a49dbf85b.png" alt="image" /></p>
 <p><img src="https://user-images.githubusercontent.com/37278360/198830418-0d3c22a3-2611-46ae-80cd-61ded272daca.png" alt="image" /></p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/54"/><category term="2015"/><published>2022-10-29T12:06:15+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/53</id><title>依旧阳光</title><updated>2026-11-24T08:32:25.762665+00:00</updated><content type="html"><![CDATA[<p><img src="https://user-images.githubusercontent.com/37278360/198829913-c5150a6b-f8b8-458b-806f-a5f7accb2b81.png" alt="image" /></p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/54"/><category term="2015"/><published>2022-10-29T12:06:15+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/53</id><title>依旧阳光</title><updated>2026-11-25T02:48:09.203111+00:00</updated><content type="html"><![CDATA[<p><img src="https://user-images.githubusercontent.com/37278360/198829913-c5150a6b-f8b8-458b-806f-a5f7accb2b81.png" alt="image" /></p>
 <p><img src="https://user-images.githubusercontent.com/37278360/198829876-5723fb63-4c4c-42ed-abe8-c76d3ded0275.png" alt="image" /></p>
 <p><img src="https://user-images.githubusercontent.com/37278360/198829884-d2ef877d-3491-44ad-ae9b-ff2206a3cf67.png" alt="image" /></p>
 <p><img src="https://user-images.githubusercontent.com/37278360/198829920-3ff4e80a-1858-444f-bbe9-12c92f57812e.png" alt="image" /></p>
 <p><img src="https://user-images.githubusercontent.com/37278360/198829927-3c59b4e5-85ff-4133-91d2-a761db9461a2.png" alt="image" /></p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/53"/><category term="2016"/><published>2022-10-29T11:55:04+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/52</id><title>《INVESTING The Last Liberal Art, Second Edition》✔</title><updated>2026-11-24T08:32:26.044934+00:00</updated><content type="html"><![CDATA[<h3>查理·芒格的智慧（原书第2版） 投资的格栅理论</h3>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/53"/><category term="2016"/><published>2022-10-29T11:55:04+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/52</id><title>《INVESTING The Last Liberal Art, Second Edition》✔</title><updated>2026-11-25T02:48:09.414298+00:00</updated><content type="html"><![CDATA[<h3>查理·芒格的智慧（原书第2版） 投资的格栅理论</h3>
 <p>投资最后的自由艺术。
 向大众传递一种简明的道理，要远胜于向少数需要写作文的人提供包罗万象的信息。</p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/52"/><category term="读书笔记"/><published>2022-10-25T14:17:52+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/51</id><title>分享问题等于解决问题的一半。</title><updated>2026-11-24T08:32:26.286368+00:00</updated><content type="html"><![CDATA[<p>😎</p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/51"/><category term="2022"/><published>2022-10-14T14:59:29+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/50</id><title>《PMP》</title><updated>2026-11-24T08:32:26.519322+00:00</updated><content type="html"><![CDATA[<h3>项目管理计划的作用</h3>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/52"/><category term="读书笔记"/><published>2022-10-25T14:17:52+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/51</id><title>分享问题等于解决问题的一半。</title><updated>2026-11-25T02:48:09.681159+00:00</updated><content type="html"><![CDATA[<p>😎</p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/51"/><category term="2022"/><published>2022-10-14T14:59:29+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/50</id><title>《PMP》</title><updated>2026-11-25T02:48:09.937358+00:00</updated><content type="html"><![CDATA[<h3>项目管理计划的作用</h3>
 <ul>
 <li>计划促进管理者展望未来，预计未来可能发生的事情，制定措施来减少实现目标过程中的不确定性</li>
 <li>计划是实施的依据和指南</li>
@@ -611,28 +920,28 @@ GIS</p>
 <li>促进交流与沟通，增加客户满意度</li>
 <li>明确自己的奋斗目标、实现目标的方法等</li>
 </ul>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/50"/><category term="读书笔记"/><published>2022-09-06T00:18:02+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/49</id><title>去国怀乡，忧谗畏讥</title><updated>2026-11-24T08:32:26.777415+00:00</updated><content type="html"><![CDATA[<p>国都，思念家乡</p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/49"/><category term="2022"/><published>2022-09-01T00:49:46+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/48</id><title>《Designing Data-Intensive Application》</title><updated>2026-11-24T08:32:27.029758+00:00</updated><content type="html"><![CDATA[<p>— <em>Martin Klwppmann</em>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/50"/><category term="读书笔记"/><published>2022-09-06T00:18:02+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/49</id><title>去国怀乡，忧谗畏讥</title><updated>2026-11-25T02:48:10.116653+00:00</updated><content type="html"><![CDATA[<p>国都，思念家乡</p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/49"/><category term="2022"/><published>2022-09-01T00:49:46+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/48</id><title>《Designing Data-Intensive Application》</title><updated>2026-11-25T02:48:10.306845+00:00</updated><content type="html"><![CDATA[<p>— <em>Martin Klwppmann</em>
 数据密集型应用系统设计
 <img src="https://user-images.githubusercontent.com/37278360/183315532-111eb2d5-da1f-4f88-9d28-d9f37099e2b8.jpg" alt="IMG_20220808_072253.jpg" /></p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/48"/><category term="读书笔记"/><published>2022-08-07T23:36:32+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/47</id><title>《Guns , Germs , and Steel》</title><updated>2026-11-24T08:32:27.249878+00:00</updated><content type="html"><![CDATA[<p>The Fates <em>of</em> Human Societies.
+]]></content><link href="https://github.com/zfy68/gitblog/issues/48"/><category term="读书笔记"/><published>2022-08-07T23:36:32+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/47</id><title>《Guns , Germs , and Steel》</title><updated>2026-11-25T02:48:10.495944+00:00</updated><content type="html"><![CDATA[<p>The Fates <em>of</em> Human Societies.
 ----Jared Diamond [贾雷德·戴蒙德]</p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/47"/><category term="读书笔记"/><published>2022-08-04T23:29:50+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/46</id><title>《THE McKINSEY WAY》✔</title><updated>2026-11-24T08:32:27.507932+00:00</updated><content type="html"><![CDATA[<h3><a href="https://github.com/zfy68/gitblog/issues/60">《THE McKINSEY WAY》英文版</a></h3>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/47"/><category term="读书笔记"/><published>2022-08-04T23:29:50+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/46</id><title>《THE McKINSEY WAY》✔</title><updated>2026-11-25T02:48:10.709833+00:00</updated><content type="html"><![CDATA[<h3><a href="https://github.com/zfy68/gitblog/issues/60">《THE McKINSEY WAY》英文版</a></h3>
 <h3>用简单的方法做复杂的事</h3>
 <h3>麦肯锡并不神秘，方法论铸就神奇</h3>
 <h3>让能力充分下沉</h3>
 <h3>让变革真实发生</h3>
 <h3>让成长得到认证</h3>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/46"/><category term="读书笔记"/><published>2022-08-01T14:04:28+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/45</id><title>《Never Give Up》 ✔</title><updated>2026-11-24T08:32:27.766718+00:00</updated><content type="html"><![CDATA[<p>永不放弃——Donald.Trump
+]]></content><link href="https://github.com/zfy68/gitblog/issues/46"/><category term="读书笔记"/><published>2022-08-01T14:04:28+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/45</id><title>《Never Give Up》 ✔</title><updated>2026-11-25T02:48:10.896658+00:00</updated><content type="html"><![CDATA[<p>永不放弃——Donald.Trump
 <img src="https://user-images.githubusercontent.com/37278360/180890644-ed4e80c6-0937-4fc0-83dc-7e0e87d2cef9.jpg" alt="IMG_20220726_071941.jpg" /></p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/45"/><category term="读书笔记"/><published>2022-07-24T22:37:00+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/44</id><title>《The Wealth of Nations (II) 》</title><updated>2026-11-24T08:32:28.025020+00:00</updated><content type="html"><![CDATA[<p><img src="https://user-images.githubusercontent.com/37278360/180890757-95bb412f-c729-44ef-8226-a0491307d096.jpg" alt="IMG_20220726_072037.jpg" /></p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/45"/><category term="读书笔记"/><published>2022-07-24T22:37:00+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/44</id><title>《The Wealth of Nations (II) 》</title><updated>2026-11-25T02:48:11.124793+00:00</updated><content type="html"><![CDATA[<p><img src="https://user-images.githubusercontent.com/37278360/180890757-95bb412f-c729-44ef-8226-a0491307d096.jpg" alt="IMG_20220726_072037.jpg" /></p>
 <h1>政治经济学的目标</h1>
 <p>第一，为人民提供丰富的收入或生活资料，或者更确切地说，使人民能为他们自己提供丰富的收入和生活资料；
 第二，为国家或联邦供应足够维持公共服务的收入。</p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/44"/><category term="读书笔记"/><published>2022-07-19T23:39:25+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/42</id><title>《West with the Night》✔</title><updated>2026-11-24T08:32:28.264441+00:00</updated><content type="html"><![CDATA[<p>《夜航西飞》 柏瑞尔·马卡姆</p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/42"/><category term="读书笔记"/><published>2022-07-10T08:54:38+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/41</id><title>《Secrets of the Temple》</title><updated>2026-11-24T08:32:28.471783+00:00</updated><content type="html"><![CDATA[<h1>资本代言人：揭开世界央行的神秘面纱</h1>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/44"/><category term="读书笔记"/><published>2022-07-19T23:39:25+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/42</id><title>《West with the Night》✔</title><updated>2026-11-25T02:48:11.291564+00:00</updated><content type="html"><![CDATA[<p>《夜航西飞》 柏瑞尔·马卡姆</p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/42"/><category term="读书笔记"/><published>2022-07-10T08:54:38+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/41</id><title>《Secrets of the Temple》</title><updated>2026-11-25T02:48:11.509555+00:00</updated><content type="html"><![CDATA[<h1>资本代言人：揭开世界央行的神秘面纱</h1>
 <p><strong>您不是在领导这个国家，您只是在管理这个政府。</strong></p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/41"/><category term="读书笔记"/><published>2022-05-15T22:50:51+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/40</id><title>《Thinking fast and slow》✔</title><updated>2026-11-24T08:32:28.696887+00:00</updated><content type="html"><![CDATA[<h1>系统1和系统2</h1>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/41"/><category term="读书笔记"/><published>2022-05-15T22:50:51+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/40</id><title>《Thinking fast and slow》✔</title><updated>2026-11-25T02:48:11.697031+00:00</updated><content type="html"><![CDATA[<h1>系统1和系统2</h1>
 <p><strong>行为与注意力</strong></p>
 <ul>
 <li>系统1的运行是无意识且快速的，不怎么费脑力，没有感觉，完全处于自主控制状态。</li>
@@ -650,28 +959,28 @@ GIS</p>
 <p>无形的神是物质世界所有现象的最终原因，而不死的灵魂只是在我们活着时暂时控制我们的躯体，我们死后，灵魂将离开躯体。</p>
 <p>在理解一个陈述之前，一定会先试图相信它：如果这个陈述正确的话，你必须先了解它的观点究竟是什么意思。只有这样，你才能决定是否“怀疑”它。</p>
 <p><strong>当人们劳累或是精力耗尽时，更容易受那些空洞却有说服力的信息影响，例如广告。</strong></p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/40"/><category term="读书笔记"/><published>2022-04-25T04:08:15+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/39</id><title>war is over</title><updated>2026-11-24T08:32:28.930952+00:00</updated><content type="html"><![CDATA[<p>让自己强起来，和平年代，干架不吃亏！
+]]></content><link href="https://github.com/zfy68/gitblog/issues/40"/><category term="读书笔记"/><published>2022-04-25T04:08:15+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/39</id><title>war is over</title><updated>2026-11-25T02:48:12.351770+00:00</updated><content type="html"><![CDATA[<p>让自己强起来，和平年代，干架不吃亏！
 <img src="https://user-images.githubusercontent.com/37278360/163822778-a97b5a5f-7508-4d0c-b209-bc1886bb40ed.jpg" alt="IMG_20220414_000122.jpg" /></p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/39"/><category term="2022"/><published>2022-04-18T14:36:13+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/37</id><title>崩了</title><updated>2026-11-24T08:32:29.625604+00:00</updated><content type="html"><![CDATA[<p>see <a href="https://github.blog/2022-04-12-git-security-vulnerability-announced/">https://github.blog/2022-04-12-git-security-vulnerability-announced/</a></p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/39"/><category term="2022"/><published>2022-04-18T14:36:13+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/37</id><title>崩了</title><updated>2026-11-25T02:48:12.571584+00:00</updated><content type="html"><![CDATA[<p>see <a href="https://github.blog/2022-04-12-git-security-vulnerability-announced/">https://github.blog/2022-04-12-git-security-vulnerability-announced/</a></p>
 ]]></content><link href="https://github.com/zfy68/gitblog/issues/37"/><category term="bug"/><published>2022-04-14T15:13:16+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/35</id><title>
-非常时期囤货手册</title><updated>2026-11-24T08:32:29.856710+00:00</updated><content type="html"><![CDATA[<p><a href="https://docs.google.com/document/u/0/d/1-c93ax4Uog_CHTOLBKpKLNCUtZYwacGbXm8OP3Fh810/mobilebasic">https://docs.google.com/document/u/0/d/1-c93ax4Uog_CHTOLBKpKLNCUtZYwacGbXm8OP3Fh810/mobilebasic</a></p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/35"/><category term="2022"/><published>2022-04-10T11:23:53+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/34</id><title>Tie is important for men</title><updated>2026-11-24T08:32:30.132202+00:00</updated><content type="html"><![CDATA[<p>男人可以没有太多的西装，但不能没有领结。</p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/34"/><category term="2022"/><published>2022-04-10T06:39:44+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/33</id><title>我焦虑了</title><updated>2026-11-24T08:32:30.379011+00:00</updated><content type="html"><![CDATA[<p>摸肚子的肉，愈发焦虑。</p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/33"/><category term="2022"/><published>2022-03-12T13:52:43+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/32</id><title>《私はそうは思わない》✔</title><updated>2026-11-24T08:32:30.610475+00:00</updated><content type="html"><![CDATA[<p>有个无亲无故半个朋友也没有的女人，她在19岁时和一个背上有刺青的流氓结婚了。</p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/32"/><category term="读书笔记"/><published>2022-02-08T14:03:55+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/31</id><title>假期结束，2022启航！</title><updated>2026-11-24T08:32:30.830131+00:00</updated><content type="html"><![CDATA[<p><img src="https://user-images.githubusercontent.com/37278360/152895171-3ee43bcb-14a0-47bb-97bf-ce77c6ee68f3.jpeg" alt="FK6kckkUUAEmMqW.jpeg" /></p>
+非常时期囤货手册</title><updated>2026-11-25T02:48:12.807545+00:00</updated><content type="html"><![CDATA[<p><a href="https://docs.google.com/document/u/0/d/1-c93ax4Uog_CHTOLBKpKLNCUtZYwacGbXm8OP3Fh810/mobilebasic">https://docs.google.com/document/u/0/d/1-c93ax4Uog_CHTOLBKpKLNCUtZYwacGbXm8OP3Fh810/mobilebasic</a></p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/35"/><category term="2022"/><published>2022-04-10T11:23:53+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/34</id><title>Tie is important for men</title><updated>2026-11-25T02:48:12.982790+00:00</updated><content type="html"><![CDATA[<p>男人可以没有太多的西装，但不能没有领结。</p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/34"/><category term="2022"/><published>2022-04-10T06:39:44+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/33</id><title>我焦虑了</title><updated>2026-11-25T02:48:13.161997+00:00</updated><content type="html"><![CDATA[<p>摸肚子的肉，愈发焦虑。</p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/33"/><category term="2022"/><published>2022-03-12T13:52:43+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/32</id><title>《私はそうは思わない》✔</title><updated>2026-11-25T02:48:13.386870+00:00</updated><content type="html"><![CDATA[<p>有个无亲无故半个朋友也没有的女人，她在19岁时和一个背上有刺青的流氓结婚了。</p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/32"/><category term="读书笔记"/><published>2022-02-08T14:03:55+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/31</id><title>假期结束，2022启航！</title><updated>2026-11-25T02:48:13.590626+00:00</updated><content type="html"><![CDATA[<p><img src="https://user-images.githubusercontent.com/37278360/152895171-3ee43bcb-14a0-47bb-97bf-ce77c6ee68f3.jpeg" alt="FK6kckkUUAEmMqW.jpeg" /></p>
 <p>生活的乐趣源于看不透，看透了的生活或是苟活</p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/31"/><category term="2022"/><published>2022-02-08T00:32:24+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/30</id><title>归来还是少年</title><updated>2026-11-24T08:32:31.092897+00:00</updated><content type="html"><![CDATA[<p><a href="https://user-images.githubusercontent.com/37278360/152651185-522a1dd1-0643-42b2-a9d5-d3f631c75f46.mp4">https://user-images.githubusercontent.com/37278360/152651185-522a1dd1-0643-42b2-a9d5-d3f631c75f46.mp4</a></p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/31"/><category term="2022"/><published>2022-02-08T00:32:24+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/30</id><title>归来还是少年</title><updated>2026-11-25T02:48:13.828861+00:00</updated><content type="html"><![CDATA[<p><a href="https://user-images.githubusercontent.com/37278360/152651185-522a1dd1-0643-42b2-a9d5-d3f631c75f46.mp4">https://user-images.githubusercontent.com/37278360/152651185-522a1dd1-0643-42b2-a9d5-d3f631c75f46.mp4</a></p>
 <p><a href="https://user-images.githubusercontent.com/37278360/152651190-afbd9001-0c8a-4b98-b60b-0280002a57ad.mp4">https://user-images.githubusercontent.com/37278360/152651190-afbd9001-0c8a-4b98-b60b-0280002a57ad.mp4</a></p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/30"/><category term="2022"/><published>2022-02-05T17:03:59+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/29</id><title>荡秋千，喝酒不足以味人生</title><updated>2026-11-24T08:32:31.361164+00:00</updated><content type="html"><![CDATA[<p><img src="https://user-images.githubusercontent.com/37278360/152449029-19b25746-0f8f-40f6-81b2-9dbf267e035f.jpg" alt="IMG_20220203_122122.jpg" /></p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/30"/><category term="2022"/><published>2022-02-05T17:03:59+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/29</id><title>荡秋千，喝酒不足以味人生</title><updated>2026-11-25T02:48:14.031699+00:00</updated><content type="html"><![CDATA[<p><img src="https://user-images.githubusercontent.com/37278360/152449029-19b25746-0f8f-40f6-81b2-9dbf267e035f.jpg" alt="IMG_20220203_122122.jpg" /></p>
 <p><img src="https://user-images.githubusercontent.com/37278360/152449037-083ad33f-03b7-484d-b652-1d4d14ce11c1.jpg" alt="IMG_20220203_160224.jpg" /></p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/29"/><category term="2022"/><published>2022-02-03T23:57:08+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/28</id><title>踩雪</title><updated>2026-11-24T08:32:31.629927+00:00</updated><content type="html"><![CDATA[<p><img src="https://user-images.githubusercontent.com/37278360/152221900-9c49aea7-033f-4dde-be21-79adc7e83eb9.jpg" alt="IMG_20220202_174229.jpg" /></p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/29"/><category term="2022"/><published>2022-02-03T23:57:08+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/28</id><title>踩雪</title><updated>2026-11-25T02:48:14.238648+00:00</updated><content type="html"><![CDATA[<p><img src="https://user-images.githubusercontent.com/37278360/152221900-9c49aea7-033f-4dde-be21-79adc7e83eb9.jpg" alt="IMG_20220202_174229.jpg" /></p>
 <p><img src="https://user-images.githubusercontent.com/37278360/152221985-9e7f4c43-a6fc-444a-9b7c-d7e9239a3b90.jpg" alt="IMG_20220202_173146.jpg" /></p>
 <p><img src="https://user-images.githubusercontent.com/37278360/152221999-74763a6e-bcc7-42c0-8293-25872caac70b.jpg" alt="IMG_20220202_172912.jpg" /></p>
 <p><img src="https://user-images.githubusercontent.com/37278360/152222015-cf9ff76d-764c-45a7-bd07-eaaa5143f834.jpg" alt="IMG_20220202_172855.jpg" /></p>
 <p><img src="https://user-images.githubusercontent.com/37278360/152222051-9b468a40-176a-48c6-af4c-cbc08fb4a62c.jpg" alt="IMG_20220202_172758.jpg" /></p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/28"/><category term="2022"/><published>2022-02-02T19:19:48+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/27</id><title>路上皆是风景，家是终点</title><updated>2026-11-24T08:32:31.854023+00:00</updated><content type="html"><![CDATA[<p><img src="https://user-images.githubusercontent.com/37278360/151576578-0a587dff-e411-4607-a2b7-b370ab74849c.jpg" alt="IMG_20220128_081135.jpg" /></p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/28"/><category term="2022"/><published>2022-02-02T19:19:48+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/27</id><title>路上皆是风景，家是终点</title><updated>2026-11-25T02:48:14.468547+00:00</updated><content type="html"><![CDATA[<p><img src="https://user-images.githubusercontent.com/37278360/151576578-0a587dff-e411-4607-a2b7-b370ab74849c.jpg" alt="IMG_20220128_081135.jpg" /></p>
 <p><img src="https://user-images.githubusercontent.com/37278360/151576597-58ebe6bb-bf7c-4b29-8503-cf223e2b2be7.jpg" alt="IMG_20220128_172445.jpg" /></p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/27"/><category term="2022"/><published>2022-01-28T15:43:33+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/26</id><title>home，下雪啦</title><updated>2026-11-24T08:32:32.080213+00:00</updated><content type="html"><![CDATA[<p>又喝酒了，这次是煮啤酒，挺好喝，手动@fdl。</p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/27"/><category term="2022"/><published>2022-01-28T15:43:33+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/26</id><title>home，下雪啦</title><updated>2026-11-25T02:48:14.707162+00:00</updated><content type="html"><![CDATA[<p>又喝酒了，这次是煮啤酒，挺好喝，手动@fdl。</p>
 <h1>你在忙什么</h1>
 <p>出了川后，一路上都在下雪，感觉棒棒哒！但回家坐车就😓，而且昨晚水喝多了，一路上憋了三次niao，想哭！</p>
 <h1>你在吃什么</h1>
@@ -679,16 +988,16 @@ GIS</p>
 <h1>不胜酒力</h1>
 <p>约了两挚友，其实是三个，有一个被集中隔离。吃了虾尾，烤牛肉串，瓜子，花生米，凉皮，呃，我还喝了二两白酒😬。然后回酒店睡了2个半小时😂！</p>
 <p>晚上睡不着，玩了几把游戏，还睡不着，有打呼噜的，就来记录今日点滴。<img src="https://user-images.githubusercontent.com/37278360/151427415-fbdde205-c6c8-4caf-92d9-b4db1434db72.jpg" alt="IMG_20220127_165029.jpg" /></p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/26"/><category term="2022"/><published>2022-01-27T19:10:20+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/25</id><title>心中有了答案，却还要选择</title><updated>2026-11-24T08:32:32.329271+00:00</updated><content type="html"><![CDATA[<p><img src="https://user-images.githubusercontent.com/37278360/150628706-40cfb6d3-88de-4375-af48-544d39b7c888.jpg" alt="IMG_20220122_121631.jpg" /></p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/25"/><category term="2022"/><published>2022-01-22T07:05:21+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/24</id><title>友情链接</title><updated>2026-11-24T08:32:32.554960+00:00</updated><content type="html"><![CDATA[<p>这个 Issue 是友情链接的 Issue, 如果你想加到友情链接里，请在这条 Issue 上评论，我打心后会自动加到友情链接里。感谢大家。</p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/26"/><category term="2022"/><published>2022-01-27T19:10:20+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/25</id><title>心中有了答案，却还要选择</title><updated>2026-11-25T02:48:14.959035+00:00</updated><content type="html"><![CDATA[<p><img src="https://user-images.githubusercontent.com/37278360/150628706-40cfb6d3-88de-4375-af48-544d39b7c888.jpg" alt="IMG_20220122_121631.jpg" /></p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/25"/><category term="2022"/><published>2022-01-22T07:05:21+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/24</id><title>友情链接</title><updated>2026-11-25T02:48:15.194199+00:00</updated><content type="html"><![CDATA[<p>这个 Issue 是友情链接的 Issue, 如果你想加到友情链接里，请在这条 Issue 上评论，我打心后会自动加到友情链接里。感谢大家。</p>
 <p>格式如下（请参考我下面的 comment）:
 冒号为中文冒号 ：</p>
 <p>名字：xxxxxx
 链接：xxxxxx
 描述：xxxxxx</p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/24"/><category term="Friends"/><published>2022-01-17T14:52:34+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/23</id><title>RabbitMQ Consumer source code </title><updated>2026-11-24T08:32:32.778614+00:00</updated><content type="html"><![CDATA[<h3>自底向上解析 RabbitMQ 消费端的源码</h3>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/24"/><category term="Friends"/><published>2022-01-17T14:52:34+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/23</id><title>RabbitMQ Consumer source code </title><updated>2026-11-25T02:48:15.503537+00:00</updated><content type="html"><![CDATA[<h3>自底向上解析 RabbitMQ 消费端的源码</h3>
 <p>这位已写的足够细致，详细参考：<a href="https://www.modb.pro/db/138026">https://www.modb.pro/db/138026</a></p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/23"/><category term="2022"/><published>2022-01-17T14:26:06+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/22</id><title>为什么不用Docker？</title><updated>2026-11-24T08:32:33.069980+00:00</updated><content type="html"><![CDATA[<p>Docker如此优秀，为什么不使用？</p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/23"/><category term="2022"/><published>2022-01-17T14:26:06+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/22</id><title>为什么不用Docker？</title><updated>2026-11-25T02:48:15.791956+00:00</updated><content type="html"><![CDATA[<p>Docker如此优秀，为什么不使用？</p>
 <p>附带架构师推荐的书籍</p>
 <p>《敏捷软件开发 原则、模式与实践》
 《重构第一版》
@@ -697,8 +1006,8 @@ GIS</p>
 <blockquote>
 <p>这几本都不错，前两本影响最大。思维模式是构建软件系统最好的工具。</p>
 </blockquote>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/22"/><category term="2022"/><published>2022-01-14T01:23:36+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/21</id><title>科技创新让生活更美好？</title><updated>2026-11-24T08:32:33.295471+00:00</updated><content type="html"><![CDATA[<p>特别呈现｜华为云张修征：宏观经济“三重压力”下，数字化转型是“解压”关键 <a href="https://mp.weixin.qq.com/s?__biz=MjY2NzgwMjU0MA==&amp;mid=2650181564&amp;idx=6&amp;sn=14acd0827f98f42d74c2cf47a30567af&amp;chksm=af3eb77f98493e690859178eecfc5603e39c93cc51c7a34226ee158cff75456a47c84f7e2e15#rd">https://mp.weixin.qq.com/s?__biz=MjY2NzgwMjU0MA==&amp;mid=2650181564&amp;idx=6&amp;sn=14acd0827f98f42d74c2cf47a30567af&amp;chksm=af3eb77f98493e690859178eecfc5603e39c93cc51c7a34226ee158cff75456a47c84f7e2e15#rd</a></p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/21"/><category term="2022"/><published>2022-01-10T16:18:03+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/20</id><title>2021年述职汇报</title><updated>2026-11-24T08:32:33.521342+00:00</updated><content type="html"><![CDATA[<p>简单记录下收获</p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/22"/><category term="2022"/><published>2022-01-14T01:23:36+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/21</id><title>科技创新让生活更美好？</title><updated>2026-11-25T02:48:16.021928+00:00</updated><content type="html"><![CDATA[<p>特别呈现｜华为云张修征：宏观经济“三重压力”下，数字化转型是“解压”关键 <a href="https://mp.weixin.qq.com/s?__biz=MjY2NzgwMjU0MA==&amp;mid=2650181564&amp;idx=6&amp;sn=14acd0827f98f42d74c2cf47a30567af&amp;chksm=af3eb77f98493e690859178eecfc5603e39c93cc51c7a34226ee158cff75456a47c84f7e2e15#rd">https://mp.weixin.qq.com/s?__biz=MjY2NzgwMjU0MA==&amp;mid=2650181564&amp;idx=6&amp;sn=14acd0827f98f42d74c2cf47a30567af&amp;chksm=af3eb77f98493e690859178eecfc5603e39c93cc51c7a34226ee158cff75456a47c84f7e2e15#rd</a></p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/21"/><category term="2022"/><published>2022-01-10T16:18:03+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/20</id><title>2021年述职汇报</title><updated>2026-11-25T02:48:16.238385+00:00</updated><content type="html"><![CDATA[<p>简单记录下收获</p>
 <h3>沟通</h3>
 <p>有话说出来、有话好好说</p>
 <h3>规划</h3>
@@ -713,7 +1022,7 @@ GIS</p>
 <li>大数据</li>
 <li>人工智能</li>
 </ol>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/20"/><category term="2021"/><published>2022-01-10T15:24:21+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/19</id><title>ToB 和ToC 产品</title><updated>2026-11-24T08:32:33.846917+00:00</updated><content type="html"><![CDATA[<p>今天在某群里看到的这个话题，讨论激烈，吸纳并记录加深印象</p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/20"/><category term="2021"/><published>2022-01-10T15:24:21+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/19</id><title>ToB 和ToC 产品</title><updated>2026-11-25T02:48:16.449851+00:00</updated><content type="html"><![CDATA[<p>今天在某群里看到的这个话题，讨论激烈，吸纳并记录加深印象</p>
 <h3>ToB 和ToC 产品 ？</h3>
 <p>The full name of the toB is To Business that is to the merchant (generally refers to the enterprise) product.</p>
 <p>The full name of the toC is To Customer that is, the product to the consumer (generally refers to the user).</p>
@@ -727,9 +1036,9 @@ GIS</p>
 <blockquote>
 <p>ToB产品不简单，不简单主要体现在繁杂，同一套系统要满足各家不同的奇葩需求。最大的问题还是公司在业务上没有主心骨，完全被客户提出的需求驱动，自己都不晓得要在产品方向上坚持什么原则，销售侧、研发侧、交付侧彼此更是严重割裂，这混乱可想而知，架构被夹在中间就像五马分尸一样。`</p>
 </blockquote>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/19"/><category term="2022"/><published>2022-01-10T14:51:00+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/18</id><title>新年第一天-徒步爬山13公里</title><updated>2026-11-24T08:32:34.071550+00:00</updated><content type="html"><![CDATA[<p>今日和挚友相约黑山谷，爬山。<img src="https://user-images.githubusercontent.com/37278360/147848457-54f80343-0304-4986-adc3-ae70cd4624b9.jpg" alt="IMG_20220101_154110.jpg" />
+]]></content><link href="https://github.com/zfy68/gitblog/issues/19"/><category term="2022"/><published>2022-01-10T14:51:00+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/18</id><title>新年第一天-徒步爬山13公里</title><updated>2026-11-25T02:48:16.697542+00:00</updated><content type="html"><![CDATA[<p>今日和挚友相约黑山谷，爬山。<img src="https://user-images.githubusercontent.com/37278360/147848457-54f80343-0304-4986-adc3-ae70cd4624b9.jpg" alt="IMG_20220101_154110.jpg" />
 <img src="https://user-images.githubusercontent.com/37278360/147848458-fc4cbfa0-8314-4de8-b07d-e7855a374489.jpg" alt="IMG_20220101_154132.jpg" /></p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/18"/><category term="2022"/><published>2022-01-01T10:19:12+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/16</id><title>change</title><updated>2026-11-24T08:32:34.321482+00:00</updated><content type="html"><![CDATA[<ul>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/18"/><category term="2022"/><published>2022-01-01T10:19:12+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/16</id><title>change</title><updated>2026-11-25T02:48:16.937062+00:00</updated><content type="html"><![CDATA[<ul>
 <li>
 <p>上班路上了解提前量和滞后量的概念
 滞后量是相对于紧前活动，紧后活动需要提前的时间量。
@@ -743,13 +1052,13 @@ GIS</p>
 </li>
 </ul>
 <h3>调整生活节奏</h3>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/16"/><published>2021-12-28T14:26:35+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/15</id><title>merry Christmas today</title><updated>2026-11-24T08:32:34.582812+00:00</updated><content type="html"><![CDATA[<ul>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/16"/><published>2021-12-28T14:26:35+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/15</id><title>merry Christmas today</title><updated>2026-11-25T02:48:17.121330+00:00</updated><content type="html"><![CDATA[<ul>
 <li>早晨充电</li>
 <li>下午加班</li>
 </ul>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/15"/><published>2021-12-25T02:24:23+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/14</id><title>新能源</title><updated>2026-11-24T08:32:34.808205+00:00</updated><content type="html"><![CDATA[<p>一张图看懂新能源经济发展？</p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/15"/><published>2021-12-25T02:24:23+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/14</id><title>新能源</title><updated>2026-11-25T02:48:17.316837+00:00</updated><content type="html"><![CDATA[<p>一张图看懂新能源经济发展？</p>
 <p><img src="https://user-images.githubusercontent.com/37278360/147260765-767590a5-106b-419b-a7e9-396e4a2b36d8.jpg" alt="20211223_230040.jpg" /></p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/14"/><published>2021-12-24T00:15:35+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/12</id><title>《The Wealth of Nations (I) 》 ✔</title><updated>2026-11-24T08:32:35.042225+00:00</updated><content type="html"><![CDATA[<h1>论劳动工资</h1>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/14"/><published>2021-12-24T00:15:35+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/12</id><title>《The Wealth of Nations (I) 》 ✔</title><updated>2026-11-25T02:48:17.535499+00:00</updated><content type="html"><![CDATA[<h1>论劳动工资</h1>
 <p>劳动的产物构成劳动的自然报酬或自然工资。</p>
 <p>丰厚的劳动报酬既是国民财富增加的必然结果，又是国民财富增加的自然征兆。</p>
 <p>婚姻在中国受到鼓励，不是由于可以从儿童身上获利，而是由于有摧毁儿童的自由。</p>
@@ -760,21 +1069,21 @@ GIS</p>
 <p>连几天从事大量的劳动（不论是脑力方面的还是体力方面的）以后大多数人都渴望放松一下，这种欲望如果不受强力或某种巨大的必要性限制，几乎是不可抗拒的。</p>
 <p>商人和制造业者常常据以虚幻的宣传，这个最大帝国是如何的繁荣和衰落。</p>
 <p>论工资的增长必然提高许多商品的价格，工资的增加会提高价格，但工资增加的原因会降低价格。</p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/12"/><category term="读书笔记"/><published>2021-12-15T14:25:39+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/11</id><title>Log4j RCE 凑个热闹</title><updated>2026-11-24T08:32:35.268588+00:00</updated><content type="html"><![CDATA[<p>昨晚看到发的圈得知，自行Google看了源码做了下poc Demo通过。</p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/12"/><category term="读书笔记"/><published>2021-12-15T14:25:39+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/11</id><title>Log4j RCE 凑个热闹</title><updated>2026-11-25T02:48:17.761184+00:00</updated><content type="html"><![CDATA[<p>昨晚看到发的圈得知，自行Google看了源码做了下poc Demo通过。</p>
 <p><a href="https://nosec.org/m/share/4917.html">链接3安全通报</a> </p>
 <p>详细读解参考扶墙老师这篇文章<a href="https://mp.weixin.qq.com/s/TVSTdXbQSums64L3SDKGUg">Shit Happens: log4j 0day灾难始末</a> </p>
 <p>来自GitHub的warn
 <img src="https://user-images.githubusercontent.com/37278360/145501306-eb72bfbd-af43-4d76-ae73-32bd0864c489.png" alt="image" /></p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/11"/><category term="2021"/><published>2021-12-10T00:49:04+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/9</id><title>clash注册</title><updated>2026-11-24T08:32:35.516811+00:00</updated><content type="html"><![CDATA[<p><a href="https://linkhub.today/auth/register?code=H9fs">linkhub下载地址</a> </p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/9"/><category term="tool"/><published>2021-12-06T16:08:13+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/8</id><title>KMS激活工具</title><updated>2026-11-24T08:32:35.812196+00:00</updated><content type="html"><![CDATA[<p>激活Windows系统、Office软件等
+]]></content><link href="https://github.com/zfy68/gitblog/issues/11"/><category term="2021"/><published>2021-12-10T00:49:04+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/9</id><title>clash注册</title><updated>2026-11-25T02:48:17.996128+00:00</updated><content type="html"><![CDATA[<p><a href="https://linkhub.today/auth/register?code=H9fs">linkhub下载地址</a> </p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/9"/><category term="tool"/><published>2021-12-06T16:08:13+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/8</id><title>KMS激活工具</title><updated>2026-11-25T02:48:18.166284+00:00</updated><content type="html"><![CDATA[<p>激活Windows系统、Office软件等
 <a href="http://www.yishimei.cn/">KMS下载 地址</a>
 <a href="http://www.yishimei.cn/network/319.html?=microkms_17.06.25">KNS详细下载</a></p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/8"/><category term="tool"/><published>2021-12-06T10:22:55+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/7</id><title>痛苦的时候，就是成长的时候</title><updated>2026-11-24T08:32:36.058974+00:00</updated><content type="html"><![CDATA[<p>一个人既然来到这世界，就不能让自己在默默无闻中度过一生，就要让自己的人生充满绚烂和绚丽，就要轰轰烈烈干一场事业，如此，在老去的时候，回首往事，才能问心无愧，才能不负韶华。</p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/7"/><category term="2021"/><published>2021-12-04T00:52:43+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/6</id><title>迷茫的我</title><updated>2026-11-24T08:32:36.312860+00:00</updated><content type="html"><![CDATA[<h2>像是无边的黑暗穿进我心里，再也逃不出去，与世界分离</h2>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/8"/><category term="tool"/><published>2021-12-06T10:22:55+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/7</id><title>痛苦的时候，就是成长的时候</title><updated>2026-11-25T02:48:18.443486+00:00</updated><content type="html"><![CDATA[<p>一个人既然来到这世界，就不能让自己在默默无闻中度过一生，就要让自己的人生充满绚烂和绚丽，就要轰轰烈烈干一场事业，如此，在老去的时候，回首往事，才能问心无愧，才能不负韶华。</p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/7"/><category term="2021"/><published>2021-12-04T00:52:43+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/6</id><title>迷茫的我</title><updated>2026-11-25T02:48:18.632100+00:00</updated><content type="html"><![CDATA[<h2>像是无边的黑暗穿进我心里，再也逃不出去，与世界分离</h2>
 <h2>徐徐的晚风，春夏又秋冬</h2>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/6"/><category term="2020"/><published>2021-12-03T14:22:18+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/5</id><title>步入社会的我</title><updated>2026-11-24T08:32:36.546559+00:00</updated><content type="html"><![CDATA[<h2>诗人只为了一种模糊的感受、一种调调儿、一种情绪去写。</h2>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/6"/><category term="2020"/><published>2021-12-03T14:22:18+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/5</id><title>步入社会的我</title><updated>2026-11-25T02:48:18.834202+00:00</updated><content type="html"><![CDATA[<h2>诗人只为了一种模糊的感受、一种调调儿、一种情绪去写。</h2>
 <h2>在靠近海岸是穿上救生衣，但在海中央时把救生衣抛掉吧</h2>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/5"/><category term="2019"/><published>2021-12-03T14:21:03+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/4</id><title>等待已久</title><updated>2026-11-24T08:32:36.803962+00:00</updated><content type="html"><![CDATA[<p><img src="https://user-images.githubusercontent.com/37278360/144616884-06d0ffb2-0b2a-4802-9383-a0088cb5da84.png" alt="image" /></p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/5"/><category term="2019"/><published>2021-12-03T14:21:03+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/4</id><title>等待已久</title><updated>2026-11-25T02:48:19.385060+00:00</updated><content type="html"><![CDATA[<p><img src="https://user-images.githubusercontent.com/37278360/144616884-06d0ffb2-0b2a-4802-9383-a0088cb5da84.png" alt="image" /></p>
 <blockquote>
 <p>晚夜袭风几处真？星月不曾与天分。</p>
 <p>曾于秋霜相交默，未必相知心上人。</p>
@@ -805,7 +1114,7 @@ GIS</p>
 <p>灵感源于生活点滴</p>
 </blockquote>
 <p><img src="https://user-images.githubusercontent.com/37278360/144617106-7390c3b7-8adf-42a6-9c71-8fade64e9b73.png" alt="image" /></p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/4"/><category term="2018"/><published>2021-12-03T14:17:09+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/3</id><title>死亡不是终点，遗忘才是！</title><updated>2026-11-24T08:32:37.331444+00:00</updated><content type="html"><![CDATA[<h1>《梦的解析》</h1>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/4"/><category term="2018"/><published>2021-12-03T14:17:09+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/3</id><title>死亡不是终点，遗忘才是！</title><updated>2026-11-25T02:48:19.614962+00:00</updated><content type="html"><![CDATA[<h1>《梦的解析》</h1>
 <p>梦是愿望的达成。</p>
 <p><img src="https://user-images.githubusercontent.com/37278360/144618385-a7f90b34-2f90-4b65-91e7-1a0400f9d607.png" alt="image" /></p>
 <h1>《偶像的黄昏》</h1>
@@ -822,7 +1131,7 @@ GIS</p>
 <p>一个人是富还是穷，依他所能享受的生活必须品、便利品和娱乐品的程度而定。</p>
 <p>劳动是商品的真实价格，货币只是商品的名义价格。</p>
 <p><img src="https://user-images.githubusercontent.com/37278360/144618520-5e94a4df-a6d3-4900-a542-71b773096e31.png" alt="image" /></p>
-]]></content><link href="https://github.com/zfy68/gitblog/issues/3"/><category term="2021"/><published>2021-12-03T13:40:46+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/2</id><title>初来乍到</title><updated>2026-11-24T08:32:37.589629+00:00</updated><content type="html"><![CDATA[<p>私人博客从阿里云服务器搬迁成功，见2018～2021</p>
+]]></content><link href="https://github.com/zfy68/gitblog/issues/3"/><category term="2021"/><published>2021-12-03T13:40:46+00:00</published></entry><entry><id>https://github.com/zfy68/gitblog/issues/2</id><title>初来乍到</title><updated>2026-11-25T02:48:19.833540+00:00</updated><content type="html"><![CDATA[<p>私人博客从阿里云服务器搬迁成功，见2018～2021</p>
 <p>仅以此记录我的过往与未来。</p>
 <p>使用issue写博客记录，感谢 @yihong0618</p>
 ]]></content><link href="https://github.com/zfy68/gitblog/issues/2"/><category term="2021"/><published>2021-12-03T13:25:08+00:00</published></entry></feed>

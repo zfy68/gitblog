@@ -21,15 +21,22 @@ My personal blog using issues and GitHub Actions
 </table>
 
 ## 最近更新
+- [📚 待读清单](https://github.com/zfy68/gitblog/issues/101)--2026-11-25
 - [《美国儿科学会育儿百科（第七版）》](https://github.com/zfy68/gitblog/issues/100)--2026-11-24
 - [《安定此心：我当精神科医生的12000天》✓](https://github.com/zfy68/gitblog/issues/99)--2026-11-24
 - [《清算已毕：波伏瓦自传》✓](https://github.com/zfy68/gitblog/issues/98)--2026-11-24
 - [《豆豆三部曲（普通人的改命路线图）》](https://github.com/zfy68/gitblog/issues/97)--2026-11-24
-- [《第一性原理：普通人的人生高效手册》✓](https://github.com/zfy68/gitblog/issues/96)--2026-11-24
 ## 读书笔记
 
 <table>
   <tr>
+    <td align="center" width="25%" valign="top">
+      <a href="https://github.com/zfy68/gitblog/issues/101">
+        <img src="assets/placeholder-cover.png" width="120" alt="📚 待读清单"><br>
+        📚 待读清单
+      </a><br>
+      <sub>2026-11-25</sub>
+    </td>
     <td align="center" width="25%" valign="top">
       <a href="https://github.com/zfy68/gitblog/issues/100">
         <img src="https://cdn.weread.qq.com/weread/cover/24/cpPlatform_jJwozpZTRxYDFwwjZRfzck/t6_cpPlatform_jJwozpZTRxYDFwwjZRfzck.jpg" width="120" alt="《美国儿科学会育儿百科（第七版）》"><br>
@@ -57,6 +64,8 @@ My personal blog using issues and GitHub Actions
 <br>
       能确定的是，我对自己的命运非常满意，从不希望它是任何其他样子。推动我完成命运的因素，在我看来皆是幸运。
     </td>
+  </tr>
+  <tr>
     <td align="center" width="25%" valign="top">
       <a href="https://github.com/zfy68/gitblog/issues/97">
         <img src="https://cdn.weread.qq.com/weread/cover/4/cpplatform_bzgnaxrydr71c4oknntp4c/t6_cpplatform_bzgnaxrydr71c4oknntp4c1789554704.jpg" width="120" alt="《豆豆三部曲（普通人的改命路线图）》"><br>
@@ -66,8 +75,6 @@ My personal blog using issues and GitHub Actions
 <br>
       中国为什么穷？穷就穷在幼稚的思维，穷在期望救主、期望救恩的文化上，这是一个渗透到民族骨子里的价值判断体系，太可怕了。”
     </td>
-  </tr>
-  <tr>
     <td align="center" width="25%" valign="top">
       <a href="https://github.com/zfy68/gitblog/issues/96">
         <img src="https://cdn.weread.qq.com/weread/cover/41/cpplatform_tpufzthcymkybyjf83v9un/t6_cpplatform_tpufzthcymkybyjf83v9un1789358460.jpg" width="120" alt="《第一性原理：普通人的人生高效手册》✓"><br>
@@ -92,13 +99,6 @@ My personal blog using issues and GitHub Actions
         《左耳听风》传奇程序员练级攻略
       </a><br>
       <sub>2024-06-18</sub>
-    </td>
-    <td align="center" width="25%" valign="top">
-      <a href="https://github.com/zfy68/gitblog/issues/93">
-        <img src="assets/covers/issue-93.png" width="120" alt="《非暴力沟通》"><br>
-        《非暴力沟通》
-      </a><br>
-      <sub>2024-05-21</sub>
     </td>
   </tr>
 </table>
@@ -269,13 +269,14 @@ My personal blog using issues and GitHub Actions
 - [clash注册](https://github.com/zfy68/gitblog/issues/9)--2021-12-06
 - [KMS激活工具](https://github.com/zfy68/gitblog/issues/8)--2021-12-06
 ## 读书笔记
+- [📚 待读清单](https://github.com/zfy68/gitblog/issues/101)--2026-11-25
 - [《美国儿科学会育儿百科（第七版）》](https://github.com/zfy68/gitblog/issues/100)--2026-11-24
 - [《安定此心：我当精神科医生的12000天》✓](https://github.com/zfy68/gitblog/issues/99)--2026-11-24
 - [《清算已毕：波伏瓦自传》✓](https://github.com/zfy68/gitblog/issues/98)--2026-11-24
 - [《豆豆三部曲（普通人的改命路线图）》](https://github.com/zfy68/gitblog/issues/97)--2026-11-24
-- [《第一性原理：普通人的人生高效手册》✓](https://github.com/zfy68/gitblog/issues/96)--2026-11-24
 <details><summary>显示更多</summary>
 
+- [《第一性原理：普通人的人生高效手册》✓](https://github.com/zfy68/gitblog/issues/96)--2026-11-24
 - [《结构性改革》✓](https://github.com/zfy68/gitblog/issues/95)--2026-11-24
 - [《左耳听风》传奇程序员练级攻略](https://github.com/zfy68/gitblog/issues/94)--2024-06-18
 - [《非暴力沟通》](https://github.com/zfy68/gitblog/issues/93)--2024-05-21
