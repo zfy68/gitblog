@@ -21,15 +21,24 @@ My personal blog using issues and GitHub Actions
 </table>
 
 ## 最近更新
+- [《明亮的夜晚》](https://github.com/zfy68/gitblog/issues/102)--2026-11-25
 - [待读清单](https://github.com/zfy68/gitblog/issues/101)--2026-11-25
 - [《美国儿科学会育儿百科（第七版）》](https://github.com/zfy68/gitblog/issues/100)--2026-11-24
 - [《安定此心：我当精神科医生的12000天》✓](https://github.com/zfy68/gitblog/issues/99)--2026-11-24
 - [《清算已毕：波伏瓦自传》✓](https://github.com/zfy68/gitblog/issues/98)--2026-11-24
-- [《豆豆三部曲（普通人的改命路线图）》](https://github.com/zfy68/gitblog/issues/97)--2026-11-24
 ## 读书笔记
 
 <table>
   <tr>
+    <td align="center" width="25%" valign="top">
+      <a href="https://github.com/zfy68/gitblog/issues/102">
+        <img src="https://cdn.weread.qq.com/weread/cover/50/cpplatform_dzcupluzwjbcszj1zes4a9/t6_cpplatform_dzcupluzwjbcszj1zes4a91692182630.jpg" width="120" alt="《明亮的夜晚》"><br>
+        《明亮的夜晚》
+      </a><br>
+      <sub>2026-11-24 开始</sub>
+<br>
+      “男人出轨就离婚，这太不像话了。想想金女婿会有多难受吧。要想开点儿，大家都是这么活过来的。”
+    </td>
     <td align="center" width="25%" valign="top">
       <a href="https://github.com/zfy68/gitblog/issues/101">
         <img src="assets/placeholder-cover.png" width="120" alt="待读清单"><br>
@@ -55,6 +64,8 @@ My personal blog using issues and GitHub Actions
 <br>
       我们每天都在清扫看得见的垃圾，却对那些在心里腐烂的精神痛苦视而不见。
     </td>
+  </tr>
+  <tr>
     <td align="center" width="25%" valign="top">
       <a href="https://github.com/zfy68/gitblog/issues/98">
         <img src="https://cdn.weread.qq.com/weread/cover/85/cpplatform_aeadwyzdkvsbhkuashe48f/t6_cpplatform_aeadwyzdkvsbhkuashe48f1738918192.jpg" width="120" alt="《清算已毕：波伏瓦自传》✓"><br>
@@ -64,8 +75,6 @@ My personal blog using issues and GitHub Actions
 <br>
       能确定的是，我对自己的命运非常满意，从不希望它是任何其他样子。推动我完成命运的因素，在我看来皆是幸运。
     </td>
-  </tr>
-  <tr>
     <td align="center" width="25%" valign="top">
       <a href="https://github.com/zfy68/gitblog/issues/97">
         <img src="https://cdn.weread.qq.com/weread/cover/4/cpplatform_bzgnaxrydr71c4oknntp4c/t6_cpplatform_bzgnaxrydr71c4oknntp4c1789554704.jpg" width="120" alt="《豆豆三部曲（普通人的改命路线图）》"><br>
@@ -92,13 +101,6 @@ My personal blog using issues and GitHub Actions
       <sub>2026-10-14 / 2026-10-31</sub>
 <br>
       总之，在面对复杂问题的时候，掌握马克思主义辩证法的基本规律，遵循“问题—结构—对策”的逻辑分析范式，问题基本上能迎刃而解。
-    </td>
-    <td align="center" width="25%" valign="top">
-      <a href="https://github.com/zfy68/gitblog/issues/94">
-        <img src="assets/covers/issue-94.png" width="120" alt="《左耳听风》传奇程序员练级攻略"><br>
-        《左耳听风》传奇程序员练级攻略
-      </a><br>
-      <sub>2024-06-18</sub>
     </td>
   </tr>
 </table>
@@ -269,13 +271,14 @@ My personal blog using issues and GitHub Actions
 - [clash注册](https://github.com/zfy68/gitblog/issues/9)--2021-12-06
 - [KMS激活工具](https://github.com/zfy68/gitblog/issues/8)--2021-12-06
 ## 读书笔记
+- [《明亮的夜晚》](https://github.com/zfy68/gitblog/issues/102)--2026-11-25
 - [待读清单](https://github.com/zfy68/gitblog/issues/101)--2026-11-25
 - [《美国儿科学会育儿百科（第七版）》](https://github.com/zfy68/gitblog/issues/100)--2026-11-24
 - [《安定此心：我当精神科医生的12000天》✓](https://github.com/zfy68/gitblog/issues/99)--2026-11-24
 - [《清算已毕：波伏瓦自传》✓](https://github.com/zfy68/gitblog/issues/98)--2026-11-24
-- [《豆豆三部曲（普通人的改命路线图）》](https://github.com/zfy68/gitblog/issues/97)--2026-11-24
 <details><summary>显示更多</summary>
 
+- [《豆豆三部曲（普通人的改命路线图）》](https://github.com/zfy68/gitblog/issues/97)--2026-11-24
 - [《第一性原理：普通人的人生高效手册》✓](https://github.com/zfy68/gitblog/issues/96)--2026-11-24
 - [《结构性改革》✓](https://github.com/zfy68/gitblog/issues/95)--2026-11-24
 - [《左耳听风》传奇程序员练级攻略](https://github.com/zfy68/gitblog/issues/94)--2024-06-18
